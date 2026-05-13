@@ -27,6 +27,7 @@ Ghi mỗi lần đổi build, đổi difficulty, đổi gear lớn, hoặc test 
 
 ### Setup
 
+- Hypothesis:
 - Skills:
 - Key Aspects:
 - Key Uniques:
@@ -57,6 +58,7 @@ Ghi mỗi lần đổi build, đổi difficulty, đổi gear lớn, hoặc test 
 
 - Status: Verified / Community / Inference / Needs testing
 - Keep / Change / Retest:
+- Pass/fail criteria:
 - Next action:
 - Sources if used:
 ```

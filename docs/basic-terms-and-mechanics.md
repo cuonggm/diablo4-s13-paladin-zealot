@@ -28,9 +28,9 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 | Status | Nghĩa |
 |---|---|
 | `Verified` | Đã kiểm bằng nguồn chính thức như Blizzard news/patch notes hoặc tooltip trong game. |
-| `Community` | Đến từ guide/cộng đồng như Icy Veins, Wowhead, Maxroll, Mobalytics, Reddit, Discord. Dùng được nhưng cần đối chiếu sau patch. |
-| `Inference` | Suy luận từ dữ kiện đã có để áp dụng cho Paladin. Đây không phải xác nhận chính thức. |
-| `Needs testing` | Cần test trực tiếp trong game trước khi coi là khuyến nghị ổn định. |
+| `Community` | Đến từ guide/cộng đồng như Icy Veins, Wowhead, Maxroll, Mobalytics, Reddit, Discord. Dùng để tham khảo và so sánh, không phải khuôn bắt buộc. |
+| `Inference` | Suy luận từ dữ kiện đã có để áp dụng cho Paladin. Cần ghi rõ cơ chế liên quan, kỳ vọng và rủi ro; đây không phải xác nhận chính thức. |
+| `Needs testing` | Cần test trực tiếp trong game trước khi coi là khuyến nghị ổn định. Nên có tiêu chí pass/fail cụ thể. |
 
 <a id="character-progression"></a>
 ## Nhân Vật, Realm, Progression
@@ -165,6 +165,21 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 1. Xem guide cập nhật cho patch nào.
 2. Xem build dùng để làm gì: leveling, speed farm, bossing, push, Hardcore.
 3. Tìm `required items`. Nếu chưa có item bắt buộc, đừng copy y nguyên.
-4. Xem rotation và defensive layer trước khi xem damage number.
-5. Xem stat priority, rồi tạo Loot Filter theo stat đó.
-6. Test 15-30 phút và ghi lại: damage pack, damage boss, độ sống sót, resource, độ vui.
+4. Tách phần nào là dữ liệu quan sát được, phần nào là kết luận của tác giả guide.
+5. Xem rotation và defensive layer trước khi xem damage number.
+6. Xem stat priority, rồi tạo Loot Filter theo stat đó.
+7. Test 15-30 phút và ghi lại: damage pack, damage boss, độ sống sót, resource, độ vui.
+
+<a id="reason-about-builds"></a>
+## Cách Tự Suy Luận Build
+
+Không cần chờ một guide có sẵn nếu tooltip và cơ chế đã cho đủ manh mối. Dùng khung này để tạo phương án `Inference` rồi đem test:
+
+1. Chọn mục tiêu: leveling, speed farm, bossing, push, Hardcore, hoặc giữ fantasy.
+2. Chọn damage engine: skill nào giết quái chính, skill nào chỉ để setup/burst.
+3. Kiểm tra resource loop: generate Faith bằng gì, spender nào làm cạn Faith, cooldown nào gây downtime.
+4. Ghép cơ chế: ví dụ Attack Speed + nhiều hit + Crit giúp giữ `Fervor`; shield + Block + DR giúp melee sống lâu hơn.
+5. Đảm bảo đủ defense và mobility trước khi thêm damage tham lam.
+6. Chọn gear/stat theo vấn đề đang gặp, không chỉ theo bảng stat của guide.
+7. Ghi giả thuyết test: đổi gì, kỳ vọng cải thiện gì, dấu hiệu nào cho thấy thất bại.
+8. Sau test, chuyển trạng thái thành `Keep`, `Change` hoặc `Retest` trong [Testing Log](../notes/testing-log.md).

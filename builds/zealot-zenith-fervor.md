@@ -10,6 +10,8 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 Mục tiêu: build Paladin dùng `Zenith` bắt buộc, xoay quanh `Zealot Oath` / `Fervor`, đánh được pack đông lẫn elite/boss, di chuyển nhanh, và vẫn có lớp phòng thủ đủ cho melee.
 
+Triết lý: build endgame này là một giả thuyết thực chiến dựa trên cơ chế `Zealot`, `Fervor`, `Zenith`, Faith economy, defensive layer của Paladin và các guide cộng đồng để đối chiếu. Không cần bám 1:1 theo planner trên mạng nếu gear, tooltip hoặc vấn đề hiện tại chỉ ra lựa chọn khác hợp lý hơn.
+
 Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Skill Bar Mặc Định](#skill-bar-mặc-định), [Rotation Thực Chiến](#rotation-thực-chiến), rồi [Khi Nào Đổi Variant](#khi-nào-đổi-variant). Các phần gear/paragon là checklist để tinh chỉnh sau.
 
 ## Kết Luận Nhanh
@@ -22,6 +24,7 @@ Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh),
 | Theo Icy Veins, điểm yếu chính là phụ thuộc cooldown Ultimate, chậm hơn khi gear thấp và single-target yếu hơn. | Community | Nếu boss chậm, đừng tăng Torment vội; ưu tiên `Sunder`, cooldown/resource và debuff uptime. |
 | Nếu chết nhiều, giữ `Defiance Aura` và dùng 1H + shield. Nếu sống ổn, đổi `Defiance Aura` sang `Condemn` để clear pack tản nhanh hơn. | Inference | Có hai mode rõ: an toàn và farm nhanh. |
 | Build này phụ thuộc gear hơn build leveling đơn giản; đừng kỳ vọng mạnh ngay nếu thiếu crit, attack speed, cooldown/resource và Zealot aspect. | Needs testing | Cần test theo Torment hiện tại của Paladin trước khi Masterwork sâu. |
+| Nếu gear thực tế lệch guide, ưu tiên sửa vòng lặp damage/resource/defense trước khi copy Paragon hoặc Mythic setup. | Inference | Build tốt là build giải quyết vấn đề đang gặp, không phải bản giống planner nhất. |
 
 Sources:
 
@@ -46,6 +49,20 @@ Tên build: `Paladin - Zealot Zenith Fervor`
 | Mức gear | Trung bình đến cao |
 
 Điểm quan trọng: đừng biến build này thành `Zeal` thuần. `Zeal` ở đây là nền để giữ nhịp khi `Zenith` chưa vào window tốt. Khi đã có đủ cooldown/attack speed/aspect, phần lớn quyết định kill elite/boss phải đến từ `Zenith`.
+
+## Nguyên Tắc Tự Điều Chỉnh
+
+Mỗi chỉnh sửa nên bắt đầu từ một câu hỏi thực chiến, không bắt đầu từ tier list:
+
+| Câu hỏi | Nếu câu trả lời là có | Hướng chỉnh |
+|---|---|---|
+| Boss/elite sống quá lâu? | `Zenith` không đủ burst hoặc window bị lệch buff | Ưu tiên `Sunder`, cooldown, crit window, debuff uptime, weapon damage |
+| Pack thường tản và mất thời gian? | Damage có nhưng không gom được mục tiêu | Thử `Condemn`, `Falling Star`, AoE modifier hoặc đổi cách engage |
+| Chết trước khi kịp burst? | Defense không đủ cho melee | Giữ `Defiance Aura`, 1H + shield, Life/Armor/Resistance/DR trước damage |
+| Rotation bị khựng? | Faith hoặc cooldown không đủ | Giảm spender phụ, thêm resource/Attack Speed/CDR, giữ skill generate nếu cần |
+| Build giống guide nhưng vẫn yếu? | Gear/affix chưa đạt điều kiện guide | Hạ Torment, sửa stat nền, dùng phương án thay thế thay vì copy tiếp |
+
+Một variant tự suy luận chỉ đáng giữ nếu sau 15-30 phút test nó cải thiện đúng vấn đề ban đầu mà không làm hỏng hai trụ cột khác: sống sót và nhịp rotation.
 
 ## Skill Bar Mặc Định
 

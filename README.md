@@ -63,6 +63,8 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 - Giữ thuật ngữ game bằng tiếng Anh, kèm ghi chú tiếng Việt khi thuật ngữ quan trọng.
 - Không đổi build chỉ vì thấy tier list mới. Chỉ đổi khi bạn hiểu vấn đề đang gặp: thiếu damage, thiếu sống sót, thiếu resource, thiếu mobility, hoặc không thích gameplay.
+- Không bắt buộc đi theo build có sẵn trên mạng. Guide cộng đồng dùng để tham khảo, so sánh và bắt lỗi suy luận; quyết định cuối cùng có thể đến từ tooltip, cơ chế game và kết quả test.
+- Khi tự chỉnh build, luôn ghi lại giả thuyết: đổi skill/item nào, cơ chế nào được kỳ vọng tương tác, vấn đề nào cần giải quyết, và test bao lâu thì kết luận.
 - Mỗi buổi chơi nên có một mục tiêu nhỏ: lên level, kiếm Aspect, sửa defense, test rotation, farm boss key, nâng Glyph, hoặc tối ưu Loot Filter.
 - Mọi khuyến nghị về Season 13 cần được xem lại khi có patch mới.
 - Khi thấy trạng thái `Verified`, `Community`, `Inference`, `Needs testing`, đọc ý nghĩa tại [Glossary - Trạng thái nguồn](docs/basic-terms-and-mechanics.md#source-status).

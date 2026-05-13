@@ -12,6 +12,8 @@ Mục tiêu: leveling Paladin theo đúng yêu cầu hiện tại: phải dùng 
 
 Ghi chú: trước khi mở được Ultimate, build chỉ là giai đoạn "chuẩn bị cho Zenith". Khi `Zenith` mở, skill bar mới đúng bản build này.
 
+Triết lý: bản này không phải copy 1:1 từ một guide có sẵn. Guide cộng đồng được dùng để đối chiếu skill và điểm yếu, còn lựa chọn cuối cùng dựa trên mục tiêu `Zealot + Zenith`, tooltip skill, cơ chế `Fervor`, nhu cầu leveling và kết quả test.
+
 Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Skill Tree Setup Theo Game](#skill-tree-setup-theo-game), [Rotation](#rotation), rồi [Gear Và Stat Priority](#gear-và-stat-priority). Các phần mô tả skill bên dưới là reference để tra khi cần.
 
 ## Kết Luận Nhanh
@@ -23,6 +25,7 @@ Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh)
 | [`Fervor`](../docs/basic-terms-and-mechanics.md#paladin) vẫn là cơ chế chính: Zealot hit nhiều, crit nhiều, giữ Fervor tốt thì clear pack mượt hơn và có Fortify khi đạt max Fervor. | Verified + Community | Build càng đánh liên tục càng mạnh, nên tránh downtime do thiếu Faith hoặc chạy quá xa pack. |
 | Leveling nên ưu tiên `Sunder` cho Zenith nếu boss/elite chậm; dùng `Empyrean Edge` nếu farm thấp và cần tốc độ. | Community + Inference | `Sermon of Steel` để dành giai đoạn gần endgame khi đã có Attack Speed/CDR tốt. |
 | Khi đạt level 70 và đủ gear/resource, chuyển sang build endgame bằng cách thay `Advance -> Falling Star`. | Inference | Đây là điểm chuyển rõ từ leveling sang `Zealot Zenith Fervor` endgame. |
+| Có thể thay skill/variant nếu tooltip hoặc gear hiện tại giải quyết vấn đề tốt hơn guide cộng đồng. | Inference + Needs testing | Ghi giả thuyết vào Testing Log trước khi kết luận mạnh/yếu. |
 
 Sources:
 
@@ -74,6 +77,20 @@ Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith
 | `Ultimate` | `Zenith` | Burst pack dày, elite, boss phase | Bắt buộc theo yêu cầu build |
 
 Đây là bản nên chơi trong leveling vì `Advance` giải quyết hai vấn đề lớn: thiếu Faith và thiếu khả năng bám mục tiêu. Bản endgame có thể bỏ Basic, nhưng leveling bỏ `Advance` quá sớm thường làm rotation khựng.
+
+### Khung Suy Luận Khi Muốn Đổi Skill
+
+Không đổi vì guide khác nói mạnh hơn; đổi vì một vấn đề cụ thể:
+
+| Vấn đề | Suy luận hợp lý | Test nhanh |
+|---|---|---|
+| Cạn Faith | Giữ `Advance`, nâng `Rally`, ưu tiên resource/Attack Speed thay vì thêm spender mới | 15 phút Helltide/Whispers, đếm số lần phải đánh chay |
+| Pack thường chết chậm | Nâng `Zeal`, thêm modifier nhiều hit/AoE, hoặc dùng `Condemn` nếu cần gom quái | So thời gian clear 3 pack đông liên tiếp |
+| Elite/boss chậm | Dùng `Sunder`, giữ buff `Fanaticism Aura` cho burst window, kiểm tra weapon item power | Test 3 elite hoặc 1 boss cùng difficulty |
+| Chết khi lao vào | Giữ `Defiance Aura`, dùng 1H + shield, thêm Life/Armor/Resistance trước khi thêm damage | Test pack elite có CC/burst |
+| Map chạy chậm | Thử `Empyrean Edge` hoặc thêm `Falling Star`, nhưng chỉ khi không chết và không thiếu Faith | Chạy 1 vòng Whispers/Helltide thấp |
+
+Kết luận sau test nên ghi `Inference` nếu mới có lý thuyết, `Needs testing` nếu chưa đủ số lần thử, và chỉ giữ lâu dài nếu vấn đề ban đầu thật sự giảm.
 
 ### Tác Dụng Nhanh Của Skill Chính
 

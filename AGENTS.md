@@ -13,6 +13,9 @@ Mục tiêu của agent là tổng hợp thông tin đáng tin cậy, chuyển h
 - Có thể tham khảo nguồn cộng đồng như Maxroll, Icy Veins, Mobalytics, Wowhead, YouTube creator, Discord/community post, nhưng phải ghi rõ đây là phân tích của cộng đồng.
 - Không giả định Paladin là class chính thức nếu chưa có xác nhận. Nếu Paladin chỉ là concept, mod, tên roleplay, hoặc build fantasy, phải ghi rõ trong tài liệu.
 - Tách bạch giữa dữ liệu đã xác minh, suy luận, và đề xuất thử nghiệm.
+- Không xem build guide cộng đồng là khuôn bắt buộc. Guide trên mạng chỉ là baseline để đối chiếu, không thay thế việc đọc tooltip, hiểu cơ chế và test thực tế.
+- Agent được phép tự suy luận build hoặc variant dựa trên mô tả skill, class mechanic, item, Aspect, Unique, Talisman, Paragon và vấn đề thực tế của nhân vật.
+- Khi đưa ra phương án tự suy luận, phải ghi rõ chuỗi lý do: cơ chế nào tương tác với cơ chế nào, kỳ vọng giải quyết vấn đề gì, điều kiện để hoạt động, rủi ro chính và cách test.
 - Không sao chép nguyên văn build guide dài; hãy tóm tắt, dẫn nguồn, và biến thông tin thành checklist/thực hành riêng cho dự án.
 
 ## Phạm vi cần nghiên cứu
@@ -67,6 +70,8 @@ Mỗi build nên có cấu trúc:
 - Paragon boards/glyphs ở mức tổng quan.
 - Điều kiện để build hoạt động tốt.
 - Phương án thay thế khi chưa có đồ hiếm.
+- Lý do suy luận nếu build/variant không lấy trực tiếp từ guide cộng đồng.
+- Rủi ro cần test: damage boss, clear pack, sống sót, resource, cooldown, cảm giác điều khiển.
 
 ## Định dạng tài liệu nên tạo
 
@@ -87,6 +92,7 @@ Mỗi kết luận quan trọng phải có:
 - Ngày kiểm tra thông tin.
 - Nguồn tham khảo nếu có.
 - Tác động đến Paladin: nên dùng, nên tránh, hay cần test thêm.
+- Nếu là `Inference` hoặc `Needs testing`, phải có giả thuyết test ngắn gọn và tiêu chí pass/fail.
 
 Ví dụ:
 
@@ -108,6 +114,7 @@ Ví dụ:
 - Đã nêu điều kiện cần có để build hoạt động.
 - Đã có phương án thay thế khi thiếu unique/aspect.
 - Đã tách riêng thông tin đã xác minh và suy luận.
+- Nếu khác guide cộng đồng, đã giải thích vì sao khác và cần test gì.
 - Đã ghi ngày cập nhật.
 
 ## Phong cách viết
