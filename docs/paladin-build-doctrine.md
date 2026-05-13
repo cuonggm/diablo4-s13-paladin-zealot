@@ -58,6 +58,47 @@ Với hướng `Zealot + Zenith`, dự án không xem 6 slot là bất biến. N
 
 Tên chế độ chỉ để ghi log và ra quyết định nhanh. Nếu tooltip/gear thực tế nói khác, ưu tiên test trong game.
 
+## Nguyên Tắc Chuyển Mode Mượt
+
+Mục tiêu là đổi ít nhất có thể để cảm giác tay, gear và rotation không bị vỡ. Khi cần đổi, chỉ đổi 1 trục trong một lần test: skill slot, `Zenith` variant, gear package hoặc difficulty.
+
+| Lõi giữ nguyên | Vì sao giữ |
+|---|---|
+| `Zealot Oath` | Giữ toàn bộ logic `Fervor`, crit echo và Fortify. |
+| `Zeal` | Giữ damage nền và nhịp Fervor khi `Zenith` chưa vào window. |
+| `Zenith` | Giữ fantasy và burst engine chính của hai build. |
+| `Fanaticism Aura` | Giữ Attack Speed/Crit/debuff window ổn định. |
+| `Rally` | Giữ tempo, Faith support và cảm giác chạy map. |
+| `Fervor Engine` gear package | Giúp mọi mode dùng chung một nền stat/Aspect. |
+
+| Từ mode | Sang mode | Đổi ít nhất | Khi dùng |
+|---|---|---|---|
+| `Iron Pilgrim` | `Bellringer` | `Defiance Aura -> Condemn` | Leveling bị pack tản, đã đủ sống. |
+| `Iron Pilgrim` | `Star Pilgrim` | `Defiance Aura -> Falling Star` | Leveling content dễ, muốn chạy nhanh hơn. |
+| `Iron Pilgrim` | `Aegis Pilgrim` | Giữ bar chính, thêm `Aegis` ở slot tạm/flex nếu đang có | Leveling đau, cần shield/Block/Unstoppable hơn tốc độ. |
+| `Iron Pilgrim` | `Zenith Sentinel` | `Advance -> Falling Star` | Sang endgame khi Faith và mobility đã đủ. |
+| `Zenith Sentinel` | `Condemn Harvester` | `Defiance Aura -> Condemn` | Farm pack đông, cần pull/stun. |
+| `Zenith Sentinel` | `Aegis Bulwark` | `Falling Star -> Aegis` | Push, boss lạ, Hardcore, hoặc chết vì burst. |
+| `Zenith Sentinel` | `Sunder Duelist` | Chỉ đổi `Zenith` variant sang `Sunder` | Boss/elite là nút nghẽn, không muốn đảo skill bar. |
+| `Condemn Harvester` | `Zenith Sentinel` | `Condemn -> Defiance Aura` | Rollback an toàn nếu chết hoặc bị CC. |
+| `Aegis Bulwark` | `Zenith Sentinel` | `Aegis -> Falling Star` | Quay lại farm khi đã sống ổn. |
+
+Quy tắc rollback: trước khi test mode mới, ghi mode cũ, skill bị đổi và lý do đổi. Nếu mode mới làm chết nhiều hơn, cạn Faith hơn hoặc clear không nhanh hơn sau 15-30 phút, quay lại mode cũ thay vì tiếp tục sửa thêm nhiều thứ cùng lúc.
+
+## Loadout Chung Dễ Chuyển
+
+Để chuyển mode tiện, ưu tiên giữ một bộ gear nền dùng được cho nhiều tình huống:
+
+| Nhóm | Nên giữ chung | Chỉ đổi khi cần |
+|---|---|---|
+| Weapon | Item power cao, damage type khớp `Zeal`/`Zenith`, crit/attack speed nếu có | 2H cho farm dễ, 1H + shield khi cần sống. |
+| Jewelry | Resistance đủ cap, CDR/resource/crit nếu roll tốt | Gem/rune thiên damage khi đã đủ defense. |
+| Aspects | `Fervor Engine`, Zealot/Fervor/Zenith support, một defensive aspect ổn định | Pull/CC aspect cho `Harvester`, shield/Block aspect cho `Bulwark`. |
+| Tempering | Crit, Attack Speed, resource, CDR, Life/Armor/Resistance nền | Chỉ min-max theo mode sau khi đã xác nhận mode đáng giữ. |
+| Paragon | Node/glyph giúp crit, Zealot, Physical/Ultimate và survival nền | Không respec sâu chỉ để test một mode ngắn. |
+
+Nguyên tắc tiện lợi: skill slot là công tắc nhanh, gear là nền ổn định. Đừng đổi cả skill bar, gear, Paragon và difficulty trong cùng một lần test vì sẽ không biết thứ nào thật sự hiệu quả.
+
 ## Cách Khác Guide Truyền Thống
 
 - Guide truyền thống thường bắt đầu từ planner hoàn chỉnh; dự án này bắt đầu từ vấn đề đang gặp.

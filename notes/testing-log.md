@@ -20,7 +20,9 @@ Ghi mỗi lần đổi build, đổi difficulty, đổi gear lớn, hoặc test 
 - Realm:
 - Difficulty/Torment:
 - Build:
+- Previous mode:
 - Mode tested:
+- Changed slots:
 - Main Skill:
 - Oath/Class Mechanic:
 - Activity tested:
@@ -60,6 +62,7 @@ Ghi mỗi lần đổi build, đổi difficulty, đổi gear lớn, hoặc test 
 - Status: Verified / Community / Inference / Needs testing
 - Keep / Change / Retest:
 - Pass/fail criteria:
+- Rollback plan:
 - Next action:
 - Sources if used:
 ```

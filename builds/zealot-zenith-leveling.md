@@ -555,6 +555,20 @@ Endgame:  Zeal / Zenith / Fanaticism Aura / Defiance Aura / Rally / Falling Star
 
 Nếu bỏ `Advance` mà thấy thiếu Faith hoặc hụt nhịp bám boss, quay lại bản leveling thêm vài level/gear.
 
+### Lộ Trình Chuyển Mượt
+
+Không chuyển toàn bộ build trong một lần nếu đang chơi ổn. Dùng các bước nhỏ để giữ cảm giác tay:
+
+| Bước | Đổi gì | Điều kiện giữ lại | Rollback |
+|---|---|---|---|
+| 1 | `Iron Pilgrim -> Star Pilgrim`: `Defiance Aura -> Falling Star` | Clear nhanh hơn và không chết vì CC/burst | Quay lại `Defiance Aura` |
+| 2 | `Iron Pilgrim -> Bellringer`: `Defiance Aura -> Condemn` | Pack gom tốt hơn, Zenith trúng nhiều mục tiêu hơn | Quay lại `Defiance Aura` |
+| 3 | Bản chuyển tiếp endgame: `Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith` giữ nguyên gear, chỉ nâng stat endgame | Faith vẫn mượt, elite chết ổn | Chưa cần bỏ `Advance` |
+| 4 | `Advance -> Falling Star` để thành `Zenith Sentinel` | Không còn thiếu Faith, không hụt bám boss, mobility tốt hơn | Đổi lại `Advance` |
+| 5 | Sau khi Sentinel ổn, mới test `Condemn Harvester`, `Aegis Bulwark` hoặc `Sunder Duelist` | Mode mới giải quyết đúng vấn đề | Quay lại `Zenith Sentinel` |
+
+Ưu tiên giữ chung gear `Fervor Engine`, crit/attack speed, resource và defense nền trong suốt quá trình. Chỉ đổi skill slot trước; gear/paragon chỉ tối ưu sau khi mode mới thật sự đáng giữ.
+
 ## Dấu Hiệu Build Đang Đúng
 
 - Pack thường chết bằng `Advance + Zeal`, không cần Zenith mỗi lần.

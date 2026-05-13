@@ -253,6 +253,27 @@ Pack thường không nên bắt bạn dùng đủ mọi cooldown. Nếu pack nh
 | Hay cạn Faith | Ưu tiên Rally/resource affix; nếu vẫn khựng, tạm đổi `Falling Star -> Advance` để có Basic generator. |
 | Farm thấy chậm | Dùng `Empyrean Edge` hoặc giữ `Falling Star`, thêm Movement Speed, giảm bớt defensive thừa ở content thấp. |
 
+## Bản Đồ Chuyển Mode Nhanh
+
+Giữ `Zeal / Zenith / Fanaticism Aura / Rally` làm lõi. Khi đổi mode, chỉ thay một công tắc rồi test:
+
+| Mục tiêu mới | Từ mode ổn định | Công tắc đổi | Không đổi |
+|---|---|---|---|
+| Farm pack đông nhanh hơn | `Zenith Sentinel` | `Defiance Aura -> Condemn` | Gear nền, `Falling Star`, `Rally`, Zenith variant nếu boss không phải vấn đề |
+| Push/boss lạ an toàn hơn | `Zenith Sentinel` | `Falling Star -> Aegis` | `Defiance Aura`, shield/defense package nếu đã có |
+| Boss/elite burst rõ hơn | `Zenith Sentinel` hoặc `Aegis Bulwark` | `Zenith variant -> Sunder` | Skill bar còn lại |
+| Speed farm content dễ | `Zenith Sentinel` | `Zenith variant -> Empyrean Edge` hoặc thêm Movement Speed | Defensive skill nếu đang học content |
+| Faith bị khựng | Bất kỳ mode nào | Tạm `Falling Star -> Advance` hoặc thêm resource support | Đừng đổi luôn `Zeal`/`Zenith` |
+| Chết sau khi đổi farm mode | `Condemn Harvester` | `Condemn -> Defiance Aura` | Giữ gear vừa test để xác nhận nguyên nhân là skill slot |
+
+Thứ tự thao tác tiện lợi:
+
+1. Ghi mode hiện tại và mode muốn test vào [Testing Log](../notes/testing-log.md).
+2. Đổi đúng một skill slot hoặc một `Zenith` variant.
+3. Chạy cùng activity/difficulty trong 15-30 phút.
+4. Nếu pass, mới chỉnh gear/package theo mode.
+5. Nếu fail, rollback công tắc vừa đổi, không respec lan rộng.
+
 ## Điều Kiện Build Hoạt Động Tốt
 
 - `Fervor` không rơi mất quá thường xuyên trong chuỗi combat.

@@ -89,7 +89,17 @@ Tạo Loot Filter 3 tầng:
 
 ## Khi Nào Nên Đổi Build
 
-Đổi build nếu có ít nhất 2 điều sau:
+Trước khi đổi build lớn, thử chuyển mode nhỏ trước. Nếu đang chơi `Zealot Zenith`, ưu tiên đổi 1 slot theo [Paladin Build Doctrine](paladin-build-doctrine.md):
+
+| Vấn đề | Thử chuyển trước |
+|---|---|
+| Pack tản, clear mất nhịp | `Iron Pilgrim -> Bellringer` hoặc `Zenith Sentinel -> Condemn Harvester` |
+| Chết vì CC/burst | `Zenith Sentinel -> Aegis Bulwark`, hoặc quay lại `Iron Pilgrim` nếu đang leveling |
+| Boss/elite chậm | Giữ skill bar, thử `Sunder Duelist` trước khi đổi build |
+| Speed farm chậm nhưng không chết | `Iron Pilgrim -> Star Pilgrim`, hoặc test `Empyrean Edge` |
+| Faith bị khựng | Tạm giữ/đưa lại `Advance`, thêm resource support, đừng đổi cả build ngay |
+
+Chỉ đổi build lớn nếu có ít nhất 2 điều sau:
 
 - Đã sửa gear cơ bản nhưng vẫn yếu.
 - Rotation không vui sau 2-3 buổi chơi.
