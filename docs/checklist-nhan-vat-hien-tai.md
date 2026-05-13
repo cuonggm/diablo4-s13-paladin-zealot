@@ -1,13 +1,13 @@
-# Current Character Checklist
+# Checklist Nhân Vật Hiện Tại
 
 Checked: 2026-05-13
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Gameplay Roadmap](gameplay-roadmap.md), [Glossary](basic-terms-and-mechanics.md), [Paladin Build Doctrine](paladin-build-doctrine.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Testing Log](../notes/testing-log.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Lộ Trình Chơi](lo-trinh-choi.md), [Thuật Ngữ](thuat-ngu-va-co-che.md), [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
 
-File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên làm gì tiếp. Đừng sửa mọi thứ cùng lúc; chọn vấn đề lớn nhất rồi sửa trước. Nếu cách sửa khác guide cộng đồng nhưng hợp logic, ghi giả thuyết rồi test như trong [Paladin Build Doctrine](paladin-build-doctrine.md).
+File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên làm gì tiếp. Đừng sửa mọi thứ cùng lúc; chọn vấn đề lớn nhất rồi sửa trước. Nếu cách sửa khác guide cộng đồng nhưng hợp logic, ghi giả thuyết rồi test như trong [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md).
 
 ## Chẩn Đoán Nhanh
 
@@ -18,7 +18,7 @@ File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên 
 | Chết bất ngờ | Thiếu Armor/Resistance/DR, không có Unstoppable, đứng trong ground effect | Sửa defense trước damage; thêm defensive skill và gem phù hợp. |
 | Hết resource liên tục | Core Skill quá tốn, thiếu generator, thiếu resource affix/modifier | Thêm Basic/Resource generation, giảm spam, tìm Aspect/resource stat. |
 | Chạy chậm, farm mệt | Thiếu Movement Speed, Mobility skill, cooldown lệch | Thêm mobility, boots movement, dùng War Plans để giảm thời gian di chuyển. |
-| Rối vì quá nhiều đồ | Chưa có [Loot Filter](basic-terms-and-mechanics.md#season-13-systems), chưa biết stat cần | Tạo filter đơn giản theo build hiện tại. |
+| Rối vì quá nhiều đồ | Chưa có [Loot Filter](thuat-ngu-va-co-che.md#season-13-systems), chưa biết stat cần | Tạo filter đơn giản theo build hiện tại. |
 | Không vui dù vẫn mạnh | Rotation không hợp sở thích | Đổi sang build cùng class nhưng khác fantasy trước khi reroll class. |
 
 ## Quy Tắc 5 Phút Trước Khi Vào Game
@@ -29,7 +29,7 @@ File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên 
 4. Có cần giảm difficulty để farm nhanh hơn không?
 5. Kết quả mong muốn sau buổi chơi là gì?
 
-## Nếu Đang Leveling
+## Nếu Đang Lên Cấp
 
 | Mốc | Câu hỏi | Nếu câu trả lời là không |
 |---|---|---|
@@ -40,7 +40,7 @@ File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên 
 | 50-70 | Có Loot Filter chưa? | Tạo filter giữ item đúng rarity/GA/stat/build. |
 | 50-70 | Có Paragon/Glyph định hướng chưa? | Chọn node/glyph hỗ trợ damage type và defense của build. |
 
-## Nếu Đang Ở Endgame
+## Nếu Đang Ở Cuối Game
 
 ### Thiếu Damage
 
@@ -80,7 +80,7 @@ Tạo Loot Filter 3 tầng:
 
 | Vấn đề | Kiểm tra |
 |---|---|
-| Thiếu [Faith](basic-terms-and-mechanics.md#paladin) | Basic Skill, Rally, modifier resource, Talisman/Aspect resource. |
+| Thiếu [Faith](thuat-ngu-va-co-che.md#paladin) | Basic Skill, Rally, modifier resource, Talisman/Aspect resource. |
 | Thiếu defense | Defiance Aura, Aegis, Fortress, shield/block, Armor/Resistance. |
 | Clear chậm | Blessed Hammer/Blessed Shield/Condemn/Spear of the Heavens có đủ AoE không? |
 | Boss chậm | Judicator/Judgement, Divine Lance, Zeal, single-target modifier. |
@@ -89,7 +89,7 @@ Tạo Loot Filter 3 tầng:
 
 ## Khi Nào Nên Đổi Build
 
-Trước khi đổi build lớn, thử chuyển mode nhỏ trước. Nếu đang chơi `Zealot Zenith`, ưu tiên đổi 1 slot theo [Paladin Build Doctrine](paladin-build-doctrine.md):
+Trước khi đổi build lớn, thử chuyển mode nhỏ trước. Nếu đang chơi `Zealot Zenith`, ưu tiên đổi 1 slot theo [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md):
 
 | Vấn đề | Thử chuyển trước |
 |---|---|

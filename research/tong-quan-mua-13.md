@@ -1,12 +1,12 @@
-# Season 13 Overview - Season of Reckoning
+# Tổng Quan Mùa 13 - Season of Reckoning
 
 Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Paladin Status](paladin-status.md), [Glossary](../docs/basic-terms-and-mechanics.md), [Gameplay Roadmap](../docs/gameplay-roadmap.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Trạng Thái Paladin](trang-thai-paladin.md), [Thuật Ngữ](../docs/thuat-ngu-va-co-che.md), [Lộ Trình Chơi](../docs/lo-trinh-choi.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md)
 
 ## Kết Luận Nhanh
 
@@ -33,13 +33,13 @@ Sources:
 |---|---|---|---|
 | `Skill Tree rework` | Verified | Active Skills có nhiều nhánh modifier hơn; nhiều Passive/Key Passive cũ được chuyển sang Aspect/Unique. | Đọc lại skill từ đầu, không copy build cũ theo thói quen. |
 | `Level Cap 70` | Verified | Mốc sức mạnh kéo dài hơn trước. | Leveling guide cần hướng 1-70, không dừng ở 60. |
-| [`War Plans`](../docs/basic-terms-and-mechanics.md#season-13-systems) | Verified | Endgame playlist tại Temis: nối Helltide, Nightmare Dungeon, Pit, boss, v.v. thành chuỗi hoạt động có thưởng. | Sau campaign/level cap, dùng War Plans để tránh farm rời rạc. |
-| [`Talisman`](../docs/basic-terms-and-mechanics.md#season-13-systems) | Verified | Hệ thống Seal/Charm bổ sung Affix, power và set bonus. | Xem như một lớp build mới bên cạnh gear, Paragon và Aspect. |
-| [`Horadric Cube`](../docs/basic-terms-and-mechanics.md#season-13-systems) | Verified | Crafting station ở Temis để transmute, reroll, tạo/nâng gear, charm, gem, rune. | Dùng để sửa gear có nền tốt thay vì chỉ chờ drop hoàn hảo. |
-| [`Loot Filter`](../docs/basic-terms-and-mechanics.md#season-13-systems) | Verified | Ẩn, hiện, đổi màu item theo điều kiện như rarity, affix, Greater Affix, Unique, Talisman set. | Tạo filter riêng cho leveling và endgame để giảm rác. |
-| [`Gem changes`](../docs/basic-terms-and-mechanics.md#gear-itemization) | Verified | Weapon gem effect mạnh hơn, có tier Horadric và Flawless Horadric. | Kiểm tra lại gem theo damage type thật của build. |
-| [`Unique/Tempering changes`](../docs/basic-terms-and-mechanics.md#gear-itemization) | Verified | Unique có ít affix cố định hơn và có thể Temper. | Đừng bỏ Unique chỉ vì affix cũ không còn giống guide mùa trước. |
-| [`Season Rank/Blessings`](../docs/basic-terms-and-mechanics.md#character-progression) | Verified | Season Rank có nhiều objective và reward, gồm Skill Points, Paragon Points, material, boss key, cache. | Làm objective song song leveling/endgame thay vì bỏ qua. |
+| [`War Plans`](../docs/thuat-ngu-va-co-che.md#season-13-systems) | Verified | Endgame playlist tại Temis: nối Helltide, Nightmare Dungeon, Pit, boss, v.v. thành chuỗi hoạt động có thưởng. | Sau campaign/level cap, dùng War Plans để tránh farm rời rạc. |
+| [`Talisman`](../docs/thuat-ngu-va-co-che.md#season-13-systems) | Verified | Hệ thống Seal/Charm bổ sung Affix, power và set bonus. | Xem như một lớp build mới bên cạnh gear, Paragon và Aspect. |
+| [`Horadric Cube`](../docs/thuat-ngu-va-co-che.md#season-13-systems) | Verified | Crafting station ở Temis để transmute, reroll, tạo/nâng gear, charm, gem, rune. | Dùng để sửa gear có nền tốt thay vì chỉ chờ drop hoàn hảo. |
+| [`Loot Filter`](../docs/thuat-ngu-va-co-che.md#season-13-systems) | Verified | Ẩn, hiện, đổi màu item theo điều kiện như rarity, affix, Greater Affix, Unique, Talisman set. | Tạo filter riêng cho leveling và endgame để giảm rác. |
+| [`Gem changes`](../docs/thuat-ngu-va-co-che.md#gear-itemization) | Verified | Weapon gem effect mạnh hơn, có tier Horadric và Flawless Horadric. | Kiểm tra lại gem theo damage type thật của build. |
+| [`Unique/Tempering changes`](../docs/thuat-ngu-va-co-che.md#gear-itemization) | Verified | Unique có ít affix cố định hơn và có thể Temper. | Đừng bỏ Unique chỉ vì affix cũ không còn giống guide mùa trước. |
+| [`Season Rank/Blessings`](../docs/thuat-ngu-va-co-che.md#character-progression) | Verified | Season Rank có nhiều objective và reward, gồm Skill Points, Paragon Points, material, boss key, cache. | Làm objective song song leveling/endgame thay vì bỏ qua. |
 
 ## Patch Hiện Tại Cần Ghi Nhớ
 

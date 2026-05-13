@@ -1,17 +1,17 @@
-# Gameplay Roadmap - Paladin
+# Lộ Trình Chơi - Paladin
 
 Checked: 2026-05-13
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Glossary](basic-terms-and-mechanics.md), [Paladin Build Doctrine](paladin-build-doctrine.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Current Character Checklist](current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Tổng Quan Mùa 13](../research/tong-quan-mua-13.md), [Thuật Ngữ](thuat-ngu-va-co-che.md), [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
 
 Mục tiêu của roadmap này là giúp bạn chơi có hướng mà không biến game thành checklist khô cứng. Nguyên tắc: mỗi buổi chơi chỉ cần có một mục tiêu chính, một tiêu chí dừng, và một điều học được.
 
-Khi phải chọn giữa guide cộng đồng và cảm giác thực tế của nhân vật, dùng [Paladin Build Doctrine](paladin-build-doctrine.md): xác định vấn đề, chọn module sửa vấn đề đó, rồi test ngắn.
+Khi phải chọn giữa guide cộng đồng và cảm giác thực tế của nhân vật, dùng [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md): xác định vấn đề, chọn module sửa vấn đề đó, rồi test ngắn.
 
-Nếu gặp thuật ngữ như `War Plans`, `Talisman`, `Loot Filter`, `Faith`, xem [Glossary](basic-terms-and-mechanics.md) trước.
+Nếu gặp thuật ngữ như `War Plans`, `Talisman`, `Loot Filter`, `Faith`, xem [Thuật Ngữ](thuat-ngu-va-co-che.md) trước.
 
 ## Vòng Lặp Cốt Lõi
 
@@ -29,7 +29,7 @@ Nếu gặp thuật ngữ như `War Plans`, `Talisman`, `Loot Filter`, `Faith`, 
 |---|---|
 | Muốn chơi mùa mới, reward mùa, reset từ đầu? | `Seasonal Realm` |
 | Muốn tiếp tục nhân vật cũ, ít áp lực mùa? | `Eternal Realm` |
-| Muốn Paladin đúng Paladin? | Paladin nếu có Lord of Hatred; xem [Paladin Status](../research/paladin-status.md) |
+| Muốn Paladin đúng Paladin? | Paladin nếu có Lord of Hatred; xem [Trạng Thái Paladin](../research/trang-thai-paladin.md) |
 | Muốn lên nhanh nhưng vẫn vui? | Chọn fantasy trước, sau đó chọn build đủ AoE và mobility |
 | Muốn chơi Hardcore? | Ưu tiên defense, Unstoppable, escape skill, không tăng difficulty quá sớm |
 
@@ -89,10 +89,10 @@ Nguyên tắc difficulty:
 | Việc cần làm | Ở đâu | Tại sao |
 |---|---|---|
 | Chốt build chính | Skill Tree, gear, Talisman | Để biết item nào đáng giữ. |
-| Dùng [War Plans](basic-terms-and-mechanics.md#season-13-systems) | Temis Command Table | Gom activity thành chuỗi có reward rõ. |
+| Dùng [War Plans](thuat-ngu-va-co-che.md#season-13-systems) | Temis Command Table | Gom activity thành chuỗi có reward rõ. |
 | Nâng Glyph/Paragon | Pit/Nightmare Dungeon tùy hệ thống hiện tại | Đây là power dài hạn, không phụ thuộc may mắn drop. |
 | Săn Unique/Mythic | Lair Bosses, boss ladder, War Plan reward | Cần cho build endgame. |
-| Sửa gear | Blacksmith, Occultist, [Horadric Cube](basic-terms-and-mechanics.md#season-13-systems) | Tối ưu affix, Tempering, Masterworking, socket, rune/gem. |
+| Sửa gear | Blacksmith, Occultist, [Horadric Cube](thuat-ngu-va-co-che.md#season-13-systems) | Tối ưu affix, Tempering, Masterworking, socket, rune/gem. |
 | Test bossing | Boss/lair, dummy nếu có | Build clear pack tốt chưa chắc đánh boss tốt. |
 
 ## Giai Đoạn 5 - Endgame Lặp Lại Có Chủ Đích
@@ -121,8 +121,8 @@ Chia buổi chơi theo loại:
 
 ## Khi Không Biết Làm Gì Tiếp
 
-1. Mở [Current Character Checklist](current-character-checklist.md).
+1. Mở [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md).
 2. Xác định vấn đề lớn nhất hiện tại.
 3. Chọn đúng activity để sửa vấn đề đó.
 4. Chơi 30 phút.
-5. Ghi kết quả vào [Testing Log](../notes/testing-log.md).
+5. Ghi kết quả vào [Nhật Ký Test](../notes/nhat-ky-test.md).

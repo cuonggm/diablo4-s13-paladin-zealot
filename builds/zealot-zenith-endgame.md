@@ -1,18 +1,18 @@
-# Zealot Zenith Fervor - Paladin
+# Zealot Zenith Cuối Game - Paladin
 
 Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Paladin Build Doctrine](../docs/paladin-build-doctrine.md), [Zealot Zenith Leveling](zealot-zenith-leveling.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Thuật Ngữ](../docs/thuat-ngu-va-co-che.md), [Nguyên Tắc Build Paladin](../docs/nguyen-tac-build-paladin.md), [Zealot Zenith Lên Cấp](zealot-zenith-len-cap.md), [Checklist Nhân Vật Hiện Tại](../docs/checklist-nhan-vat-hien-tai.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
 
 Mục tiêu: build Paladin dùng `Zenith` bắt buộc, xoay quanh `Zealot Oath` / `Fervor`, đánh được pack đông lẫn elite/boss, di chuyển nhanh, và vẫn có lớp phòng thủ đủ cho melee.
 
 Triết lý: build endgame này là một giả thuyết thực chiến dựa trên cơ chế `Zealot`, `Fervor`, `Zenith`, Faith economy, defensive layer của Paladin và các guide cộng đồng để đối chiếu. Không cần bám 1:1 theo planner trên mạng nếu gear, tooltip hoặc vấn đề hiện tại chỉ ra lựa chọn khác hợp lý hơn.
 
-Dấu ấn riêng: endgame không chỉ có một bản "best". Dự án dùng một bảng điều khiển 3 trục: `Sentinel` để ổn định, `Harvester` để gom/clear pack, `Bulwark` để push hoặc học boss, rồi đổi `Zenith` variant theo mục tiêu. Xem thêm [Paladin Build Doctrine](../docs/paladin-build-doctrine.md).
+Dấu ấn riêng: endgame không chỉ có một bản "best". Dự án dùng một bảng điều khiển 3 trục: `Sentinel` để ổn định, `Harvester` để gom/clear pack, `Bulwark` để push hoặc học boss, rồi đổi `Zenith` variant theo mục tiêu. Xem thêm [Nguyên Tắc Build Paladin](../docs/nguyen-tac-build-paladin.md).
 
 Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Bảng Điều Khiển Mode](#bảng-điều-khiển-mode), [Rotation Thực Chiến](#rotation-thực-chiến), rồi [Khi Nào Đổi Variant](#khi-nào-đổi-variant). Các phần gear/paragon là checklist để tinh chỉnh sau.
 
@@ -39,7 +39,7 @@ Sources:
 
 ## Build Identity
 
-Tên build: `Paladin - Zealot Zenith Fervor`
+Tên build: `Paladin - Zealot Zenith Cuối Game`
 
 | Mục | Chọn |
 |---|---|
@@ -268,7 +268,7 @@ Giữ `Zeal / Zenith / Fanaticism Aura / Rally` làm lõi. Khi đổi mode, ch�
 
 Thứ tự thao tác tiện lợi:
 
-1. Ghi mode hiện tại và mode muốn test vào [Testing Log](../notes/testing-log.md).
+1. Ghi mode hiện tại và mode muốn test vào [Nhật Ký Test](../notes/nhat-ky-test.md).
 2. Đổi đúng một skill slot hoặc một `Zenith` variant.
 3. Chạy cùng activity/difficulty trong 15-30 phút.
 4. Nếu pass, mới chỉnh gear/package theo mode.
@@ -294,10 +294,10 @@ Thứ tự thao tác tiện lợi:
 
 ## Checklist Test Cho Paladin
 
-Ghi vào [Testing Log](../notes/testing-log.md) sau 1-2 dungeon hoặc boss:
+Ghi vào [Nhật Ký Test](../notes/nhat-ky-test.md) sau 1-2 dungeon hoặc boss:
 
 ```md
-### Zealot Zenith Fervor Test
+### Zealot Zenith Cuối Game Test
 
 - Date:
 - Patch:

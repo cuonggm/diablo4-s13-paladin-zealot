@@ -1,11 +1,11 @@
-# Basic Terms And Mechanics - Glossary
+# Thuật Ngữ Và Cơ Chế
 
 Checked: 2026-05-13
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Paladin Status](../research/paladin-status.md), [Paladin Build Doctrine](paladin-build-doctrine.md), [Gameplay Roadmap](gameplay-roadmap.md), [Current Character Checklist](current-character-checklist.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Tổng Quan Mùa 13](../research/tong-quan-mua-13.md), [Trạng Thái Paladin](../research/trang-thai-paladin.md), [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md), [Lộ Trình Chơi](lo-trinh-choi.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md)
 
 File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh để khớp UI, patch note và guide cộng đồng; phần ghi chú giải thích ngắn bằng tiếng Việt.
 
@@ -54,7 +54,7 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 
 | Term | Ghi chú tiếng Việt |
 |---|---|
-| `Paladin` | Class chính thức trong Lord of Hatred. Xem trạng thái tại [Paladin Status](../research/paladin-status.md). |
+| `Paladin` | Class chính thức trong Lord of Hatred. Xem trạng thái tại [Trạng Thái Paladin](../research/trang-thai-paladin.md). |
 | `Project Scope` | Bộ ghi chú này ưu tiên Paladin thật nếu account có Lord of Hatred. |
 | `Faith` | Resource của Paladin theo nguồn chính thức, guide cộng đồng và tooltip skill. Nếu thiếu Faith, rotation sẽ bị khựng. |
 | `Oath` | Class mechanic của Paladin; chọn một hướng chơi như `Zealot`, `Juggernaut`, `Judicator`, `Disciple`. |
@@ -182,4 +182,4 @@ Không cần chờ một guide có sẵn nếu tooltip và cơ chế đã cho đ
 5. Đảm bảo đủ defense và mobility trước khi thêm damage tham lam.
 6. Chọn gear/stat theo vấn đề đang gặp, không chỉ theo bảng stat của guide.
 7. Ghi giả thuyết test: đổi gì, kỳ vọng cải thiện gì, dấu hiệu nào cho thấy thất bại.
-8. Sau test, chuyển trạng thái thành `Keep`, `Change` hoặc `Retest` trong [Testing Log](../notes/testing-log.md).
+8. Sau test, chuyển trạng thái thành `Keep`, `Change` hoặc `Retest` trong [Nhật Ký Test](../notes/nhat-ky-test.md).

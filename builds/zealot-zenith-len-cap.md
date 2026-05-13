@@ -1,12 +1,12 @@
-# Zealot Zenith Leveling - Paladin
+# Zealot Zenith Lên Cấp - Paladin
 
 Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Paladin Build Doctrine](../docs/paladin-build-doctrine.md), [Zealot Zenith Fervor](zealot-zenith-fervor.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Thuật Ngữ](../docs/thuat-ngu-va-co-che.md), [Nguyên Tắc Build Paladin](../docs/nguyen-tac-build-paladin.md), [Zealot Zenith Cuối Game](zealot-zenith-endgame.md), [Checklist Nhân Vật Hiện Tại](../docs/checklist-nhan-vat-hien-tai.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
 
 Mục tiêu: leveling Paladin theo đúng yêu cầu hiện tại: phải dùng `Zenith` khi mở Ultimate, xoay quanh `Zealot Oath` / `Fervor`, clear được pack đông, xử lý elite/boss ổn, di chuyển cao, và không quá mỏng khi lao vào melee.
 
@@ -14,7 +14,7 @@ Ghi chú: trước khi mở được Ultimate, build chỉ là giai đoạn "chu
 
 Triết lý: bản này không phải copy 1:1 từ một guide có sẵn. Guide cộng đồng được dùng để đối chiếu skill và điểm yếu, còn lựa chọn cuối cùng dựa trên mục tiêu `Zealot + Zenith`, tooltip skill, cơ chế `Fervor`, nhu cầu leveling và kết quả test.
 
-Dấu ấn riêng: leveling không bị ép thành một planner cố định. Đây là một hệ module: giữ `Zealot / Zeal / Zenith / Fanaticism`, còn slot còn lại xoay giữa `Defiance Aura`, `Condemn`, `Falling Star` hoặc `Aegis` theo vấn đề thật. Xem thêm [Paladin Build Doctrine](../docs/paladin-build-doctrine.md).
+Dấu ấn riêng: leveling không bị ép thành một planner cố định. Đây là một hệ module: giữ `Zealot / Zeal / Zenith / Fanaticism`, còn slot còn lại xoay giữa `Defiance Aura`, `Condemn`, `Falling Star` hoặc `Aegis` theo vấn đề thật. Xem thêm [Nguyên Tắc Build Paladin](../docs/nguyen-tac-build-paladin.md).
 
 Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Skill Tree Setup Theo Game](#skill-tree-setup-theo-game), [Rotation](#rotation), rồi [Gear Và Stat Priority](#gear-và-stat-priority). Các phần mô tả skill bên dưới là reference để tra khi cần.
 
@@ -24,10 +24,10 @@ Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh)
 |---|---|---|
 | Leveling nên dùng `Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith`. | Community + Inference | Đây là bản ổn định nhất: có Basic generator, damage nền, mobility, defense và Zenith burst. |
 | `Zeal` là damage nền khi leveling; `Zenith` là nút burst cho pack dày, elite và boss window. | Community + Inference | Đừng cố chơi Zenith như damage duy nhất khi chưa có cooldown/gear endgame. |
-| [`Fervor`](../docs/basic-terms-and-mechanics.md#paladin) vẫn là cơ chế chính: Zealot hit nhiều, crit nhiều, giữ Fervor tốt thì clear pack mượt hơn và có Fortify khi đạt max Fervor. | Verified + Community | Build càng đánh liên tục càng mạnh, nên tránh downtime do thiếu Faith hoặc chạy quá xa pack. |
+| [`Fervor`](../docs/thuat-ngu-va-co-che.md#paladin) vẫn là cơ chế chính: Zealot hit nhiều, crit nhiều, giữ Fervor tốt thì clear pack mượt hơn và có Fortify khi đạt max Fervor. | Verified + Community | Build càng đánh liên tục càng mạnh, nên tránh downtime do thiếu Faith hoặc chạy quá xa pack. |
 | Leveling nên ưu tiên `Sunder` cho Zenith nếu boss/elite chậm; dùng `Empyrean Edge` nếu farm thấp và cần tốc độ. | Community + Inference | `Sermon of Steel` để dành giai đoạn gần endgame khi đã có Attack Speed/CDR tốt. |
-| Khi đạt level 70 và đủ gear/resource, chuyển sang build endgame bằng cách thay `Advance -> Falling Star`. | Inference | Đây là điểm chuyển rõ từ leveling sang `Zealot Zenith Fervor` endgame. |
-| Có thể thay skill/variant nếu tooltip hoặc gear hiện tại giải quyết vấn đề tốt hơn guide cộng đồng. | Inference + Needs testing | Ghi giả thuyết vào Testing Log trước khi kết luận mạnh/yếu. |
+| Khi đạt level 70 và đủ gear/resource, chuyển sang build endgame bằng cách thay `Advance -> Falling Star`. | Inference | Đây là điểm chuyển rõ từ leveling sang `Zealot Zenith Cuối Game` endgame. |
+| Có thể thay skill/variant nếu tooltip hoặc gear hiện tại giải quyết vấn đề tốt hơn guide cộng đồng. | Inference + Needs testing | Ghi giả thuyết vào Nhật Ký Test trước khi kết luận mạnh/yếu. |
 | Dự án ưu tiên lối chơi `problem-first`: đổi skill để sửa vấn đề đang gặp, không đổi vì planner khác nhìn đẹp hơn. | Inference | Mỗi biến thể phải có mục tiêu test rõ: sống hơn, gom pack tốt hơn, boss nhanh hơn hoặc chạy map nhanh hơn. |
 
 Sources:
@@ -40,7 +40,7 @@ Sources:
 
 ## Build Identity
 
-Tên build: `Paladin - Zealot Zenith Leveling`
+Tên build: `Paladin - Zealot Zenith Lên Cấp`
 
 | Mục | Chọn |
 |---|---|
@@ -60,7 +60,7 @@ Tên build: `Paladin - Zealot Zenith Leveling`
 
 Skill tree Paladin hiện chia active skill theo 6 nhóm chính: `Basic`, `Core`, `Aura`, `Valor`, `Justice`, `Ultimate`. Build leveling này setup theo đúng thứ tự đó để dễ mở cây trong game, thay vì chỉ nhìn như 6 slot skill bar.
 
-Ghi chú số liệu: các giá trị Faith/cooldown/damage phần dưới là [`Community`](../docs/basic-terms-and-mechanics.md#source-status) từ Icy Veins skill guide Season 13 và nên đối chiếu tooltip trong game sau mỗi hotfix.
+Ghi chú số liệu: các giá trị Faith/cooldown/damage phần dưới là [`Community`](../docs/thuat-ngu-va-co-che.md#source-status) từ Icy Veins skill guide Season 13 và nên đối chiếu tooltip trong game sau mỗi hotfix.
 
 Skill bar mặc định khi đã mở `Ultimate`:
 
@@ -537,7 +537,7 @@ Không chase perfect roll lúc leveling. Có đúng power và giúp clear nhanh/
 
 ## Khi Nào Chuyển Sang Endgame Build
 
-Chuyển sang [Zealot Zenith Fervor](zealot-zenith-fervor.md) sau level 70 hoặc khi thỏa ít nhất 4 điều:
+Chuyển sang [Zealot Zenith Cuối Game](zealot-zenith-endgame.md) sau level 70 hoặc khi thỏa ít nhất 4 điều:
 
 - `Zeal` không còn làm bạn cạn Faith liên tục.
 - Có đủ Attack Speed/Critical Strike Chance để Fervor/echo hoạt động rõ.
@@ -580,10 +580,10 @@ Không chuyển toàn bộ build trong một lần nếu đang chơi ổn. Dùng
 
 ## Checklist Test
 
-Ghi vào [Testing Log](../notes/testing-log.md):
+Ghi vào [Nhật Ký Test](../notes/nhat-ky-test.md):
 
 ```md
-### Zealot Zenith Leveling Test
+### Zealot Zenith Lên Cấp Test
 
 - Date:
 - Patch:
@@ -607,7 +607,7 @@ Ghi vào [Testing Log](../notes/testing-log.md):
 
 - Status: Inference + Community
 - Checked: 2026-05-13
-- Impact on Paladin: Đây là bản leveling nên dùng trước build endgame `Zealot Zenith Fervor`.
+- Impact on Paladin: Đây là bản leveling nên dùng trước build endgame `Zealot Zenith Cuối Game`.
 
 Chơi theo lộ trình riêng của dự án:
 

@@ -1,11 +1,11 @@
-# Paladin Status
+# Trạng Thái Paladin
 
 Checked: 2026-05-13
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Season 13 Overview](season-13-overview.md), [Glossary](../docs/basic-terms-and-mechanics.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Testing Log](../notes/testing-log.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Tổng Quan Mùa 13](tong-quan-mua-13.md), [Thuật Ngữ](../docs/thuat-ngu-va-co-che.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
 
 ## Kết Luận
 
@@ -32,17 +32,17 @@ Sources:
 | `Sword and Shield` | Verified | Đánh gần, có block/defense, phù hợp người thích đứng vững trong pack. |
 | `Holy Damage` | Verified | Damage type cần khớp gem, affix, Talisman, Aspect. |
 | `Auras` | Verified | Aura có passive effect và active effect; dùng để buff bản thân/party hoặc tạo utility. |
-| [`Oaths`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Oath định hình build: tốc đánh, tank, mark/detonate, hoặc angelic transformation. |
-| [`Faith`](../docs/basic-terms-and-mechanics.md#paladin) | Verified + Community | Resource chính để xài nhiều skill; nếu thiếu Faith thì build sẽ khựng. |
+| [`Oaths`](../docs/thuat-ngu-va-co-che.md#paladin) | Verified | Oath định hình build: tốc đánh, tank, mark/detonate, hoặc angelic transformation. |
+| [`Faith`](../docs/thuat-ngu-va-co-che.md#paladin) | Verified + Community | Resource chính để xài nhiều skill; nếu thiếu Faith thì build sẽ khựng. |
 
 ## Oaths
 
 | Oath | Status | Fantasy | Khi nên thử |
 |---|---|---|---|
-| [`Zealot`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Holy warrior đánh nhanh, tạo Fervor, hợp tốc độ và crit. | Khi muốn leveling/speed farm cảm giác mượt, nhiều hit. |
-| [`Juggernaut`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Tank templar, Resolve, shield, size/damage cho skill phòng thủ. | Khi chơi Hardcore, push khó, hoặc muốn Paladin là guardian. |
-| [`Judicator`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Judge enemy, detonate bằng Core Skill, tăng damage lên mục tiêu. | Khi muốn bossing hoặc gameplay mark-and-burst. |
-| [`Disciple`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Angelic form, Arbiter, skill cooldown và ultimate fantasy. | Khi muốn Holy caster/melee lai, mobility và visual mạnh. |
+| [`Zealot`](../docs/thuat-ngu-va-co-che.md#paladin) | Verified | Holy warrior đánh nhanh, tạo Fervor, hợp tốc độ và crit. | Khi muốn leveling/speed farm cảm giác mượt, nhiều hit. |
+| [`Juggernaut`](../docs/thuat-ngu-va-co-che.md#paladin) | Verified | Tank templar, Resolve, shield, size/damage cho skill phòng thủ. | Khi chơi Hardcore, push khó, hoặc muốn Paladin là guardian. |
+| [`Judicator`](../docs/thuat-ngu-va-co-che.md#paladin) | Verified | Judge enemy, detonate bằng Core Skill, tăng damage lên mục tiêu. | Khi muốn bossing hoặc gameplay mark-and-burst. |
+| [`Disciple`](../docs/thuat-ngu-va-co-che.md#paladin) | Verified | Angelic form, Arbiter, skill cooldown và ultimate fantasy. | Khi muốn Holy caster/melee lai, mobility và visual mạnh. |
 
 ## Skill Nhắc Đến Trong Nguồn Chính Thức
 

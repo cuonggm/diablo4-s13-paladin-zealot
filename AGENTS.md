@@ -79,12 +79,12 @@ Mỗi build nên có cấu trúc:
 
 Khi tạo file nghiên cứu hoặc build guide, ưu tiên các file Markdown ngắn gọn, có thể cập nhật dần:
 
-- `research/season-13-overview.md`: tổng quan Season 13 và nguồn tham khảo.
-- `research/paladin-status.md`: Paladin là class chính thức, concept, hay roleplay build.
-- `builds/zealot-zenith-leveling.md`: build leveling chính, bắt buộc giữ lại.
-- `builds/zealot-zenith-fervor.md`: build endgame chính, bắt buộc giữ lại.
+- `research/tong-quan-mua-13.md`: tổng quan Season 13 và nguồn tham khảo.
+- `research/trang-thai-paladin.md`: Paladin là class chính thức, concept, hay roleplay build.
+- `builds/zealot-zenith-len-cap.md`: build leveling chính, bắt buộc giữ lại.
+- `builds/zealot-zenith-endgame.md`: build endgame chính, bắt buộc giữ lại.
 - Tránh tạo thêm file build phụ nếu nội dung có thể đặt gọn vào 2 file build chính.
-- `notes/testing-log.md`: kết quả test trong game, cập nhật theo patch.
+- `notes/nhat-ky-test.md`: kết quả test trong game, cập nhật theo patch.
 
 ## Tiêu chuẩn đầu ra
 

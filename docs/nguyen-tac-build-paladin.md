@@ -1,11 +1,11 @@
-# Paladin Build Doctrine
+# Nguyên Tắc Build Paladin
 
 Checked: 2026-05-13
 
 ## Điều Hướng
 
-- [README](../README.md)
-- Liên quan: [Glossary](basic-terms-and-mechanics.md), [Current Character Checklist](current-character-checklist.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Testing Log](../notes/testing-log.md)
+- [Trang Chủ](../README.md)
+- Liên quan: [Thuật Ngữ](thuat-ngu-va-co-che.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
 
 File này ghi quan điểm build riêng của dự án. Guide cộng đồng là dữ liệu đối chiếu; build cuối cùng phải phục vụ cách chơi thật: vào pack mượt, giết đúng mục tiêu, không chết vô lý, không đứng chờ resource, và vẫn giữ fantasy Paladin.
 
@@ -18,7 +18,7 @@ File này ghi quan điểm build riêng của dự án. Guide cộng đồng là
 | Không bỏ defense để lấy damage mù | Melee build chết hoặc phải kite quá nhiều sẽ farm chậm dù damage sheet cao. |
 | Resource loop là sức mạnh thật | Nếu Faith/cooldown khựng, mọi aspect damage đều mất giá trị. |
 | Gear hiện có quan trọng hơn planner | Nếu chưa có item/affix guide yêu cầu, dùng bản thay thế hợp logic thay vì copy y nguyên. |
-| Test ngắn nhưng có tiêu chí | Mỗi thay đổi nên có giả thuyết, pass/fail criteria và verdict trong Testing Log. |
+| Test ngắn nhưng có tiêu chí | Mỗi thay đổi nên có giả thuyết, pass/fail criteria và verdict trong Nhật Ký Test. |
 
 ## Khung Suy Luận 6 Trụ
 
