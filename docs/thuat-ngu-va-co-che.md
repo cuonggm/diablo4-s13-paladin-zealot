@@ -5,7 +5,7 @@ Checked: 2026-05-13
 ## Điều Hướng
 
 - [Trang Chủ](../README.md)
-- Liên quan: [Tổng Quan Mùa 13](../research/tong-quan-mua-13.md), [Trạng Thái Paladin](../research/trang-thai-paladin.md), [Cơ Chế Game Season 13](co-che/README.md), [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md), [Lộ Trình Chơi](lo-trinh-choi.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md)
+- Liên quan: [Tổng Quan Mùa 13](../research/tong-quan-mua-13.md), [Trạng Thái Paladin](../research/trang-thai-paladin.md), [Cơ Chế Game Season 13](co-che/README.md), [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md), [Lộ Trình Chơi](lo-trinh-choi.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md), [Juggernaut Bastion](../builds/juggernaut-bastion-len-cap.md), [Judicator Hammer](../builds/judicator-hammer-len-cap.md), [Disciple Arbiter](../builds/disciple-arbiter-len-cap.md)
 
 File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh để khớp UI, patch note và guide cộng đồng; phần ghi chú giải thích ngắn bằng tiếng Việt.
 

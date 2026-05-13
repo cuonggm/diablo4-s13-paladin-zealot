@@ -6,7 +6,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 ## Điều Hướng
 
 - [Cơ Chế](README.md)
-- Liên quan: [Trạng Thái Paladin](../../research/trang-thai-paladin.md), [Skill Tree](skill-tree-va-skill-variants.md), [Combat](combat-defense-rotation.md), [Zealot Zenith Lên Cấp](../../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../../builds/zealot-zenith-endgame.md)
+- Liên quan: [Trạng Thái Paladin](../../research/trang-thai-paladin.md), [Skill Tree](skill-tree-va-skill-variants.md), [Combat](combat-defense-rotation.md), [Zealot Zenith Lên Cấp](../../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../../builds/zealot-zenith-endgame.md), [Juggernaut Bastion](../../builds/juggernaut-bastion-len-cap.md), [Judicator Hammer](../../builds/judicator-hammer-len-cap.md), [Disciple Arbiter](../../builds/disciple-arbiter-len-cap.md)
 
 ## Kết Luận Nhanh
 
@@ -73,6 +73,9 @@ Recommend:
 | `Condemn Harvester` | Zealot + Fanaticism + Condemn | Pack đông/tản | Nếu chết vì bỏ defense, quay về Sentinel. |
 | `Aegis Bulwark` | Zealot/Juggernaut leaning + Defiance/Aegis | Push, boss lạ, Hardcore | Nếu clear quá chậm, chỉ đổi lại 1 slot mobility. |
 | `Sunder Duelist` | Zealot hoặc Judicator leaning | Boss/elite là nút nghẽn | Nếu farm pack chậm, quay lại Zenith. |
+| `Bastion Sentinel` | Juggernaut + Defiance + Aegis | Shield/tank, push an toàn, Hardcore leaning | Nếu farm quá chậm, đổi một slot sang Falling Star/Rally. |
+| `Hammer Inquisitor` | Judicator + Fanaticism + Defiance | Holy hammer, mark-and-burst, pack cần gom | Nếu boss/pack hụt damage, kiểm tra mark và vị trí hammer trước. |
+| `Arbiter Wing` | Disciple + Holy Light + Fanaticism | Holy aura/window, speed farm có mobility | Nếu chết ngoài window, quay về Aegis/Defiance/shield package. |
 
 ## Nguồn
 

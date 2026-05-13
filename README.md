@@ -13,8 +13,9 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 | Chưa chắc Season 13/Paladin hiện tại là gì | [Tổng Quan Mùa 13](research/tong-quan-mua-13.md) + [Trạng Thái Paladin](research/trang-thai-paladin.md) |
 | Muốn hiểu từng cơ chế Season 13 đang hỗ trợ | [Cơ Chế Game Season 13](docs/co-che/README.md) |
 | Muốn chơi Paladin theo hướng hiện tại: Zealot + Zenith | [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md) |
+| Muốn thử Oath khác Zealot | [Juggernaut Bastion](builds/juggernaut-bastion-len-cap.md), [Judicator Hammer](builds/judicator-hammer-len-cap.md), [Disciple Arbiter](builds/disciple-arbiter-len-cap.md) |
 | Muốn hiểu skill tree trước khi setup | [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md#skill-tree-setup-theo-game) |
-| Đã level 70 hoặc muốn chuẩn bị endgame | [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md) |
+| Đã level 70 hoặc muốn chuẩn bị endgame | [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md), hoặc file `Cuối Game` của Oath đang chơi trong mục Build |
 | Nhân vật đang yếu/chết/thiếu damage | [Checklist Nhân Vật Hiện Tại](docs/checklist-nhan-vat-hien-tai.md) |
 | Gặp thuật ngữ lạ như `Faith`, `Fervor`, `War Plans`, `Talisman` | [Thuật Ngữ Và Cơ Chế](docs/thuat-ngu-va-co-che.md) |
 | Vừa đổi build hoặc difficulty | [Nhật Ký Test](notes/nhat-ky-test.md) |
@@ -64,6 +65,12 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 |---|---|
 | [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md) | Build leveling chính hiện tại của Paladin: `Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith`. |
 | [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md) | Build endgame đích cho hướng Zealot + Zenith + Fervor. |
+| [Juggernaut Bastion Lên Cấp](builds/juggernaut-bastion-len-cap.md) | Build leveling Oath Juggernaut: shield, Block, `Resolve`, `Blessed Shield - Shield of Retribution` hoặc `Shield Bash`. |
+| [Juggernaut Bastion Cuối Game](builds/juggernaut-bastion-endgame.md) | Build endgame Oath Juggernaut: tank/push ổn định bằng shield package và variant đúng Oath. |
+| [Judicator Hammer Lên Cấp](builds/judicator-hammer-len-cap.md) | Build leveling Oath Judicator: `Judgement`, `Blessed Hammer`, pull/stun setup. |
+| [Judicator Hammer Cuối Game](builds/judicator-hammer-endgame.md) | Build endgame Oath Judicator: mark-and-burst Holy hammer. |
+| [Disciple Arbiter Lên Cấp](builds/disciple-arbiter-len-cap.md) | Build leveling Oath Disciple: `Arbiter` window, `Falling Star`, Holy mobility. |
+| [Disciple Arbiter Cuối Game](builds/disciple-arbiter-endgame.md) | Build endgame Oath Disciple: aura/Holy window, speed farm hoặc push an toàn. |
 
 ### Nhật Ký
 
@@ -80,9 +87,10 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 5. Mở [Thuật Ngữ](docs/thuat-ngu-va-co-che.md) khi gặp thuật ngữ lạ.
 6. Đọc [Lộ Trình Chơi](docs/lo-trinh-choi.md) để biết nên làm gì theo level.
 7. Setup build bằng [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md).
-8. Khi cần hiểu vì sao chọn skill, đọc phần [Skill Tree Setup Theo Game](builds/zealot-zenith-len-cap.md#skill-tree-setup-theo-game).
-9. Sau level 70, chuyển sang [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md).
-10. Mỗi lần đổi lớn, ghi vào [Nhật Ký Test](notes/nhat-ky-test.md).
+8. Nếu muốn thử Oath khác, chọn một cặp leveling/endgame: [Juggernaut Bastion](builds/juggernaut-bastion-len-cap.md), [Judicator Hammer](builds/judicator-hammer-len-cap.md), hoặc [Disciple Arbiter](builds/disciple-arbiter-len-cap.md).
+9. Khi cần hiểu vì sao chọn skill, đọc phần `Skill Tree Setup Theo Game` trong build tương ứng.
+10. Sau level 70, chuyển sang file `Cuối Game` của cùng Oath.
+11. Mỗi lần đổi lớn, ghi vào [Nhật Ký Test](notes/nhat-ky-test.md).
 
 ## Quy Tắc Khi Dùng Tài Liệu
 
