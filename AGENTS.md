@@ -20,6 +20,13 @@ Mục tiêu của agent là tổng hợp thông tin đáng tin cậy, chuyển h
 - Khi thiết kế nhiều build/mode, ưu tiên tính liền mạch: giữ lõi skill/gear/paragon dùng chung, chỉ đổi 1-2 slot hoặc variant khi có thể, và luôn ghi rollback path.
 - Không sao chép nguyên văn build guide dài; hãy tóm tắt, dẫn nguồn, và biến thông tin thành checklist/thực hành riêng cho dự án.
 
+## Quy tắc Git và nhánh làm việc
+
+- Mọi chỉnh sửa tài liệu, build guide, nghiên cứu, ghi chú hoặc đổi tên file trong dự án này phải thực hiện trực tiếp trên nhánh `main`.
+- Trước khi sửa, kiểm tra đang ở `main`; nếu đang ở nhánh khác thì chuyển về `main` và cập nhật từ `origin/main` khi cần.
+- Sau khi hoàn tất chỉnh sửa, commit và push lên `origin/main`.
+- Không tạo hoặc tiếp tục dùng nhánh feature cho tài liệu/build trừ khi người dùng yêu cầu rõ ràng.
+
 ## Phạm vi cần nghiên cứu
 
 ### 1. Tình trạng Season 13
