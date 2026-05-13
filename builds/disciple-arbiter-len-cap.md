@@ -68,6 +68,20 @@ Advance / Blessed Hammer / Falling Star / Defiance Aura / Rally / Condemn
 | `Justice` | `Condemn` | Pull/Stun, gom pack vào hammer/window | Rất nên giữ |
 | `Aura` | `Holy Light Aura` | Flex thay Defiance khi đủ sống | Tùy vấn đề |
 
+## Khung Suy Luận Và Flex Slot
+
+Disciple leveling không cần giữ một spender cố định bằng mọi giá. Điều quan trọng là vào được `Arbiter` window thường xuyên, có damage nền khi window chưa đẹp, và không chết khi đáp xuống pack.
+
+| Vấn đề đang gặp | Đổi skill | Lý do suy luận | Rollback |
+|---|---|---|---|
+| Window thưa, cooldown lệch | Giữ `Falling Star`, cân nhắc thêm `Arbiter of Justice` thay `Condemn` khi boss | Disciple mạnh khi window có uptime; Ultimate có thể làm boss window rõ hơn | Nếu pack clear chậm vì mất pull |
+| Pack tản, hammer/aura không trúng | Giữ `Condemn` | Pull/Stun biến window thành damage thật thay vì hiệu ứng đẹp | Nếu thiếu sống hoặc boss không cải thiện |
+| Chết khi đáp xuống | Giữ `Defiance Aura`, dùng shield, không đổi sang aura offense | Disciple chết thường do engage sai hoặc thiếu nút CC/burst | Chỉ bỏ Defiance khi 2-3 activity liền không cần Unstoppable |
+| Cạn Faith ngoài window | Giữ `Advance` và `Rally` | Một Basic + một Faith bridge giúp leveling không đứng chờ cooldown | Khi gear đủ resource, có thể đổi một slot sang damage/utility |
+| Farm dễ nhưng chậm | `Defiance Aura -> Holy Light Aura` hoặc thêm `Fanaticism Aura` | Khi không chết, aura/offense tăng tốc clear hơn thêm thủ | Nếu potion pressure tăng |
+
+Suy luận riêng: `Condemn` và `Falling Star` không cạnh tranh cùng vai trò. `Falling Star` đưa Paladin vào vị trí/window; `Condemn` sửa vị trí của enemy. Nếu chỉ có một trong hai, hãy chọn theo vấn đề: thiếu tempo thì Star, thiếu mục tiêu gom thì Condemn.
+
 ### Oath / Class Mechanic
 
 Chọn:

@@ -12,7 +12,7 @@ Mục tiêu: endgame Paladin `Juggernaut Oath` dùng shield làm trung tâm, đ�
 
 Triết lý: build này thắng bằng độ ổn định. Nếu Zealot là tốc độ và burst, Juggernaut là build cho người muốn cầm shield thật sự: đứng được, block được, rồi biến defense thành damage.
 
-Dấu ấn riêng: endgame chia thành 3 mode nhỏ: `Bastion Sentinel` để bám baseline cộng đồng, `Condemn Bulwark` để gom pack, `Aegis Warden` để push/boss lạ. Mỗi mode chỉ đổi 1 slot hoặc 1 package gear.
+Dấu ấn riêng: endgame chia thành 3 mode nhỏ: `Bastion Sentinel` làm điểm xuất phát dễ đối chiếu, `Condemn Bulwark` để gom pack, `Aegis Warden` để push/boss lạ. Mỗi mode chỉ đổi 1 slot hoặc 1 package gear.
 
 ## Kết Luận Nhanh
 
@@ -106,6 +106,20 @@ Fanaticism Aura -> Fortress
 ```
 
 Chỉ dùng khi boss/push cần nút thủ lớn hơn damage window. Đây là mode test, không phải mặc định farm.
+
+## Luật Flex Của Bastion
+
+`Bastion` không phải "đeo nhiều skill thủ nhất có thể". Lõi hợp lý là shield Core + Resolve/Block + một damage window + một defensive latch. Flex slot quyết định build đang thiên farm, push hay boss.
+
+| Trục cần chỉnh | Skill ứng viên | Khi chọn | Vì sao hợp cơ chế |
+|---|---|---|---|
+| Damage window | `Fanaticism Aura` | Mặc định farm/endgame | Attack Speed/Crit/debuff giúp shield engine hit đều hơn |
+| Defensive latch | `Aegis`, `Fortress` | Push, Hardcore, boss lạ | Cho Block/Unstoppable hoặc vùng thủ để đứng lại khi elite phản công |
+| Delivery | `Falling Star`, `Condemn` | `Falling Star` cho tempo; `Condemn` cho pack tản | Một skill đưa bạn tới pack, skill kia đưa pack về đúng đường shield |
+| Resource bridge | `Clash`, `Rally` | Giữ mặc định trừ khi gear quá mạnh | Shield Core tốn Faith; thiếu bridge sẽ làm mọi damage aspect mất giá trị |
+| Sustain/holy pressure | `Holy Light Aura` | Farm pack đông, cần heal nhẹ hơn là burst | Thêm damage/sustain nền, nhưng không thay `Defiance` khi đang thiếu defense |
+
+Nếu muốn tự sửa: đổi `Delivery` trước khi đổi damage. Rất nhiều lần shield build yếu không phải vì thiếu multiplier, mà vì đường bay/pulse chỉ trúng 1-2 mục tiêu. Khi `Condemn` làm shield trúng nhiều mục tiêu hơn, DPS thật tăng dù sheet không đổi.
 
 ## Gear Priority
 

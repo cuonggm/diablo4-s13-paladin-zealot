@@ -80,6 +80,20 @@ Chỉ dùng bản `Holy Bolt` Judicator nếu bạn muốn test đúng Oath tron
 | `Justice` | `Condemn` | Pull/Stun để hammer trúng nhiều mục tiêu | Rất nên giữ |
 | `Ultimate` | Không bắt buộc | Có thể test `Heaven's Fury` nếu muốn burst Holy | Không bắt buộc |
 
+## Khung Suy Luận Và Flex Slot
+
+Judicator không bắt buộc phải chơi theo một bar cố định. Điều bắt buộc là có đủ 3 phần: nguồn `Judgement`, skill khai thác `Judgement`, và cách giữ mục tiêu trong vùng hit. Với bản này, `Holy Bolt` tạo mark/Faith, `Blessed Hammer` khai thác, `Condemn` giữ pack.
+
+| Vấn đề đang gặp | Đổi skill | Lý do suy luận | Rollback |
+|---|---|---|---|
+| Mark không đủ rõ, boss khựng Faith | Giữ `Holy Bolt` | Basic vừa apply/duy trì nhịp Judgement vừa chống cạn Faith | Chỉ bỏ khi gear/variant/aura đã tạo Judgement ổn |
+| Pack tản, hammer quay hụt | Giữ `Condemn`, ưu tiên pull/stun modifier | Hammer cần enemy đứng trong quỹ đạo; gom mục tiêu tăng damage thật hơn thêm một multiplier nhỏ | Nếu mất defensive slot làm chết |
+| Clear thấp nhưng sống dư | `Defiance Aura -> Holy Light Aura` hoặc `Fanaticism Aura` mạnh hơn | Thêm Holy pressure hoặc throughput khi không còn cần Unstoppable thường xuyên | Nếu bị CC/burst chết lại |
+| Boss chậm | `Condemn -> Purify` hoặc test `Heaven's Fury` | Boss ít cần pull; cần window single-target/sustain rõ hơn | Nếu pack clear tụt quá nhiều |
+| Map chậm | `Fanaticism Aura -> Falling Star` | Thêm mobility nếu damage đã đủ và không cần buff window mọi pack | Nếu Faith/cooldown rối hoặc lao vào chết |
+
+Đây là bản nên ghi log kỹ nhất trong 3 Oath mới. Nếu sau 15-30 phút `Holy Bolt` Judicator không cho cảm giác mark/boss tốt hơn Disciple leveling, rollback thực dụng là level bằng Disciple rồi respec Judicator ở 70.
+
 ### Oath / Class Mechanic
 
 Chọn:

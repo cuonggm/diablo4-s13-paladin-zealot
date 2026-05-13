@@ -14,6 +14,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 | Muốn hiểu từng cơ chế Season 13 đang hỗ trợ | [Cơ Chế Game Season 13](docs/co-che/README.md) |
 | Muốn chơi Paladin theo hướng hiện tại: Zealot + Zenith | [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md) |
 | Muốn thử Oath khác Zealot | [Juggernaut Bastion](builds/juggernaut-bastion-len-cap.md), [Judicator Hammer](builds/judicator-hammer-len-cap.md), [Disciple Arbiter](builds/disciple-arbiter-len-cap.md) |
+| Muốn tự đổi skill theo tình huống | [Nguyên Tắc Build Paladin - Khung Flex Theo Oath](docs/nguyen-tac-build-paladin.md#khung-flex-theo-oath) |
 | Muốn hiểu skill tree trước khi setup | [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md#skill-tree-setup-theo-game) |
 | Đã level 70 hoặc muốn chuẩn bị endgame | [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md), hoặc file `Cuối Game` của Oath đang chơi trong mục Build |
 | Nhân vật đang yếu/chết/thiếu damage | [Checklist Nhân Vật Hiện Tại](docs/checklist-nhan-vat-hien-tai.md) |

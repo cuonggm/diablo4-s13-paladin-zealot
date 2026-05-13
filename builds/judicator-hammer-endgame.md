@@ -12,7 +12,7 @@ Mục tiêu: endgame Paladin `Judicator Oath` dùng `Blessed Hammer` làm damage
 
 Triết lý: build này cần tempo và vị trí. `Blessed Hammer` mạnh khi enemy ở đúng vùng hit và mark/debuff được giữ ổn. Nếu thiếu setup, sheet damage cao vẫn không chuyển thành clear thật.
 
-Dấu ấn riêng: endgame chia 3 mode: `Hammer Inquisitor` mặc định theo baseline cộng đồng, `Condemn Court` cho pack tản, `Bolt Inquisitor` cho lúc thiếu mark/resource. Mỗi mode giữ lõi hammer, chỉ đổi một slot.
+Dấu ấn riêng: endgame chia 3 mode: `Hammer Inquisitor` làm lõi hammer/aura, `Condemn Court` cho pack tản, `Bolt Inquisitor` cho lúc thiếu mark/resource. Mỗi mode giữ damage engine, chỉ đổi một slot.
 
 ## Kết Luận Nhanh
 
@@ -20,7 +20,7 @@ Dấu ấn riêng: endgame chia 3 mode: `Hammer Inquisitor` mặc định theo b
 |---|---|---|
 | Endgame nên giữ `Judicator Oath` khi muốn lối chơi mark-and-burst bằng `Blessed Hammer`. | Verified + Inference | Đây là Oath hợp nhất với fantasy thẩm phán/búa thánh. |
 | Skill bar mặc định nên dùng `Rally / Blessed Hammer / Purify / Fanaticism Aura / Defiance Aura / Holy Light Aura`. | Community | Đây là baseline Hammerdin Judicator endgame của Icy Veins Season 13. |
-| Dự án dùng `Condemn` hoặc `Holy Bolt` làm safety variant nếu pack tản, thiếu mark hoặc thiếu Faith. | Inference + Needs testing | Chỉ đổi khi baseline cộng đồng không giải quyết được vấn đề thật. |
+| Dự án dùng `Condemn` hoặc `Holy Bolt` làm safety variant nếu pack tản, thiếu mark hoặc thiếu Faith. | Inference + Needs testing | Chỉ đổi khi bar mặc định không giải quyết đúng vấn đề thật. |
 | `Fanaticism Aura` tăng nhịp spender và crit; `Defiance Aura` là nút an toàn khi đứng gần. | Community + Inference | Bỏ Defiance chỉ khi defense đã dư. |
 | Điểm yếu cần test là boss di chuyển và Faith downtime. | Needs testing | Nếu hammer không trúng hoặc thiếu resource, build yếu do delivery chứ chưa chắc do damage thấp. |
 
@@ -94,6 +94,20 @@ Dùng khi:
 - Muốn học rõ nhịp mark trước khi tối ưu aura package.
 
 Rollback khi đã có đủ mark/resource, vì mất `Holy Light Aura` sẽ giảm aura/Holy pressure.
+
+## Luật Flex Của Hammer Inquisitor
+
+Judicator endgame cần ưu tiên delivery trước multiplier. `Blessed Hammer` chỉ mạnh khi có `Judgement` và mục tiêu ở trong vùng hit đủ lâu. Vì vậy flex slot nên trả lời câu hỏi: thiếu mark, thiếu vị trí, thiếu sống hay thiếu boss damage?
+
+| Trục cần chỉnh | Skill ứng viên | Khi chọn | Vì sao hợp cơ chế |
+|---|---|---|---|
+| Nguồn Judgement | `Holy Light Aura`, `Holy Bolt` | Aura khi farm mượt; Basic khi boss/resource khựng | Không có mark thì Core Judicator mất phần lớn lý do tồn tại |
+| Giữ mục tiêu | `Condemn` | Pack tản, elite kéo minion, Helltide đông | Hammer zone cần enemy đứng lại, không chỉ cần damage cao |
+| Boss/sustain | `Purify` | Boss, elite nguy hiểm, cần cleanse/sustain | Boss không cần pull nhiều; cần window ổn định hơn |
+| Damage window | `Fanaticism Aura` | Mặc định khi spender là nguồn damage chính | Attack Speed/Crit giúp hammer spam và proc ổn hơn |
+| Defensive latch | `Defiance Aura`, shield | Push, Hardcore, CC nhiều | Đứng cast mà bị CC chết thì mọi setup Judgement vô nghĩa |
+
+Tự suy luận variant hợp lý: nếu boss chậm nhưng pack nhanh, đừng đổi `Blessed Hammer`; đổi nguồn window trước (`Purify`, `Holy Bolt`, debuff). Nếu pack chậm nhưng boss ổn, đừng thêm single-target; đổi delivery (`Condemn`, vị trí đứng, hammer size).
 
 ## Gear Priority
 

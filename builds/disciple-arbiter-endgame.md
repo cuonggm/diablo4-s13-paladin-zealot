@@ -92,6 +92,20 @@ Dùng khi:
 - Hardcore.
 - Bạn cần học mechanic hơn là tối đa clear speed.
 
+## Luật Flex Của Arbiter Wing
+
+Disciple endgame phải giữ một câu hỏi trung tâm: làm sao giữ `Arbiter` window đủ lâu mà không chết khi window hết? Vì vậy flex không chỉ là damage, mà là cân bằng giữa uptime, Faith bridge, defensive latch và tốc độ map.
+
+| Trục cần chỉnh | Skill ứng viên | Khi chọn | Vì sao hợp cơ chế |
+|---|---|---|---|
+| Window uptime | `Falling Star`, `Arbiter of Justice`, CDR package | Boss hoặc elite sống qua nhiều cycle | Càng nhiều thời gian trong Arbiter, Disciple scaling càng có giá trị |
+| Resource/tempo | `Advance`, `Rally` | Faith khựng hoặc War Plans cần chạy nhanh | `Advance` bám mục tiêu, `Rally` sửa Faith và pack-to-pack |
+| Defensive latch | `Aegis`, `Defiance Aura` | Push, Hardcore, burst khó đọc | Window mạnh không đủ nếu hết window là chết |
+| Aura pressure | `Holy Light Aura`, `Fanaticism Aura` | Farm pack đông, muốn ít thao tác hơn | Aura giữ damage nền khi đang di chuyển |
+| Grouping | `Condemn` | Pack tản làm aura/window tick vào mục tiêu lẻ | Gom mục tiêu để Holy pressure và Wing Strike có giá trị hơn |
+
+Tự suy luận variant hợp lý: nếu đã có đủ CDR để gần perma-window, ưu tiên `Aegis` hoặc aura damage hơn thêm Basic. Nếu chưa có CDR/resource, giữ `Advance`/`Rally` lâu hơn; build chậm nhưng không khựng thường farm nhanh hơn build đẹp mà đứng chờ cooldown.
+
 ## Gear Priority
 
 ### Power Package

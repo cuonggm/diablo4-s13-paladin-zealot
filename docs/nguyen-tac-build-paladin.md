@@ -5,7 +5,7 @@ Checked: 2026-05-13
 ## Điều Hướng
 
 - [Trang Chủ](../README.md)
-- Liên quan: [Thuật Ngữ](thuat-ngu-va-co-che.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
+- Liên quan: [Thuật Ngữ](thuat-ngu-va-co-che.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md), [Juggernaut Bastion](../builds/juggernaut-bastion-len-cap.md), [Judicator Hammer](../builds/judicator-hammer-len-cap.md), [Disciple Arbiter](../builds/disciple-arbiter-len-cap.md), [Nhật Ký Test](../notes/nhat-ky-test.md)
 
 File này ghi quan điểm build riêng của dự án. Guide cộng đồng là dữ liệu đối chiếu; build cuối cùng phải phục vụ cách chơi thật: vào pack mượt, giết đúng mục tiêu, không chết vô lý, không đứng chờ resource, và vẫn giữ fantasy Paladin.
 
@@ -30,6 +30,30 @@ File này ghi quan điểm build riêng của dự án. Guide cộng đồng là
 | Defense latch | Khi bị CC/burst thì nút nào giữ mạng: `Defiance Aura`, `Aegis`, shield, Fortify, DR? |
 | Tempo | Di chuyển pack-to-pack bằng gì: `Rally`, `Advance`, `Falling Star`, Movement Speed? |
 | Evidence | Sau 15-30 phút, số lần chết, potion pressure, boss time và resource feel nói gì? |
+
+## Khung Flex Theo Oath
+
+Mỗi Oath nên có một lõi không đổi và 1-2 slot flex. Nếu phải đổi 3 slot trở lên để build chạy được, thường đó là dấu hiệu đang chuyển sang build khác, không còn là variant nhỏ.
+
+| Oath | Lõi nên giữ | Slot flex thật sự | Câu hỏi trước khi đổi |
+|---|---|---|---|
+| `Zealot` | `Zealot Oath`, `Zeal`, `Zenith`, `Fanaticism Aura`, một nguồn Faith/tempo | `Defiance Aura`, `Condemn`, `Falling Star`, `Aegis`, variant `Zenith` | Đang thiếu sống, thiếu gom pack, thiếu boss burst hay thiếu tốc độ? |
+| `Juggernaut` | `Juggernaut Oath`, một Core shield đúng tag, shield/Block package, `Defiance Aura`, một nguồn Faith | `Aegis`, `Falling Star`, `Condemn`, `Fanaticism Aura`, `Holy Light Aura`, `Fortress` | Damage chưa vào mục tiêu hay đã vào nhưng số quá thấp? Chết do thiếu DR hay do đứng sai? |
+| `Judicator` | `Judicator Oath`, `Blessed Hammer` hoặc Core Judicator, một nguồn `Judgement`, một công cụ giữ enemy trong vùng hit | `Holy Bolt`, `Holy Light Aura`, `Condemn`, `Purify`, `Fanaticism Aura`, `Defiance Aura` | Vấn đề là thiếu mark, hammer quay hụt, cạn Faith hay thiếu sống? |
+| `Disciple` | `Disciple Oath`, một skill cooldown để vào `Arbiter`, Holy/aura package, một nút thoát CC/burst | `Advance`, `Rally`, `Aegis`, `Condemn`, `Holy Light Aura`, `Arbiter of Justice` | Window có đủ uptime không, hay bạn chết/khựng ngoài window? |
+
+Nguyên tắc suy luận: slot flex phải giải quyết một nút nghẽn cụ thể. `Condemn` không phải "thêm damage"; nó là cách ép enemy đứng đúng chỗ. `Aegis` không phải "một nút thủ nữa"; nó là quyền đứng lại trong burst window. `Rally` không chỉ là chạy nhanh; nó là bridge cho Faith và tempo. Nếu không mô tả được skill flex giải quyết vấn đề nào, chưa nên đổi.
+
+## Bảng Đổi Skill Theo Triệu Chứng
+
+| Triệu chứng | Skill nên thử | Lý do cơ chế | Dấu hiệu rollback |
+|---|---|---|---|
+| Pack tản, burst hụt | `Condemn` | Pull/Stun giúp Core/Ultimate/aura hit nhiều mục tiêu hơn | Vẫn phải chase quái lẻ hoặc chết vì mất defensive slot |
+| Chết vì CC/burst | `Defiance Aura`, `Aegis`, `Fortress` | Unstoppable, Block, DR hoặc immune window cho phép đứng đánh tiếp | Clear chậm hơn nhưng số lần chết không giảm |
+| Cạn Faith | `Clash`, `Holy Bolt`, `Advance`, `Rally` | Basic/Rally là cầu nối giữa spender và cooldown | Damage tụt rõ mà resource vẫn khựng |
+| Boss di chuyển làm hụt damage | Basic/Core ổn định hơn, `Purify`, variant single-target | Giảm phụ thuộc vào pack/AoE và canh window boss | Pack clear mất quá nhiều tốc độ |
+| Farm chậm nhưng không chết | `Falling Star`, `Rally`, bớt một slot thủ | Giảm thời gian pack-to-pack, tăng uptime combat | Potion pressure tăng hoặc chết vì lao sai |
+| Damage thấp nhưng rotation mượt | `Fanaticism Aura`, debuff, rank/Aspect đúng tag | Tăng throughput cho engine đang hoạt động | Damage tăng không rõ sau 15-30 phút test |
 
 ## Kiến Trúc Zealot Zenith Riêng
 

@@ -78,6 +78,20 @@ Clash / Shield Bash / Defiance Aura / Rally / Aegis / Holy Light Aura
 
 `Shield Bash` là `Core`, `Juggernaut`, `Physical`, nên giữ Oath engine rõ hơn trong giai đoạn chưa có variant.
 
+## Khung Suy Luận Và Flex Slot
+
+Lõi của `Bastion` leveling là: `Juggernaut Oath`, một Core shield đúng tag, `Clash` để giữ Faith/Resolve, `Defiance Aura` để không chết vì CC, và `Rally` để tank không bị ì. Hai slot còn lại là nơi sửa vấn đề thật.
+
+| Vấn đề đang gặp | Đổi skill | Lý do suy luận | Rollback |
+|---|---|---|---|
+| Chưa mở `Shield of Retribution` | `Blessed Shield -> Shield Bash` | Giữ Core đúng `Juggernaut`, tận dụng Resolve/Block sớm hơn | Quay lại Blessed Shield khi đã có variant và shield package tốt |
+| Pack tản, shield trúng ít mục tiêu | `Holy Light Aura -> Condemn` | Pull/Stun làm shield path/pulse có nhiều mục tiêu thật | Nếu mất sustain và phải uống potion nhiều |
+| Farm quá chậm nhưng không chết | `Aegis -> Falling Star` | Đổi một nút thủ lấy engage/di chuyển pack-to-pack | Nếu lao vào sai vị trí và mất máu nhanh |
+| Boss/elite quá lâu nhưng sống dư | `Holy Light Aura -> Fanaticism Aura` | Attack Speed/Crit/debuff giúp Core shield có window rõ hơn | Nếu thiếu heal/Fortify hoặc chết vì đứng lâu |
+| Vào difficulty mới bị đau | Giữ `Aegis`, giữ `Defiance Aura`, dùng shield tốt hơn | Sửa breakpoint sống trước, vì tank chết thì DPS thực tế bằng 0 | Chỉ giảm defense khi 2-3 run liền không còn potion pressure |
+
+Quy tắc riêng: không đổi `Clash` và `Rally` cùng lúc trong leveling. Nếu vừa mất generator vừa mất Faith bridge, rất khó biết build yếu vì thiếu damage hay thiếu resource.
+
 ### Oath / Class Mechanic
 
 Chọn:
