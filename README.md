@@ -11,6 +11,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 |---|---|
 | Mới mở folder này | [Lộ Trình Chơi](docs/lo-trinh-choi.md) |
 | Chưa chắc Season 13/Paladin hiện tại là gì | [Tổng Quan Mùa 13](research/tong-quan-mua-13.md) + [Trạng Thái Paladin](research/trang-thai-paladin.md) |
+| Muốn hiểu từng cơ chế Season 13 đang hỗ trợ | [Cơ Chế Game Season 13](docs/co-che/README.md) |
 | Muốn chơi Paladin theo hướng hiện tại: Zealot + Zenith | [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md) |
 | Muốn hiểu skill tree trước khi setup | [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md#skill-tree-setup-theo-game) |
 | Đã level 70 hoặc muốn chuẩn bị endgame | [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md) |
@@ -36,6 +37,27 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 | [Nguyên Tắc Build Paladin](docs/nguyen-tac-build-paladin.md) | Quan điểm build riêng: suy luận theo cơ chế, module skill và test thực chiến. |
 | [Checklist Nhân Vật Hiện Tại](docs/checklist-nhan-vat-hien-tai.md) | Chẩn đoán damage, defense, resource, gear, mobility. |
 
+### Cơ Chế Season 13
+
+| File | Dùng để làm gì |
+|---|---|
+| [Cơ Chế Game Season 13](docs/co-che/README.md) | Mục lục toàn bộ cơ chế đang hỗ trợ, chia theo nhóm đọc. |
+| [Realm Và Season Rank](docs/co-che/realm-season-rank.md) | Chọn Seasonal/Eternal, Season Rank, Blessings và reward mùa. |
+| [Skill Tree Và Skill Variants](docs/co-che/skill-tree-va-skill-variants.md) | Đọc Skill Tree mới, Bonus Skill Variants và cách chọn skill bar. |
+| [Paladin: Faith, Oaths, Auras](docs/co-che/paladin-faith-oaths-aura.md) | Cơ chế riêng của Paladin: Faith, Oaths, Aura, skill category. |
+| [Combat Và Defense](docs/co-che/combat-defense-rotation.md) | Rotation thực chiến, defensive layers, bossing, controller vs mouse/keyboard. |
+| [Leveling Và Difficulty](docs/co-che/leveling-difficulty-torment.md) | Level cap 70, Torment 12, khi nào tăng/giảm difficulty. |
+| [Itemization, Tempering, Masterworking](docs/co-che/itemization-tempering-masterworking.md) | Đọc gear, affix, GA, Aspect, Unique, Tempering và Masterworking. |
+| [Talisman, Seal, Charm](docs/co-che/talisman-seal-charm.md) | Dùng Seal/Charm/set bonus như một lớp build mới. |
+| [Horadric Cube](docs/co-che/horadric-cube-crafting.md) | Crafting, reroll, transmute, upgrade gear, charm, gem và rune. |
+| [Gems, Runes, Socketables](docs/co-che/gems-runes-socketables.md) | Chọn gem/rune theo damage type, defense gap và Runeword trigger. |
+| [Paragon Và Glyph](docs/co-che/paragon-glyph.md) | Chọn Paragon/Glyph theo skill tag, Oath và mục tiêu activity. |
+| [War Plans Và Endgame Loop](docs/co-che/war-plans-endgame-loop.md) | Tạo endgame playlist, chọn activity theo mục tiêu, nhận War Chest. |
+| [Activities Và Boss Farming](docs/co-che/activities-boss-farming.md) | Helltide, Whispers, NMD, Pit, Lair Bosses, Hordes, Undercity, Tower. |
+| [Loot Filter](docs/co-che/loot-filter.md) | Rule, condition, show/hide/recolor, filter leveling và endgame. |
+| [Map Overlay, Pathfinder, QoL](docs/co-che/map-overlay-pathfinder-qol.md) | Thiết lập map overlay, pathfinder, War Plan teleport, Party Finder. |
+| [Fishing Và Echoing Hatred](docs/co-che/fishing-echoing-hatred.md) | Phân biệt hoạt động thư giãn và thử thách survival hiếm. |
+
 ### Build
 
 | File | Dùng để làm gì |
@@ -53,13 +75,14 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 1. Đọc [Tổng Quan Mùa 13](research/tong-quan-mua-13.md) để biết patch/hệ thống nền.
 2. Đọc [Trạng Thái Paladin](research/trang-thai-paladin.md) để xác nhận class, Oath, Faith và fantasy.
-3. Đọc [Nguyên Tắc Build Paladin](docs/nguyen-tac-build-paladin.md) để hiểu cách tự suy luận build khác guide truyền thống.
-4. Mở [Thuật Ngữ](docs/thuat-ngu-va-co-che.md) khi gặp thuật ngữ lạ.
-5. Đọc [Lộ Trình Chơi](docs/lo-trinh-choi.md) để biết nên làm gì theo level.
-6. Setup build bằng [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md).
-7. Khi cần hiểu vì sao chọn skill, đọc phần [Skill Tree Setup Theo Game](builds/zealot-zenith-len-cap.md#skill-tree-setup-theo-game).
-8. Sau level 70, chuyển sang [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md).
-9. Mỗi lần đổi lớn, ghi vào [Nhật Ký Test](notes/nhat-ky-test.md).
+3. Mở [Cơ Chế Game Season 13](docs/co-che/README.md), rồi đọc các cơ chế đúng vấn đề đang gặp.
+4. Đọc [Nguyên Tắc Build Paladin](docs/nguyen-tac-build-paladin.md) để hiểu cách tự suy luận build khác guide truyền thống.
+5. Mở [Thuật Ngữ](docs/thuat-ngu-va-co-che.md) khi gặp thuật ngữ lạ.
+6. Đọc [Lộ Trình Chơi](docs/lo-trinh-choi.md) để biết nên làm gì theo level.
+7. Setup build bằng [Zealot Zenith Lên Cấp](builds/zealot-zenith-len-cap.md).
+8. Khi cần hiểu vì sao chọn skill, đọc phần [Skill Tree Setup Theo Game](builds/zealot-zenith-len-cap.md#skill-tree-setup-theo-game).
+9. Sau level 70, chuyển sang [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md).
+10. Mỗi lần đổi lớn, ghi vào [Nhật Ký Test](notes/nhat-ky-test.md).
 
 ## Quy Tắc Khi Dùng Tài Liệu
 

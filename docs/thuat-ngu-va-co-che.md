@@ -5,7 +5,7 @@ Checked: 2026-05-13
 ## Điều Hướng
 
 - [Trang Chủ](../README.md)
-- Liên quan: [Tổng Quan Mùa 13](../research/tong-quan-mua-13.md), [Trạng Thái Paladin](../research/trang-thai-paladin.md), [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md), [Lộ Trình Chơi](lo-trinh-choi.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md)
+- Liên quan: [Tổng Quan Mùa 13](../research/tong-quan-mua-13.md), [Trạng Thái Paladin](../research/trang-thai-paladin.md), [Cơ Chế Game Season 13](co-che/README.md), [Nguyên Tắc Build Paladin](nguyen-tac-build-paladin.md), [Lộ Trình Chơi](lo-trinh-choi.md), [Checklist Nhân Vật Hiện Tại](checklist-nhan-vat-hien-tai.md), [Zealot Zenith Lên Cấp](../builds/zealot-zenith-len-cap.md), [Zealot Zenith Cuối Game](../builds/zealot-zenith-endgame.md)
 
 File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh để khớp UI, patch note và guide cộng đồng; phần ghi chú giải thích ngắn bằng tiếng Việt.
 
@@ -21,6 +21,8 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 | `Aspect`, `Unique`, `Mythic Unique`, `GA`, `Tempering`, `Masterworking` | [Gear và Itemization](#gear-itemization) |
 | `War Plans`, `Talisman`, `Horadric Cube`, `Loot Filter`, `Map Overlay` | [Season 13 Systems](#season-13-systems) |
 | `Helltide`, `Whispers`, `Nightmare Dungeon`, `The Pit`, `Lair Bosses` | [Activities](#activities) |
+
+Nếu cần hướng dẫn thực hành chi tiết theo từng hệ thống, đọc [Cơ Chế Game Season 13](co-che/README.md). File hiện tại giữ vai trò glossary ngắn.
 
 <a id="source-status"></a>
 ## Trạng Thái Nguồn
