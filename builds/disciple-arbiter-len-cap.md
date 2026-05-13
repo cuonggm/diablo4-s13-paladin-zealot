@@ -29,7 +29,7 @@ Sources:
 - Blizzard - Diablo IV Patch Notes 3.0.2, 2026-05-13: https://news.blizzard.com/en-us/article/24271857/diablo-iv-patch-notes
 - Blizzard - Paladin class overview: https://news.blizzard.com/en-us/article/24244399/wield-divine-might-as-the-paladin
 - Icy Veins - Blessed Hammer Paladin Leveling, community guide Season 13: https://www.icy-veins.com/d4/guides/blessed-hammer-paladin-leveling-build/
-- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-talents/
+- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-skills/
 
 ## Build Identity
 

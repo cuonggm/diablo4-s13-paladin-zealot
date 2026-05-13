@@ -30,7 +30,7 @@ Sources:
 - Blizzard - Paladin class overview: https://news.blizzard.com/en-us/article/24244399/wield-divine-might-as-the-paladin
 - Icy Veins - Arbiter Disciple Paladin Endgame, community guide Season 13: https://www.icy-veins.com/d4/guides/arbiter-paladin-build/
 - Icy Veins - Auradin Paladin Endgame, community guide Season 13: https://www.icy-veins.com/d4/guides/auradin-paladin-build/
-- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-talents/
+- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-skills/
 
 ## Build Identity
 

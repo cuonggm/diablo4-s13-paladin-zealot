@@ -22,7 +22,7 @@ Dấu ấn riêng: `Bastion` không cố chạy nhanh như Zealot. Build giữ l
 | `Juggernaut Oath` phù hợp fantasy shield/tank vì dùng `Resolve` để tăng damage/size cho skill cùng hệ. | Verified + Community | Không nên đánh giá build chỉ bằng tốc độ clear thấp cấp; giá trị chính là ít chết và giữ vị trí tốt. |
 | `Blessed Shield` chỉ thật sự vào lõi Juggernaut khi lấy variant `Shield of Retribution`, vì base skill là Judicator. | Community | Nếu chưa mở variant này, dùng `Shield Bash` làm Core tạm để giữ đúng Oath. |
 | `Blessed Shield`/`Shield Bash` là damage nền; `Aegis` và `Defiance Aura` là hai nút phản ứng khi bị burst/CC. | Community + Inference | Nếu bấm cả hai quá sớm, lúc elite burst thật sẽ không còn cooldown. |
-| Khi pack tản làm shield ricochet kém, có thể thử `Condemn` thay `Holy Light Aura`. | Inference + Needs testing | Chỉ đổi khi không còn cần sustain/heal từ Holy Light. |
+| Khi pack tản làm shield path/pulse/ricochet trúng ít mục tiêu, có thể thử `Condemn` thay `Holy Light Aura`. | Inference + Needs testing | Chỉ đổi khi không còn cần sustain/heal từ Holy Light. |
 | Khi boss quá lâu, ưu tiên weapon item power, rank `Blessed Shield`, Block scaling và debuff uptime trước khi tăng difficulty. | Inference | Tank sống lâu nhưng boss quá chậm là dấu hiệu damage package chưa đủ. |
 
 Sources:
@@ -30,7 +30,7 @@ Sources:
 - Blizzard - Diablo IV Patch Notes 3.0.2, 2026-05-13: https://news.blizzard.com/en-us/article/24271857/diablo-iv-patch-notes
 - Blizzard - Paladin class overview: https://news.blizzard.com/en-us/article/24244399/wield-divine-might-as-the-paladin
 - Icy Veins - Blessed Shield Paladin Leveling, community guide Season 13: https://www.icy-veins.com/d4/guides/blessed-shield-paladin-leveling-build/
-- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-talents/
+- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-skills/
 
 ## Build Identity
 
@@ -129,7 +129,7 @@ Rủi ro chính: nếu quá nhiều slot phòng thủ, pack/boss sẽ chậm. Kh
 1. Giữ khoảng cách vừa đủ để `Blessed Shield` hit ổn định.
 2. Không dùng `Aegis` và `Defiance Aura` cùng lúc nếu boss chưa vào phase burst.
 3. Dùng `Rally` khi cần Faith hoặc reposition.
-4. Nếu boss không có add, đừng kỳ vọng ricochet giải quyết single-target; ưu tiên weapon, rank skill, Block scaling và debuff.
+4. Nếu boss không có add, đừng kỳ vọng shield bounce/pulse tự giải quyết single-target; ưu tiên weapon, rank skill, Block scaling và debuff.
 
 ## Gear Và Stat Priority
 
@@ -195,7 +195,7 @@ Không respec sâu chỉ vì planner endgame. Nếu đang level, một board s�
 
 | Test | Pass | Fail |
 |---|---|---|
-| Pack clear | 3 pack đông liên tiếp không chết, shield ricochet có giá trị | Phải đuổi từng quái lẻ, mất nhịp liên tục |
+| Pack clear | 3 pack đông liên tiếp không chết, shield path/pulse/ricochet có giá trị | Phải đuổi từng quái lẻ, mất nhịp liên tục |
 | Elite | Giết elite trong 1-2 defensive cycle, không hết potion | Elite sống quá lâu hoặc burst chết khi cooldown chưa hồi |
 | Boss | Có thể giữ vị trí và dùng `Blessed Shield` đều | Boss quá lâu, hết Faith, phải chạy vòng nhiều |
 | Defense | `Defiance Aura`/`Aegis` cứu được khi bị CC/burst | Chết trước khi kịp phản ứng |

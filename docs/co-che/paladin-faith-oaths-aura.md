@@ -73,7 +73,7 @@ Recommend:
 | `Condemn Harvester` | Zealot + Fanaticism + Condemn | Pack đông/tản | Nếu chết vì bỏ defense, quay về Sentinel. |
 | `Aegis Bulwark` | Zealot/Juggernaut leaning + Defiance/Aegis | Push, boss lạ, Hardcore | Nếu clear quá chậm, chỉ đổi lại 1 slot mobility. |
 | `Sunder Duelist` | Zealot hoặc Judicator leaning | Boss/elite là nút nghẽn | Nếu farm pack chậm, quay lại Zenith. |
-| `Bastion Sentinel` | Juggernaut + Defiance + Aegis | Shield/tank, push an toàn, Hardcore leaning | Nếu farm quá chậm, đổi một slot sang Falling Star/Rally. |
+| `Bastion Sentinel` | Juggernaut + Defiance + Fanaticism; thêm Aegis khi push | Shield/tank, farm ổn định, Hardcore leaning | Nếu bị burst, đổi mobility sang Aegis; nếu farm chậm, quay lại Falling Star/Rally. |
 | `Hammer Inquisitor` | Judicator + Fanaticism + Defiance | Holy hammer, mark-and-burst, pack cần gom | Nếu boss/pack hụt damage, kiểm tra mark và vị trí hammer trước. |
 | `Arbiter Wing` | Disciple + Holy Light + Fanaticism | Holy aura/window, speed farm có mobility | Nếu chết ngoài window, quay về Aegis/Defiance/shield package. |
 

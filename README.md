@@ -67,7 +67,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 | [Zealot Zenith Cuối Game](builds/zealot-zenith-endgame.md) | Build endgame đích cho hướng Zealot + Zenith + Fervor. |
 | [Juggernaut Bastion Lên Cấp](builds/juggernaut-bastion-len-cap.md) | Build leveling Oath Juggernaut: shield, Block, `Resolve`, `Blessed Shield - Shield of Retribution` hoặc `Shield Bash`. |
 | [Juggernaut Bastion Cuối Game](builds/juggernaut-bastion-endgame.md) | Build endgame Oath Juggernaut: tank/push ổn định bằng shield package và variant đúng Oath. |
-| [Judicator Hammer Lên Cấp](builds/judicator-hammer-len-cap.md) | Build leveling Oath Judicator: `Judgement`, `Blessed Hammer`, pull/stun setup. |
+| [Judicator Hammer Lên Cấp](builds/judicator-hammer-len-cap.md) | Build leveling tự suy luận cho Oath Judicator: `Judgement`, `Blessed Hammer`, pull/stun setup. |
 | [Judicator Hammer Cuối Game](builds/judicator-hammer-endgame.md) | Build endgame Oath Judicator: mark-and-burst Holy hammer. |
 | [Disciple Arbiter Lên Cấp](builds/disciple-arbiter-len-cap.md) | Build leveling Oath Disciple: `Arbiter` window, `Falling Star`, Holy mobility. |
 | [Disciple Arbiter Cuối Game](builds/disciple-arbiter-endgame.md) | Build endgame Oath Disciple: aura/Holy window, speed farm hoặc push an toàn. |

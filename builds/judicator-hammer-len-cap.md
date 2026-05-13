@@ -12,17 +12,17 @@ Mục tiêu: leveling Paladin theo hướng `Judicator Oath`, dùng `Judgement` 
 
 Triết lý: `Judicator` cần rotation rõ hơn Zealot/Juggernaut. Nếu không mark, không gom và không giữ Faith, `Blessed Hammer` sẽ chỉ là một spender đẹp mắt nhưng thiếu mục tiêu.
 
-Dấu ấn riêng: leveling dùng `Holy Bolt` làm nút mark/generator an toàn, `Blessed Hammer` làm damage chính, `Condemn` gom pack, `Defiance Aura` giữ mạng. Khi gear đủ, endgame có thể bỏ Basic hoặc đổi sang aura package.
+Dấu ấn riêng: leveling dùng `Holy Bolt` làm nút mark/generator an toàn, `Blessed Hammer` làm damage chính, `Condemn` gom pack, `Defiance Aura` giữ mạng. Đây là bản tự suy luận để có một leveling path đúng `Judicator Oath`, không phải bản copy từ guide leveling cộng đồng.
 
-Ghi chú khác guide cộng đồng: Icy Veins leveling baseline dùng `Advance / Blessed Hammer / Rally / Falling Star / Defiance Aura / Condemn`. Dự án đổi `Advance/Falling Star` sang `Holy Bolt/Fanaticism Aura` để học rõ loop `Judgement + Blessed Hammer`; nếu bạn ưu tiên tốc độ hơn mark, dùng lại baseline cộng đồng.
+Ghi chú khác guide cộng đồng: Icy Veins `Blessed Hammer` leveling hiện dùng `Disciple Oath` với `Advance / Blessed Hammer / Rally / Falling Star / Defiance Aura / Condemn`. Nếu ưu tiên ít rủi ro, hãy level bằng [Disciple Arbiter Lên Cấp](disciple-arbiter-len-cap.md), rồi respec sang [Judicator Hammer Cuối Game](judicator-hammer-endgame.md) ở level 70. File hiện tại tồn tại vì dự án cần đủ 2 build cho từng Oath.
 
 ## Kết Luận Nhanh
 
 | Kết luận | Status | Impact on Paladin |
 |---|---|---|
-| Leveling nên dùng `Holy Bolt / Blessed Hammer / Defiance Aura / Rally / Condemn / Fanaticism Aura`. | Community + Inference | Có Basic để tạo Faith/mark, Core hammer, pull/stun, defense và damage window. |
+| Leveling Judicator tự suy luận nên dùng `Holy Bolt / Blessed Hammer / Defiance Aura / Rally / Condemn / Fanaticism Aura`. | Inference + Needs testing | Có Basic để tạo Faith/mark, Core hammer, pull/stun, defense và damage window. |
 | `Judicator Oath` nên được đọc như mark-and-burst: Basic tạo `Judgement`, Core Judicator skill khai thác mark. | Verified + Inference | Nếu bỏ Basic quá sớm, phải có nguồn mark khác từ variant/gear. |
-| `Blessed Hammer` clear tốt khi enemy đứng trong quỹ đạo búa; vì vậy `Condemn` quan trọng hơn damage sheet trong leveling. | Community + Inference | Pack tản là nguyên nhân làm build thấy yếu. |
+| `Blessed Hammer` clear tốt khi enemy đứng trong quỹ đạo búa; vì vậy `Condemn` quan trọng hơn damage sheet trong leveling. | Community + Inference | Kế thừa logic từ guide Blessed Hammer, nhưng áp vào Judicator cần test riêng. |
 | `Defiance Aura` là mặc định an toàn; chỉ đổi sang `Holy Light Aura` nếu đã đủ sống và muốn thêm Holy pressure. | Inference | Leveling không nên bỏ Unstoppable nếu hay bị CC. |
 | Boss cần test riêng vì hammer AoE không tự đồng nghĩa single-target mạnh. | Needs testing | Pass nếu boss chết ổn mà không cạn Faith; fail nếu phải chạy chờ resource/cooldown. |
 
@@ -30,8 +30,9 @@ Sources:
 
 - Blizzard - Diablo IV Patch Notes 3.0.2, 2026-05-13: https://news.blizzard.com/en-us/article/24271857/diablo-iv-patch-notes
 - Blizzard - Paladin class overview: https://news.blizzard.com/en-us/article/24244399/wield-divine-might-as-the-paladin
-- Icy Veins - Blessed Hammer Paladin Leveling, community guide Season 13: https://www.icy-veins.com/d4/guides/blessed-hammer-paladin-leveling-build/
-- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-talents/
+- Icy Veins - Blessed Hammer Paladin Leveling, community Disciple baseline Season 13 dùng để so sánh: https://www.icy-veins.com/d4/guides/blessed-hammer-paladin-leveling-build/
+- Icy Veins - Blessed Hammer Judicator Endgame, community guide Season 13 dùng để đối chiếu Oath endgame: https://www.icy-veins.com/d4/guides/blessed-hammer-paladin-build/
+- Icy Veins - Paladin Skills, community guide Season 13: https://www.icy-veins.com/d4/guides/paladin-skills/
 
 ## Build Identity
 
@@ -50,7 +51,7 @@ Tên build: `Paladin - Judicator Hammer Lên Cấp`
 
 ## Skill Tree Setup Theo Game
 
-- Status: Community + Inference
+- Status: Inference + Needs testing
 - Checked: 2026-05-13
 
 Skill bar mặc định:
@@ -58,6 +59,15 @@ Skill bar mặc định:
 ```text
 Holy Bolt / Blessed Hammer / Defiance Aura / Rally / Condemn / Fanaticism Aura
 ```
+
+Baseline cộng đồng an toàn hơn nếu không cần giữ Oath từ đầu:
+
+```text
+Advance / Blessed Hammer / Rally / Falling Star / Defiance Aura / Condemn
+Oath: Disciple
+```
+
+Chỉ dùng bản `Holy Bolt` Judicator nếu bạn muốn test đúng Oath trong leveling và chấp nhận tốc độ có thể thấp hơn.
 
 | Nhóm skill tree | Chọn mặc định | Vai trò trong leveling | Có bắt buộc không? |
 |---|---|---|---|
