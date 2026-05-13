@@ -1,4 +1,4 @@
-# Gameplay Roadmap - Voryn
+# Gameplay Roadmap - Paladin
 
 Checked: 2026-05-13
 
@@ -27,7 +27,7 @@ Nếu gặp thuật ngữ như `War Plans`, `Talisman`, `Loot Filter`, `Faith`, 
 |---|---|
 | Muốn chơi mùa mới, reward mùa, reset từ đầu? | `Seasonal Realm` |
 | Muốn tiếp tục nhân vật cũ, ít áp lực mùa? | `Eternal Realm` |
-| Muốn Voryn đúng Paladin? | Paladin nếu có Lord of Hatred; xem [Paladin Status](../research/paladin-status.md) |
+| Muốn Paladin đúng Paladin? | Paladin nếu có Lord of Hatred; xem [Paladin Status](../research/paladin-status.md) |
 | Muốn lên nhanh nhưng vẫn vui? | Chọn fantasy trước, sau đó chọn build đủ AoE và mobility |
 | Muốn chơi Hardcore? | Ưu tiên defense, Unstoppable, escape skill, không tăng difficulty quá sớm |
 
@@ -41,7 +41,7 @@ Nếu gặp thuật ngữ như `War Plans`, `Talisman`, `Loot Filter`, `Faith`, 
 | Tại sao | Giai đoạn này không cần tối ưu gear; cần cảm nhận rotation và nhịp combat. |
 | Tiêu chí tăng difficulty | Quái thường chết nhanh, elite không kéo dài quá lâu, ít phải uống potion liên tục. |
 
-Với Voryn Paladin:
+Với Paladin:
 
 - Dùng một Core Skill hợp fantasy: `Blessed Hammer`, `Blessed Shield`, `Zeal`, hoặc `Shield Bash`.
 - Chọn Aura theo vấn đề hiện tại:

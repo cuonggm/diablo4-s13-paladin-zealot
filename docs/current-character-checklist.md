@@ -76,11 +76,11 @@ Tạo Loot Filter 3 tầng:
 2. `Show/Recolor`: item type bạn cần, ví dụ shield/flail/gloves/ring.
 3. `Hide`: rarity thấp hoặc item power thấp nếu không dùng làm crafting base.
 
-## Checklist Riêng Cho Voryn Paladin
+## Checklist Riêng Cho Paladin
 
 | Vấn đề | Kiểm tra |
 |---|---|
-| Thiếu [Faith](basic-terms-and-mechanics.md#paladin-voryn) | Basic Skill, Rally, modifier resource, Talisman/Aspect resource. |
+| Thiếu [Faith](basic-terms-and-mechanics.md#paladin) | Basic Skill, Rally, modifier resource, Talisman/Aspect resource. |
 | Thiếu defense | Defiance Aura, Aegis, Fortress, shield/block, Armor/Resistance. |
 | Clear chậm | Blessed Hammer/Blessed Shield/Condemn/Spear of the Heavens có đủ AoE không? |
 | Boss chậm | Judicator/Judgement, Divine Lance, Zeal, single-target modifier. |

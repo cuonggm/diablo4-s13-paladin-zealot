@@ -1,4 +1,4 @@
-# Paladin Status - Voryn
+# Paladin Status
 
 Checked: 2026-05-13
 
@@ -9,12 +9,12 @@ Checked: 2026-05-13
 
 ## Kết Luận
 
-Paladin là class chính thức của Diablo IV trong Lord of Hatred, không còn chỉ là concept roleplay. Với dự án này, Voryn nên được xem là nhân vật Paladin thật nếu account có Lord of Hatred.
+Paladin là class chính thức của Diablo IV trong Lord of Hatred, không còn chỉ là concept roleplay. Với dự án này, hướng chơi nên được xem là Paladin thật nếu account có Lord of Hatred.
 
-| Kết luận | Status | Sources | Impact on Voryn |
+| Kết luận | Status | Sources | Impact on Paladin |
 |---|---|---|---|
-| Paladin là class mới của Lord of Hatred. | Verified | Blizzard Lord of Hatred overview, Blizzard Paladin overview | Voryn không cần dùng class thay thế nếu có expansion. |
-| Paladin dùng fantasy sword/shield, Holy Light, Aura, protection, justice. | Verified | Blizzard Paladin overview | Voryn nên ưu tiên shield, Holy damage, Aura, defensive layer. |
+| Paladin là class mới của Lord of Hatred. | Verified | Blizzard Lord of Hatred overview, Blizzard Paladin overview | Không cần dùng class thay thế nếu có expansion. |
+| Paladin dùng fantasy sword/shield, Holy Light, Aura, protection, justice. | Verified | Blizzard Paladin overview | Paladin nên ưu tiên shield, Holy damage, Aura, defensive layer. |
 | Resource `Faith` xuất hiện trong nguồn chính thức; số liệu cost/generation cụ thể vẫn nên đối chiếu tooltip hoặc guide cộng đồng. | Verified + Community | Blizzard Paladin overview, Wowhead, Icy Veins | Khi test rotation, theo dõi cảm giác thiếu Faith và cách generate. |
 | Class mechanic là `Oaths` với 4 hướng: `Zealot`, `Juggernaut`, `Judicator`, `Disciple`. | Verified | Blizzard Paladin overview | Chọn Oath theo cách chơi, không chỉ theo damage sheet. |
 
@@ -32,17 +32,17 @@ Sources:
 | `Sword and Shield` | Verified | Đánh gần, có block/defense, phù hợp người thích đứng vững trong pack. |
 | `Holy Damage` | Verified | Damage type cần khớp gem, affix, Talisman, Aspect. |
 | `Auras` | Verified | Aura có passive effect và active effect; dùng để buff bản thân/party hoặc tạo utility. |
-| [`Oaths`](../docs/basic-terms-and-mechanics.md#paladin-voryn) | Verified | Oath định hình build: tốc đánh, tank, mark/detonate, hoặc angelic transformation. |
-| [`Faith`](../docs/basic-terms-and-mechanics.md#paladin-voryn) | Verified + Community | Resource chính để xài nhiều skill; nếu thiếu Faith thì build sẽ khựng. |
+| [`Oaths`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Oath định hình build: tốc đánh, tank, mark/detonate, hoặc angelic transformation. |
+| [`Faith`](../docs/basic-terms-and-mechanics.md#paladin) | Verified + Community | Resource chính để xài nhiều skill; nếu thiếu Faith thì build sẽ khựng. |
 
 ## Oaths
 
 | Oath | Status | Fantasy | Khi nên thử |
 |---|---|---|---|
-| [`Zealot`](../docs/basic-terms-and-mechanics.md#paladin-voryn) | Verified | Holy warrior đánh nhanh, tạo Fervor, hợp tốc độ và crit. | Khi muốn leveling/speed farm cảm giác mượt, nhiều hit. |
-| [`Juggernaut`](../docs/basic-terms-and-mechanics.md#paladin-voryn) | Verified | Tank templar, Resolve, shield, size/damage cho skill phòng thủ. | Khi chơi Hardcore, push khó, hoặc muốn Voryn là guardian. |
-| [`Judicator`](../docs/basic-terms-and-mechanics.md#paladin-voryn) | Verified | Judge enemy, detonate bằng Core Skill, tăng damage lên mục tiêu. | Khi muốn bossing hoặc gameplay mark-and-burst. |
-| [`Disciple`](../docs/basic-terms-and-mechanics.md#paladin-voryn) | Verified | Angelic form, Arbiter, skill cooldown và ultimate fantasy. | Khi muốn Holy caster/melee lai, mobility và visual mạnh. |
+| [`Zealot`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Holy warrior đánh nhanh, tạo Fervor, hợp tốc độ và crit. | Khi muốn leveling/speed farm cảm giác mượt, nhiều hit. |
+| [`Juggernaut`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Tank templar, Resolve, shield, size/damage cho skill phòng thủ. | Khi chơi Hardcore, push khó, hoặc muốn Paladin là guardian. |
+| [`Judicator`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Judge enemy, detonate bằng Core Skill, tăng damage lên mục tiêu. | Khi muốn bossing hoặc gameplay mark-and-burst. |
+| [`Disciple`](../docs/basic-terms-and-mechanics.md#paladin) | Verified | Angelic form, Arbiter, skill cooldown và ultimate fantasy. | Khi muốn Holy caster/melee lai, mobility và visual mạnh. |
 
 ## Skill Nhắc Đến Trong Nguồn Chính Thức
 
@@ -55,37 +55,37 @@ Sources:
 | `Justice Skills` | Purify, Consecration, Condemn, Spear of the Heavens | Control, healing, AoE, burst setup. |
 | `Ultimate Skills` | Heaven's Fury, Fortress, Zenith, Arbiter of Justice | Nút power lớn; dùng cho boss, elite pack, hoặc lúc nguy hiểm. |
 
-## Hướng Voryn Nên Test
+## Hướng Paladin Nên Test
 
-### Voryn - Blessed Hammer Disciple
+### Paladin - Blessed Hammer Disciple
 
 - Status: Community + Inference
 - Checked: 2026-05-13
 - Sources: Blizzard Paladin skills, Icy Veins Blessed Hammer leveling
 - Use case: Leveling 1-70, clear pack, fantasy Holy hammer
-- Impact on Voryn: Nên test đầu tiên nếu muốn lên level nhanh mà vẫn đúng fantasy Paladin.
+- Impact on Paladin: Nên test đầu tiên nếu muốn lên level nhanh mà vẫn đúng fantasy Paladin.
 
-### Voryn - Blessed Shield / Judicator
+### Paladin - Blessed Shield / Judicator
 
 - Status: Inference
 - Checked: 2026-05-13
 - Sources: Blizzard Paladin skills, Wowhead class overview
 - Use case: Pack clear, shield fantasy, possible boss setup bằng Judgement
-- Impact on Voryn: Hợp fantasy khiên, nhưng cần test single-target và Faith cost.
+- Impact on Paladin: Hợp fantasy khiên, nhưng cần test single-target và Faith cost.
 
-### Voryn - Juggernaut Guardian
+### Paladin - Juggernaut Guardian
 
 - Status: Inference / Needs testing
 - Checked: 2026-05-13
 - Sources: Blizzard Paladin skills, community Oath summary
 - Use case: Hardcore, defensive endgame, learning boss mechanics
-- Impact on Voryn: Rất hợp guardian fantasy, nhưng có thể chậm hơn khi speed farm.
+- Impact on Paladin: Rất hợp guardian fantasy, nhưng có thể chậm hơn khi speed farm.
 
 ## Nếu Không Có Lord of Hatred
 
 - Status: Inference
 - Checked: 2026-05-13
-- Impact on Voryn:
+- Impact on Paladin:
   - Chọn Barbarian nếu muốn melee bền, shield-like/tank fantasy bằng defensive skills, shout như aura.
   - Chọn Spiritborn nếu có Vessel of Hatred và muốn martial mobility.
   - Chọn Druid nếu muốn bền, shapeshift, nature guardian.

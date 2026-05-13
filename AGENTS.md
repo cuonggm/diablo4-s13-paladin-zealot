@@ -2,7 +2,7 @@
 
 ## Mục tiêu
 
-Dự án này dùng để nghiên cứu cách chơi, lối chơi và hướng xây dựng nhân vật Paladin trong Diablo 4 Season 13, với trọng tâm là nhân vật/concept **Voryn**.
+Dự án này dùng để nghiên cứu cách chơi, lối chơi và hướng xây dựng nhân vật Paladin trong Diablo 4 Season 13, với trọng tâm là class/concept **Paladin**.
 
 Mục tiêu của agent là tổng hợp thông tin đáng tin cậy, chuyển hóa thành ghi chú build rõ ràng, và giúp người chơi ra quyết định thực chiến về kỹ năng, trang bị, Paragon, rotation, ưu/nhược điểm và hướng farm.
 
@@ -24,7 +24,7 @@ Mục tiêu của agent là tổng hợp thông tin đáng tin cậy, chuyển h
 - Patch thay đổi class, item, rune, aspect, unique, tempering, masterworking, boss ladder, endgame.
 - Những thay đổi ảnh hưởng đến lối chơi melee, shield, holy/light, thorns, aura, support hoặc crusader/paladin fantasy.
 
-### 2. Định nghĩa Paladin/Voryn
+### 2. Định nghĩa Paladin
 
 Nếu Diablo 4 Season 13 có Paladin chính thức:
 
@@ -34,7 +34,7 @@ Nếu Diablo 4 Season 13 có Paladin chính thức:
 
 Nếu Paladin không phải class chính thức:
 
-- Định nghĩa Paladin là hướng roleplay/build fantasy của Voryn.
+- Định nghĩa Paladin là hướng roleplay/build fantasy của dự án này.
 - Tìm class gần nhất có thể thể hiện fantasy này.
 - Đánh giá các lựa chọn thay thế như shield/tank Barbarian, holy-themed Spiritborn nếu có, defensive melee, thorns, bleed/fortify, shout/aura-like gameplay.
 
@@ -86,7 +86,7 @@ Mỗi kết luận quan trọng phải có:
 - Trạng thái: `Verified`, `Community`, `Inference`, hoặc `Needs testing`.
 - Ngày kiểm tra thông tin.
 - Nguồn tham khảo nếu có.
-- Tác động đến Voryn: nên dùng, nên tránh, hay cần test thêm.
+- Tác động đến Paladin: nên dùng, nên tránh, hay cần test thêm.
 
 Ví dụ:
 

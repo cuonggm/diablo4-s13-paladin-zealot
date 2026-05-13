@@ -1,4 +1,4 @@
-# Zealot Zenith Leveling - Voryn
+# Zealot Zenith Leveling - Paladin
 
 Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
@@ -16,11 +16,11 @@ Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh)
 
 ## Kết Luận Nhanh
 
-| Kết luận | Status | Impact on Voryn |
+| Kết luận | Status | Impact on Paladin |
 |---|---|---|
 | Leveling nên dùng `Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith`. | Community + Inference | Đây là bản ổn định nhất: có Basic generator, damage nền, mobility, defense và Zenith burst. |
 | `Zeal` là damage nền khi leveling; `Zenith` là nút burst cho pack dày, elite và boss window. | Community + Inference | Đừng cố chơi Zenith như damage duy nhất khi chưa có cooldown/gear endgame. |
-| [`Fervor`](../docs/basic-terms-and-mechanics.md#paladin-voryn) vẫn là cơ chế chính: Zealot hit nhiều, crit nhiều, giữ Fervor tốt thì clear pack mượt hơn và có Fortify khi đạt max Fervor. | Verified + Community | Build càng đánh liên tục càng mạnh, nên tránh downtime do thiếu Faith hoặc chạy quá xa pack. |
+| [`Fervor`](../docs/basic-terms-and-mechanics.md#paladin) vẫn là cơ chế chính: Zealot hit nhiều, crit nhiều, giữ Fervor tốt thì clear pack mượt hơn và có Fortify khi đạt max Fervor. | Verified + Community | Build càng đánh liên tục càng mạnh, nên tránh downtime do thiếu Faith hoặc chạy quá xa pack. |
 | Leveling nên ưu tiên `Sunder` cho Zenith nếu boss/elite chậm; dùng `Empyrean Edge` nếu farm thấp và cần tốc độ. | Community + Inference | `Sermon of Steel` để dành giai đoạn gần endgame khi đã có Attack Speed/CDR tốt. |
 | Khi đạt level 70 và đủ gear/resource, chuyển sang build endgame bằng cách thay `Advance -> Falling Star`. | Inference | Đây là điểm chuyển rõ từ leveling sang `Zealot Zenith Fervor` endgame. |
 
@@ -34,7 +34,7 @@ Sources:
 
 ## Build Identity
 
-Tên build: `Voryn - Zealot Zenith Leveling`
+Tên build: `Paladin - Zealot Zenith Leveling`
 
 | Mục | Chọn |
 |---|---|
@@ -77,7 +77,7 @@ Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith
 
 ### Tác Dụng Nhanh Của Skill Chính
 
-| Skill | Nhóm / Oath / Type | Tác dụng chi tiết | Ý nghĩa cho Voryn |
+| Skill | Nhóm / Oath / Type | Tác dụng chi tiết | Ý nghĩa cho Paladin |
 |---|---|---|---|
 | `Advance` | `Basic`, `Zealot`, `Physical` | Basic generator tạo khoảng 18 Faith; lao/tiến tới trước bằng vũ khí và gây Physical damage. Modifier có thể thêm `Weaken`, +Critical Strike Chance, Fortify khi hit đầu tiên, `Unhindered`, hoặc biến thành rush tạo `Fervor` qua `Vanguard's Rush`. | Nút vào combat, bám mục tiêu và chống cạn Faith. Đây là lý do leveling không nên bỏ Basic quá sớm. |
 | `Zeal` | `Core`, `Zealot`, `Physical` | Spender tốn khoảng 20 Faith: đánh hit đầu rồi nối nhiều strike phụ. Modifier có thể thêm Fortify khi crit, thêm strike, `Weaken`, +Critical Strike Chance cao hơn lên enemy Weakened, auto-seek quanh người qua `Zealot's Legacy`, hoặc đổi sang biến thể high-risk dùng Life thay Faith. | Damage nền của build; càng nhiều hit càng tận dụng tốt `Fervor`, Attack Speed và crit. |
@@ -131,7 +131,7 @@ Tác dụng chi tiết:
 
 | Ưu tiên | Hướng chọn | Khi nào đáng lấy |
 |---|---|---|
-| 1 | Crit / Fervor / Zealot support như `Vanguard's Rush` nếu tooltip trong game đúng với nhu cầu | Mặc định cho Voryn vì build cần Fervor ổn định |
+| 1 | Crit / Fervor / Zealot support như `Vanguard's Rush` nếu tooltip trong game đúng với nhu cầu | Mặc định cho Paladin vì build cần Fervor ổn định |
 | 2 | Fortify / defensive support | Khi lên difficulty mới hoặc dùng 2H hơi mỏng |
 | 3 | Mobility / Unhindered | Khi hay bị slow/body block hoặc cần bám boss nhiều hơn |
 
@@ -276,7 +276,7 @@ Tác dụng chi tiết:
 - Duration và Movement Speed/`Unhindered` giúp chạy map, thoát slow/body block và giữ tempo giữa pack.
 - `Words of Rejuvenation` là hướng leveling rất ổn vì tăng lượng Faith tạo ra và thêm charge.
 - `Words of Inspiration` chỉ đáng lấy nếu bản build đã dùng Justice skill như `Condemn`; nó tiêu charge để giảm cooldown Justice.
-- `Words of Sacrifice` dùng Maximum Life làm chi phí và stack hiệu ứng, nên không hợp khi Voryn còn mỏng.
+- `Words of Sacrifice` dùng Maximum Life làm chi phí và stack hiệu ứng, nên không hợp khi Paladin còn mỏng.
 
 Ưu tiên modifier:
 
@@ -372,7 +372,7 @@ Khuyến nghị: trước level 70, xem `Zenith` là nút kết thúc pack hoặ
 2. Lấy modifier `Zenith` theo vấn đề đang gặp: `Sunder` cho elite/boss, `Empyrean Edge` cho speed farm thấp, `Sermon of Steel` khi gần endgame và đã có Attack Speed/CDR.
 3. Nâng `Fanaticism Aura` nếu damage window chưa rõ hoặc crit/Fervor chưa ổn.
 4. Nâng `Rally` nếu Faith cạn hoặc chạy map chậm.
-5. Nâng `Defiance Aura` nếu tăng difficulty bắt đầu làm Voryn tụt máu nhanh.
+5. Nâng `Defiance Aura` nếu tăng difficulty bắt đầu làm Paladin tụt máu nhanh.
 6. Chỉ thêm `Condemn`, `Falling Star`, `Aegis` hoặc `Consecration` sau khi biết rõ mình đang thiếu pull, mobility hay defense.
 
 ## Rotation
@@ -566,7 +566,7 @@ Ghi vào [Testing Log](../notes/testing-log.md):
 
 - Status: Inference + Community
 - Checked: 2026-05-13
-- Impact on Voryn: Đây là bản leveling nên dùng trước build endgame `Zealot Zenith Fervor`.
+- Impact on Paladin: Đây là bản leveling nên dùng trước build endgame `Zealot Zenith Fervor`.
 
 Chơi mặc định:
 

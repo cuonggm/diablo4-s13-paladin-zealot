@@ -15,7 +15,7 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 |---|---|
 | `Verified`, `Community`, `Inference`, `Needs testing` | [Trạng thái nguồn](#source-status) |
 | `Seasonal Realm`, `Eternal Realm`, `Level Cap`, `Season Rank` | [Nhân vật, Realm, Progression](#character-progression) |
-| `Faith`, `Oath`, `Fervor`, `Zealot`, `Judgement`, `Resolve`, `Arbiter` | [Paladin/Voryn](#paladin-voryn) |
+| `Faith`, `Oath`, `Fervor`, `Zealot`, `Judgement`, `Resolve`, `Arbiter` | [Paladin](#paladin) |
 | `Basic`, `Core`, `Aura`, `Valor`, `Justice`, `Ultimate`, `Rotation`, `CC` | [Skill và Combat](#skill-combat) |
 | `Armor`, `Resistance`, `Fortify`, `Barrier`, `Block`, `Unstoppable` | [Defense](#defense) |
 | `Aspect`, `Unique`, `Mythic Unique`, `GA`, `Tempering`, `Masterworking` | [Gear và Itemization](#gear-itemization) |
@@ -29,7 +29,7 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 |---|---|
 | `Verified` | Đã kiểm bằng nguồn chính thức như Blizzard news/patch notes hoặc tooltip trong game. |
 | `Community` | Đến từ guide/cộng đồng như Icy Veins, Wowhead, Maxroll, Mobalytics, Reddit, Discord. Dùng được nhưng cần đối chiếu sau patch. |
-| `Inference` | Suy luận từ dữ kiện đã có để áp dụng cho Voryn. Đây không phải xác nhận chính thức. |
+| `Inference` | Suy luận từ dữ kiện đã có để áp dụng cho Paladin. Đây không phải xác nhận chính thức. |
 | `Needs testing` | Cần test trực tiếp trong game trước khi coi là khuyến nghị ổn định. |
 
 <a id="character-progression"></a>
@@ -49,13 +49,13 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 | `Season Rank` | Objective mùa, cho reward như Skill Points, Paragon Points, material, cache. |
 | `Season Blessing` | Buff mùa mua bằng Smoldering Ashes. |
 
-<a id="paladin-voryn"></a>
-## Paladin/Voryn
+<a id="paladin"></a>
+## Paladin
 
 | Term | Ghi chú tiếng Việt |
 |---|---|
 | `Paladin` | Class chính thức trong Lord of Hatred. Xem trạng thái tại [Paladin Status](../research/paladin-status.md). |
-| `Voryn` | Nhân vật/concept của dự án này; hiện ưu tiên Paladin thật nếu account có Lord of Hatred. |
+| `Project Scope` | Bộ ghi chú này ưu tiên Paladin thật nếu account có Lord of Hatred. |
 | `Faith` | Resource của Paladin theo nguồn chính thức, guide cộng đồng và tooltip skill. Nếu thiếu Faith, rotation sẽ bị khựng. |
 | `Oath` | Class mechanic của Paladin; chọn một hướng chơi như `Zealot`, `Juggernaut`, `Judicator`, `Disciple`. |
 | `Zealot` | Oath đánh nhanh, tạo `Fervor`, hợp `Zeal`/`Zenith` và crit. |
@@ -66,7 +66,7 @@ File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh �
 | `Judgement` | Debuff/mark của Judicator; dùng cho lối đánh mark-and-burst. |
 | `Disciple` | Oath thiên về Arbiter/angelic form, cooldown và Holy fantasy. |
 | `Arbiter` | Trạng thái/biến hình thiên thần của Disciple, tăng mobility và damage theo nguồn chính thức. |
-| `Zenith` | Ultimate/Burst skill trọng tâm của hướng Voryn hiện tại. |
+| `Zenith` | Ultimate/Burst skill trọng tâm của hướng Paladin hiện tại. |
 | `Zeal` | Core Skill đánh nhanh, làm damage nền và giữ nhịp Fervor cho build Zealot. |
 
 <a id="skill-combat"></a>

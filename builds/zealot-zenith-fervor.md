@@ -1,4 +1,4 @@
-# Zealot Zenith Fervor - Voryn
+# Zealot Zenith Fervor - Paladin
 
 Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
@@ -14,14 +14,14 @@ Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh),
 
 ## Kết Luận Nhanh
 
-| Kết luận | Status | Impact on Voryn |
+| Kết luận | Status | Impact on Paladin |
 |---|---|---|
 | Build nên lấy `Zealot Oath`, vì `Fervor` làm Critical Strike của Zealot Skills echo thêm hit và khi max Fervor có thêm Fortify. | Verified | Đây là cơ chế chính, không chỉ là flavor. |
-| `Zenith` là damage/burst bắt buộc, nên chọn variant theo mục tiêu: `Sermon of Steel` để spam/sustain, `Sunder` để boss burst, `Empyrean Edge` để speed farm. | Community + Inference | Voryn dùng `Zenith` như nút kết liễu pack/elite/boss, không chỉ để trang trí rotation. |
+| `Zenith` là damage/burst bắt buộc, nên chọn variant theo mục tiêu: `Sermon of Steel` để spam/sustain, `Sunder` để boss burst, `Empyrean Edge` để speed farm. | Community + Inference | Paladin dùng `Zenith` như nút kết liễu pack/elite/boss, không chỉ để trang trí rotation. |
 | Skill bar mặc định nên dùng `Zeal`, `Zenith`, `Fanaticism Aura`, `Defiance Aura`, `Rally`, `Falling Star`. | Community + Inference | Đủ damage nền, Zenith burst, tốc độ di chuyển, Faith support và Unstoppable. |
 | Theo Icy Veins, điểm yếu chính là phụ thuộc cooldown Ultimate, chậm hơn khi gear thấp và single-target yếu hơn. | Community | Nếu boss chậm, đừng tăng Torment vội; ưu tiên `Sunder`, cooldown/resource và debuff uptime. |
 | Nếu chết nhiều, giữ `Defiance Aura` và dùng 1H + shield. Nếu sống ổn, đổi `Defiance Aura` sang `Condemn` để clear pack tản nhanh hơn. | Inference | Có hai mode rõ: an toàn và farm nhanh. |
-| Build này phụ thuộc gear hơn build leveling đơn giản; đừng kỳ vọng mạnh ngay nếu thiếu crit, attack speed, cooldown/resource và Zealot aspect. | Needs testing | Cần test theo Torment hiện tại của Voryn trước khi Masterwork sâu. |
+| Build này phụ thuộc gear hơn build leveling đơn giản; đừng kỳ vọng mạnh ngay nếu thiếu crit, attack speed, cooldown/resource và Zealot aspect. | Needs testing | Cần test theo Torment hiện tại của Paladin trước khi Masterwork sâu. |
 
 Sources:
 
@@ -33,7 +33,7 @@ Sources:
 
 ## Build Identity
 
-Tên build: `Voryn - Zealot Zenith Fervor`
+Tên build: `Paladin - Zealot Zenith Fervor`
 
 | Mục | Chọn |
 |---|---|
@@ -101,7 +101,7 @@ Dùng khi elite/boss burst quá mạnh. Bạn mất một phần mobility, nhưn
 | `Rally` | Movement Speed, Duration, Faith support, `Words of Rejuvenation` | Nếu hay cạn Faith, sửa Rally/gear trước khi đổi build. |
 | `Falling Star` | Additional Charge, Cooldown Reduction, Vulnerable/Weaken, `Fanatic Descent` nếu muốn gần Zealot hơn | Không lao thẳng vào ground effect; vào rìa pack rồi xoay vị trí. |
 | `Condemn` | Pull size, cooldown, Weaken/Vulnerable | Chỉ thay defensive slot khi đã đủ sống. |
-| `Aegis` | Cooldown Reduction, Unstoppable, Block DR | Bản shield/push dùng khi Voryn bị burst chết. |
+| `Aegis` | Cooldown Reduction, Unstoppable, Block DR | Bản shield/push dùng khi Paladin bị burst chết. |
 
 ## Gear Priority
 
@@ -231,7 +231,7 @@ Pack thường không nên bắt bạn dùng đủ mọi cooldown. Nếu pack nh
 | Chết khi `Defiance Aura` đang cooldown | Cần Aegis/shield/DR hoặc học lại timing, không tăng Torment vội. |
 | `Zeal` đang gây phần lớn damage còn Zenith chỉ phụ | Build đang lệch sang Zeal; hoặc Zenith chưa đủ gear để làm trục chính. |
 
-## Checklist Test Cho Voryn
+## Checklist Test Cho Paladin
 
 Ghi vào [Testing Log](../notes/testing-log.md) sau 1-2 dungeon hoặc boss:
 
@@ -260,7 +260,7 @@ Ghi vào [Testing Log](../notes/testing-log.md) sau 1-2 dungeon hoặc boss:
 
 - Status: Inference + Community
 - Checked: 2026-05-13
-- Impact on Voryn: Nên test làm build endgame chính nếu bạn bắt buộc muốn `Zenith` và thích Zealot tốc độ.
+- Impact on Paladin: Nên test làm build endgame chính nếu bạn bắt buộc muốn `Zenith` và thích Zealot tốc độ.
 
 Chơi bản mặc định trước:
 

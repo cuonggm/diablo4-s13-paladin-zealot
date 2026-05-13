@@ -63,7 +63,7 @@ Ghi mỗi lần đổi build, đổi difficulty, đổi gear lớn, hoặc test 
 
 ## 2026-05-12 - Baseline
 
-- Character: Voryn
+- Character: Paladin
 - Class: Paladin
 - Level: TBD
 - Realm: TBD

@@ -1,9 +1,9 @@
-# Voryn - Diablo IV Season 13
+# Paladin - Diablo IV Season 13
 
 Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
-Đây là bộ ghi chú để chơi Diablo IV Season 13 theo hướng thực dụng: biết mình đang ở giai đoạn nào, nên làm gì tiếp, vì sao việc đó có giá trị, và cách giữ fantasy Paladin/Voryn mà vẫn lên cấp, farm được, test được.
+Đây là bộ ghi chú để chơi Diablo IV Season 13 theo hướng thực dụng: biết mình đang ở giai đoạn nào, nên làm gì tiếp, vì sao việc đó có giá trị, và cách giữ fantasy Paladin mà vẫn lên cấp, farm được, test được.
 
 ## Bắt Đầu Nhanh
 
@@ -11,7 +11,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 |---|---|
 | Mới mở folder này | [Gameplay Roadmap](docs/gameplay-roadmap.md) |
 | Chưa chắc Season 13/Paladin hiện tại là gì | [Season 13 Overview](research/season-13-overview.md) + [Paladin Status](research/paladin-status.md) |
-| Muốn chơi Voryn theo hướng hiện tại: Zealot + Zenith | [Zealot Zenith Leveling](builds/zealot-zenith-leveling.md) |
+| Muốn chơi Paladin theo hướng hiện tại: Zealot + Zenith | [Zealot Zenith Leveling](builds/zealot-zenith-leveling.md) |
 | Muốn hiểu skill tree trước khi setup | [Zealot Zenith Leveling](builds/zealot-zenith-leveling.md#skill-tree-setup-theo-game) |
 | Đã level 70 hoặc muốn chuẩn bị endgame | [Zealot Zenith Fervor](builds/zealot-zenith-fervor.md) |
 | Nhân vật đang yếu/chết/thiếu damage | [Current Character Checklist](docs/current-character-checklist.md) |
@@ -25,7 +25,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 | File | Dùng để làm gì |
 |---|---|
 | [Season 13 Overview](research/season-13-overview.md) | Tổng quan Season 13, hệ thống mới, patch cần nhớ. |
-| [Paladin Status](research/paladin-status.md) | Xác định Paladin là class chính thức, Oaths, Faith, fantasy Voryn. |
+| [Paladin Status](research/paladin-status.md) | Xác định Paladin là class chính thức, Oaths, Faith và fantasy class. |
 
 ### Gameplay Docs
 
@@ -39,7 +39,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 | File | Dùng để làm gì |
 |---|---|
-| [Zealot Zenith Leveling](builds/zealot-zenith-leveling.md) | Build leveling chính hiện tại của Voryn: `Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith`. |
+| [Zealot Zenith Leveling](builds/zealot-zenith-leveling.md) | Build leveling chính hiện tại của Paladin: `Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith`. |
 | [Zealot Zenith Fervor](builds/zealot-zenith-fervor.md) | Build endgame đích cho hướng Zealot + Zenith + Fervor. |
 
 ### Log
@@ -48,7 +48,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 |---|---|
 | [Testing Log](notes/testing-log.md) | Ghi kết quả test trong game sau khi đổi skill, gear, difficulty, activity. |
 
-## Luồng Đọc Khuyến Nghị Cho Voryn
+## Luồng Đọc Khuyến Nghị Cho Paladin
 
 1. Đọc [Season 13 Overview](research/season-13-overview.md) để biết patch/hệ thống nền.
 2. Đọc [Paladin Status](research/paladin-status.md) để xác nhận class, Oath, Faith và fantasy.
