@@ -20,6 +20,7 @@ Ghi mỗi lần đổi build, đổi difficulty, đổi gear lớn, hoặc test 
 - Realm:
 - Difficulty/Torment:
 - Build:
+- Mode tested:
 - Main Skill:
 - Oath/Class Mechanic:
 - Activity tested:

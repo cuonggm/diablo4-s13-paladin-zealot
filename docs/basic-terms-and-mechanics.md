@@ -5,7 +5,7 @@ Checked: 2026-05-13
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Paladin Status](../research/paladin-status.md), [Gameplay Roadmap](gameplay-roadmap.md), [Current Character Checklist](current-character-checklist.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md)
+- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Paladin Status](../research/paladin-status.md), [Paladin Build Doctrine](paladin-build-doctrine.md), [Gameplay Roadmap](gameplay-roadmap.md), [Current Character Checklist](current-character-checklist.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md)
 
 File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh để khớp UI, patch note và guide cộng đồng; phần ghi chú giải thích ngắn bằng tiếng Việt.
 

@@ -6,13 +6,15 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Zealot Zenith Fervor](zealot-zenith-fervor.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Paladin Build Doctrine](../docs/paladin-build-doctrine.md), [Zealot Zenith Fervor](zealot-zenith-fervor.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
 
 Mục tiêu: leveling Paladin theo đúng yêu cầu hiện tại: phải dùng `Zenith` khi mở Ultimate, xoay quanh `Zealot Oath` / `Fervor`, clear được pack đông, xử lý elite/boss ổn, di chuyển cao, và không quá mỏng khi lao vào melee.
 
 Ghi chú: trước khi mở được Ultimate, build chỉ là giai đoạn "chuẩn bị cho Zenith". Khi `Zenith` mở, skill bar mới đúng bản build này.
 
 Triết lý: bản này không phải copy 1:1 từ một guide có sẵn. Guide cộng đồng được dùng để đối chiếu skill và điểm yếu, còn lựa chọn cuối cùng dựa trên mục tiêu `Zealot + Zenith`, tooltip skill, cơ chế `Fervor`, nhu cầu leveling và kết quả test.
+
+Dấu ấn riêng: leveling không bị ép thành một planner cố định. Đây là một hệ module: giữ `Zealot / Zeal / Zenith / Fanaticism`, còn slot còn lại xoay giữa `Defiance Aura`, `Condemn`, `Falling Star` hoặc `Aegis` theo vấn đề thật. Xem thêm [Paladin Build Doctrine](../docs/paladin-build-doctrine.md).
 
 Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Skill Tree Setup Theo Game](#skill-tree-setup-theo-game), [Rotation](#rotation), rồi [Gear Và Stat Priority](#gear-và-stat-priority). Các phần mô tả skill bên dưới là reference để tra khi cần.
 
@@ -26,6 +28,7 @@ Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh)
 | Leveling nên ưu tiên `Sunder` cho Zenith nếu boss/elite chậm; dùng `Empyrean Edge` nếu farm thấp và cần tốc độ. | Community + Inference | `Sermon of Steel` để dành giai đoạn gần endgame khi đã có Attack Speed/CDR tốt. |
 | Khi đạt level 70 và đủ gear/resource, chuyển sang build endgame bằng cách thay `Advance -> Falling Star`. | Inference | Đây là điểm chuyển rõ từ leveling sang `Zealot Zenith Fervor` endgame. |
 | Có thể thay skill/variant nếu tooltip hoặc gear hiện tại giải quyết vấn đề tốt hơn guide cộng đồng. | Inference + Needs testing | Ghi giả thuyết vào Testing Log trước khi kết luận mạnh/yếu. |
+| Dự án ưu tiên lối chơi `problem-first`: đổi skill để sửa vấn đề đang gặp, không đổi vì planner khác nhìn đẹp hơn. | Inference | Mỗi biến thể phải có mục tiêu test rõ: sống hơn, gom pack tốt hơn, boss nhanh hơn hoặc chạy map nhanh hơn. |
 
 Sources:
 
@@ -428,7 +431,9 @@ Boss leveling không cần chết cực nhanh. Chỉ cần boss không kéo dài
 
 ## Biến Thể Theo Vấn Đề
 
-### Bản Mặc Định - An Toàn Và Mượt
+Các tên dưới đây là quy ước riêng để ghi log nhanh, không phải tên build từ guide cộng đồng.
+
+### `Iron Pilgrim` - An Toàn Và Mượt
 
 ```text
 Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith
@@ -440,7 +445,9 @@ Dùng khi:
 - Chưa biết defense có đủ không.
 - Muốn ít chết, ít respec, ít phụ thuộc gear.
 
-### Bản Farm Nhanh Hơn
+Logic riêng: `Advance` giải quyết Faith + bám mục tiêu, `Defiance Aura` giữ mạng, `Rally` giữ tempo. Đây là bản kiểm tra nền trước khi thêm ý tưởng tham lam.
+
+### `Star Pilgrim` - Farm Nhanh Hơn
 
 Đổi:
 
@@ -456,7 +463,7 @@ Dùng khi:
 
 Rủi ro: nếu chết vì lao vào sai vị trí, quay lại `Defiance Aura`.
 
-### Bản Pack Tản / Cần Gom Quái
+### `Bellringer` - Pack Tản / Cần Gom Quái
 
 Đổi:
 
@@ -472,7 +479,7 @@ Dùng khi:
 
 Rủi ro: mất Unstoppable từ `Defiance Aura`; không nên dùng khi đang bị CC chết.
 
-### Bản Khi Hay Chết
+### `Aegis Pilgrim` - Khi Hay Chết
 
 Giữ:
 
@@ -487,6 +494,8 @@ Sau đó chỉnh:
 - Ưu tiên Armor, Resistance, Maximum Life.
 - Giữ active `Defiance Aura` cho thời điểm nguy hiểm, không dùng để mở pack thường.
 - Hạ difficulty nếu elite mất quá lâu.
+
+Nếu vẫn chết dù đã giữ `Defiance Aura`, test thay slot tạm hoặc slot mobility bằng `Aegis`. Đây là hướng chậm hơn nhưng hợp Paladin shield fantasy và giúp học boss/elite mới an toàn hơn.
 
 ## Gear Và Stat Priority
 
@@ -566,6 +575,7 @@ Ghi vào [Testing Log](../notes/testing-log.md):
 - Patch:
 - Level:
 - Difficulty:
+- Mode tested: Iron Pilgrim / Star Pilgrim / Bellringer / Aegis Pilgrim
 - Weapon setup: 1H+Shield / 2H
 - Skill bar: Advance / Zeal / Fanaticism / Defiance / Rally / Zenith
 - Zenith variant: Sunder / Empyrean Edge / Sermon of Steel
@@ -585,7 +595,14 @@ Ghi vào [Testing Log](../notes/testing-log.md):
 - Checked: 2026-05-13
 - Impact on Paladin: Đây là bản leveling nên dùng trước build endgame `Zealot Zenith Fervor`.
 
-Chơi mặc định:
+Chơi theo lộ trình riêng của dự án:
+
+1. Bắt đầu bằng `Iron Pilgrim` để lấy nền sống sót/resource.
+2. Nếu pack tản hoặc Zenith hụt nhiều mục tiêu, test `Bellringer`.
+3. Nếu content đã dễ và không chết, test `Star Pilgrim`.
+4. Nếu tăng difficulty bắt đầu đau, quay lại `Iron Pilgrim` hoặc test `Aegis Pilgrim`.
+
+Mặc định ban đầu:
 
 ```text
 Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith

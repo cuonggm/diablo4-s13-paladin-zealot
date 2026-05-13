@@ -5,9 +5,11 @@ Checked: 2026-05-13
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Glossary](basic-terms-and-mechanics.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Current Character Checklist](current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Glossary](basic-terms-and-mechanics.md), [Paladin Build Doctrine](paladin-build-doctrine.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Current Character Checklist](current-character-checklist.md), [Testing Log](../notes/testing-log.md)
 
 Mục tiêu của roadmap này là giúp bạn chơi có hướng mà không biến game thành checklist khô cứng. Nguyên tắc: mỗi buổi chơi chỉ cần có một mục tiêu chính, một tiêu chí dừng, và một điều học được.
+
+Khi phải chọn giữa guide cộng đồng và cảm giác thực tế của nhân vật, dùng [Paladin Build Doctrine](paladin-build-doctrine.md): xác định vấn đề, chọn module sửa vấn đề đó, rồi test ngắn.
 
 Nếu gặp thuật ngữ như `War Plans`, `Talisman`, `Loot Filter`, `Faith`, xem [Glossary](basic-terms-and-mechanics.md) trước.
 

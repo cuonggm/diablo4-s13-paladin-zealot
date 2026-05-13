@@ -5,9 +5,9 @@ Checked: 2026-05-13
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Gameplay Roadmap](gameplay-roadmap.md), [Glossary](basic-terms-and-mechanics.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Gameplay Roadmap](gameplay-roadmap.md), [Glossary](basic-terms-and-mechanics.md), [Paladin Build Doctrine](paladin-build-doctrine.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Testing Log](../notes/testing-log.md)
 
-File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên làm gì tiếp. Đừng sửa mọi thứ cùng lúc; chọn vấn đề lớn nhất rồi sửa trước.
+File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên làm gì tiếp. Đừng sửa mọi thứ cùng lúc; chọn vấn đề lớn nhất rồi sửa trước. Nếu cách sửa khác guide cộng đồng nhưng hợp logic, ghi giả thuyết rồi test như trong [Paladin Build Doctrine](paladin-build-doctrine.md).
 
 ## Chẩn Đoán Nhanh
 

@@ -6,13 +6,15 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Zealot Zenith Leveling](zealot-zenith-leveling.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Paladin Build Doctrine](../docs/paladin-build-doctrine.md), [Zealot Zenith Leveling](zealot-zenith-leveling.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
 
 Mục tiêu: build Paladin dùng `Zenith` bắt buộc, xoay quanh `Zealot Oath` / `Fervor`, đánh được pack đông lẫn elite/boss, di chuyển nhanh, và vẫn có lớp phòng thủ đủ cho melee.
 
 Triết lý: build endgame này là một giả thuyết thực chiến dựa trên cơ chế `Zealot`, `Fervor`, `Zenith`, Faith economy, defensive layer của Paladin và các guide cộng đồng để đối chiếu. Không cần bám 1:1 theo planner trên mạng nếu gear, tooltip hoặc vấn đề hiện tại chỉ ra lựa chọn khác hợp lý hơn.
 
-Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Skill Bar Mặc Định](#skill-bar-mặc-định), [Rotation Thực Chiến](#rotation-thực-chiến), rồi [Khi Nào Đổi Variant](#khi-nào-đổi-variant). Các phần gear/paragon là checklist để tinh chỉnh sau.
+Dấu ấn riêng: endgame không chỉ có một bản "best". Dự án dùng một bảng điều khiển 3 trục: `Sentinel` để ổn định, `Harvester` để gom/clear pack, `Bulwark` để push hoặc học boss, rồi đổi `Zenith` variant theo mục tiêu. Xem thêm [Paladin Build Doctrine](../docs/paladin-build-doctrine.md).
+
+Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Bảng Điều Khiển Mode](#bảng-điều-khiển-mode), [Rotation Thực Chiến](#rotation-thực-chiến), rồi [Khi Nào Đổi Variant](#khi-nào-đổi-variant). Các phần gear/paragon là checklist để tinh chỉnh sau.
 
 ## Kết Luận Nhanh
 
@@ -25,6 +27,7 @@ Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh),
 | Nếu chết nhiều, giữ `Defiance Aura` và dùng 1H + shield. Nếu sống ổn, đổi `Defiance Aura` sang `Condemn` để clear pack tản nhanh hơn. | Inference | Có hai mode rõ: an toàn và farm nhanh. |
 | Build này phụ thuộc gear hơn build leveling đơn giản; đừng kỳ vọng mạnh ngay nếu thiếu crit, attack speed, cooldown/resource và Zealot aspect. | Needs testing | Cần test theo Torment hiện tại của Paladin trước khi Masterwork sâu. |
 | Nếu gear thực tế lệch guide, ưu tiên sửa vòng lặp damage/resource/defense trước khi copy Paragon hoặc Mythic setup. | Inference | Build tốt là build giải quyết vấn đề đang gặp, không phải bản giống planner nhất. |
+| Hướng riêng của dự án là chơi theo mode: `Zenith Sentinel`, `Condemn Harvester`, `Aegis Bulwark`, `Sunder Duelist`. | Inference + Needs testing | Mỗi mode đổi ít slot nhưng đổi rõ mục tiêu, dễ test và dễ rollback. |
 
 Sources:
 
@@ -64,9 +67,9 @@ Mỗi chỉnh sửa nên bắt đầu từ một câu hỏi thực chiến, khô
 
 Một variant tự suy luận chỉ đáng giữ nếu sau 15-30 phút test nó cải thiện đúng vấn đề ban đầu mà không làm hỏng hai trụ cột khác: sống sót và nhịp rotation.
 
-## Skill Bar Mặc Định
+## Bảng Điều Khiển Mode
 
-### Bản An Toàn Để Bắt Đầu
+### `Zenith Sentinel` - Bản Cân Bằng Để Bắt Đầu
 
 | Slot | Skill | Vai trò |
 |---|---|---|
@@ -79,7 +82,7 @@ Một variant tự suy luận chỉ đáng giữ nếu sau 15-30 phút test nó 
 
 Đây là bản nên dùng trước nếu bạn chưa biết mình có đủ chịu đòn không. Nó không có pull, nhưng an toàn hơn vì giữ `Defiance Aura`.
 
-### Bản Farm Pack Đông / Pack Tản
+### `Condemn Harvester` - Bản Farm Pack Đông / Pack Tản
 
 Đổi:
 
@@ -95,7 +98,7 @@ Chỉ đổi khi:
 
 `Condemn` kéo/stun pack, giúp `Zenith` và `Zeal` đánh vào một cụm thay vì phí hit vào quái lẻ.
 
-### Bản Push An Toàn Hơn
+### `Aegis Bulwark` - Bản Push An Toàn Hơn
 
 Đổi:
 
@@ -104,6 +107,12 @@ Falling Star -> Aegis
 ```
 
 Dùng khi elite/boss burst quá mạnh. Bạn mất một phần mobility, nhưng có thêm Block/Unstoppable/defensive button. Bản này hợp 1H + shield.
+
+### `Sunder Duelist` - Bản Boss/Elite
+
+Giữ skill bar đang sống ổn, nhưng đổi `Zenith` sang `Sunder` nếu boss/elite là vấn đề chính.
+
+Logic riêng: khi boss không cho đứng spam lâu, một burst gọn có thể đáng hơn spam window dài. `Sunder` nên được test cùng `Fanaticism Aura`, debuff uptime và thời điểm boss đứng yên/stagger.
 
 ## Modifier / Variant Ưu Tiên
 
@@ -137,6 +146,20 @@ Dùng khi elite/boss burst quá mạnh. Bạn mất một phần mobility, nhưn
 | Cao nếu có | `Griswold's Opus` | Verified item + Inference | Hợp lối đánh nhiều direct hit, crit, heal; tốt cho 1H + shield. |
 | Tình huống | `Red Sermon` | Verified item + Needs testing | Tốt nếu muốn tăng `Zeal`, nhưng dùng 2H và hướng `Death or Glory` có rủi ro Life; không phải bắt buộc cho Zenith. |
 | Tình huống | Shield Unique tốt hoặc Legendary Shield roll đẹp | Inference | Dùng khi ưu tiên sống sót/Block hơn damage 2H. |
+
+### Power Package Theo Logic Riêng
+
+Đừng chase tất cả power cùng lúc. Chọn package theo mode đang test:
+
+| Package | Ưu tiên | Dùng cho mode |
+|---|---|---|
+| `Fervor Engine` | Zealot/Fervor aspect, Crit Chance, Attack Speed | Tất cả mode |
+| `Zenith Window` | Ultimate/Zenith support, CDR, Crit Damage, `Virtuous Aspect` | `Zenith Sentinel`, `Sunder Duelist` |
+| `Pack Compression` | Pull/CC support, Movement Speed, AoE/Weaken/Vulnerable uptime | `Condemn Harvester` |
+| `Shield Wall` | Shield, Block, DR, Armor/Resistance, Fortify, `Aegis` support | `Aegis Bulwark`, Hardcore/push |
+| `Tempo Farm` | Movement Speed, `Falling Star` charge/CDR, Rally uptime | Speed farm thấp/trung |
+
+Nếu một item mạnh trên guide không hỗ trợ package đang test, đừng ép dùng ngay. Gear tốt nhất là gear làm mode hiện tại rõ hơn.
 
 ### Stat Tấn Công
 
@@ -223,9 +246,9 @@ Pack thường không nên bắt bạn dùng đủ mọi cooldown. Nếu pack nh
 
 | Triệu chứng | Đổi gì |
 |---|---|
-| Chết vì CC/burst | Giữ `Defiance Aura`, đổi `Falling Star -> Aegis`, dùng shield, thêm Life/DR/Resistance. |
-| Pack tản, clear mất nhịp | Đổi `Defiance Aura -> Condemn` nếu đủ sống; thêm pull/CC support. |
-| Boss chậm | Dùng `Zenith - Sunder`, thêm Vulnerable/Weaken uptime, tăng Crit Damage/Zealot/Physical, kiểm tra cooldown window. |
+| Chết vì CC/burst | Chuyển sang `Aegis Bulwark`: giữ `Defiance Aura`, đổi `Falling Star -> Aegis`, dùng shield, thêm Life/DR/Resistance. |
+| Pack tản, clear mất nhịp | Chuyển sang `Condemn Harvester`: đổi `Defiance Aura -> Condemn` nếu đủ sống; thêm pull/CC support. |
+| Boss chậm | Chuyển sang `Sunder Duelist`: dùng `Zenith - Sunder`, thêm Vulnerable/Weaken uptime, tăng Crit Damage/Zealot/Physical, kiểm tra cooldown window. |
 | Zenith downtime quá lâu | Dùng `Sermon of Steel`, thêm Attack Speed/CDR, dùng Aspect hỗ trợ Ultimate/cooldown, giảm reliance vào `Zeal`. |
 | Hay cạn Faith | Ưu tiên Rally/resource affix; nếu vẫn khựng, tạm đổi `Falling Star -> Advance` để có Basic generator. |
 | Farm thấy chậm | Dùng `Empyrean Edge` hoặc giữ `Falling Star`, thêm Movement Speed, giảm bớt defensive thừa ở content thấp. |
@@ -259,6 +282,7 @@ Ghi vào [Testing Log](../notes/testing-log.md) sau 1-2 dungeon hoặc boss:
 - Patch:
 - Level / Paragon:
 - Difficulty / Torment:
+- Mode tested: Zenith Sentinel / Condemn Harvester / Aegis Bulwark / Sunder Duelist
 - Weapon setup: 1H+Shield / 2H
 - Skill bar: Zeal / Zenith / Fanaticism / Defiance / Rally / Falling Star
 - Zenith variant: Sermon of Steel / Sunder / Empyrean Edge
@@ -279,7 +303,14 @@ Ghi vào [Testing Log](../notes/testing-log.md) sau 1-2 dungeon hoặc boss:
 - Checked: 2026-05-13
 - Impact on Paladin: Nên test làm build endgame chính nếu bạn bắt buộc muốn `Zenith` và thích Zealot tốc độ.
 
-Chơi bản mặc định trước:
+Chơi theo lộ trình riêng của dự án:
+
+1. Bắt đầu bằng `Zenith Sentinel` để xác định nền damage/defense.
+2. Nếu sống ổn nhưng pack tản, test `Condemn Harvester`.
+3. Nếu boss/elite là nút nghẽn, giữ skill bar an toàn và test `Sunder Duelist`.
+4. Nếu push/boss lạ làm chết quá nhanh, test `Aegis Bulwark` trước khi hạ build.
+
+Bản khởi điểm:
 
 ```text
 Zeal / Zenith / Fanaticism Aura / Defiance Aura / Rally / Falling Star
@@ -291,4 +322,4 @@ Zeal / Zenith / Fanaticism Aura / Defiance Aura / Rally / Falling Star
 Defiance Aura -> Condemn
 ```
 
-Nếu clear nhanh hơn rõ mà không chết nhiều hơn, dùng bản `Condemn` để farm pack đông. Nếu chết, quay lại `Defiance Aura`; build melee tốt là build không làm bạn mất nhịp vì nằm sàn.
+Nếu clear nhanh hơn rõ mà không chết nhiều hơn, dùng `Condemn Harvester` để farm pack đông. Nếu chết, quay lại `Zenith Sentinel`; build melee tốt là build không làm bạn mất nhịp vì nằm sàn.

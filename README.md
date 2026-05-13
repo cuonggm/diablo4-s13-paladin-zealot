@@ -33,6 +33,7 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 |---|---|
 | [Gameplay Roadmap](docs/gameplay-roadmap.md) | Lộ trình chơi từ tạo nhân vật đến endgame, theo từng giai đoạn. |
 | [Basic Terms And Mechanics - Glossary](docs/basic-terms-and-mechanics.md) | Tra thuật ngữ, trạng thái nguồn, hệ thống Season 13 và keyword build. |
+| [Paladin Build Doctrine](docs/paladin-build-doctrine.md) | Quan điểm build riêng: suy luận theo cơ chế, module skill và test thực chiến. |
 | [Current Character Checklist](docs/current-character-checklist.md) | Chẩn đoán damage, defense, resource, gear, mobility. |
 
 ### Builds
@@ -52,12 +53,13 @@ Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 1. Đọc [Season 13 Overview](research/season-13-overview.md) để biết patch/hệ thống nền.
 2. Đọc [Paladin Status](research/paladin-status.md) để xác nhận class, Oath, Faith và fantasy.
-3. Mở [Glossary](docs/basic-terms-and-mechanics.md) khi gặp thuật ngữ lạ.
-4. Đọc [Gameplay Roadmap](docs/gameplay-roadmap.md) để biết nên làm gì theo level.
-5. Setup build bằng [Zealot Zenith Leveling](builds/zealot-zenith-leveling.md).
-6. Khi cần hiểu vì sao chọn skill, đọc phần [Skill Tree Setup Theo Game](builds/zealot-zenith-leveling.md#skill-tree-setup-theo-game).
-7. Sau level 70, chuyển sang [Zealot Zenith Fervor](builds/zealot-zenith-fervor.md).
-8. Mỗi lần đổi lớn, ghi vào [Testing Log](notes/testing-log.md).
+3. Đọc [Paladin Build Doctrine](docs/paladin-build-doctrine.md) để hiểu cách tự suy luận build khác guide truyền thống.
+4. Mở [Glossary](docs/basic-terms-and-mechanics.md) khi gặp thuật ngữ lạ.
+5. Đọc [Gameplay Roadmap](docs/gameplay-roadmap.md) để biết nên làm gì theo level.
+6. Setup build bằng [Zealot Zenith Leveling](builds/zealot-zenith-leveling.md).
+7. Khi cần hiểu vì sao chọn skill, đọc phần [Skill Tree Setup Theo Game](builds/zealot-zenith-leveling.md#skill-tree-setup-theo-game).
+8. Sau level 70, chuyển sang [Zealot Zenith Fervor](builds/zealot-zenith-fervor.md).
+9. Mỗi lần đổi lớn, ghi vào [Testing Log](notes/testing-log.md).
 
 ## Quy Tắc Khi Dùng Tài Liệu
 

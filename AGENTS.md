@@ -16,6 +16,7 @@ Mục tiêu của agent là tổng hợp thông tin đáng tin cậy, chuyển h
 - Không xem build guide cộng đồng là khuôn bắt buộc. Guide trên mạng chỉ là baseline để đối chiếu, không thay thế việc đọc tooltip, hiểu cơ chế và test thực tế.
 - Agent được phép tự suy luận build hoặc variant dựa trên mô tả skill, class mechanic, item, Aspect, Unique, Talisman, Paragon và vấn đề thực tế của nhân vật.
 - Khi đưa ra phương án tự suy luận, phải ghi rõ chuỗi lý do: cơ chế nào tương tác với cơ chế nào, kỳ vọng giải quyết vấn đề gì, điều kiện để hoạt động, rủi ro chính và cách test.
+- Ưu tiên tạo dấu ấn riêng cho tài liệu: đặt tên mode/variant rõ ràng, mô tả logic vận hành, và chỉ dùng guide truyền thống như điểm so sánh.
 - Không sao chép nguyên văn build guide dài; hãy tóm tắt, dẫn nguồn, và biến thông tin thành checklist/thực hành riêng cho dự án.
 
 ## Phạm vi cần nghiên cứu
