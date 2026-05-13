@@ -1,11 +1,11 @@
 # Current Character Checklist
 
-Checked: 2026-05-12
+Checked: 2026-05-13
 
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Gameplay Roadmap](gameplay-roadmap.md), [Basic Terms And Mechanics](basic-terms-and-mechanics.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Gameplay Roadmap](gameplay-roadmap.md), [Glossary](basic-terms-and-mechanics.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Testing Log](../notes/testing-log.md)
 
 File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên làm gì tiếp. Đừng sửa mọi thứ cùng lúc; chọn vấn đề lớn nhất rồi sửa trước.
 
@@ -18,7 +18,7 @@ File này dùng khi bạn nhìn nhân vật hiện tại và không biết nên 
 | Chết bất ngờ | Thiếu Armor/Resistance/DR, không có Unstoppable, đứng trong ground effect | Sửa defense trước damage; thêm defensive skill và gem phù hợp. |
 | Hết resource liên tục | Core Skill quá tốn, thiếu generator, thiếu resource affix/modifier | Thêm Basic/Resource generation, giảm spam, tìm Aspect/resource stat. |
 | Chạy chậm, farm mệt | Thiếu Movement Speed, Mobility skill, cooldown lệch | Thêm mobility, boots movement, dùng War Plans để giảm thời gian di chuyển. |
-| Rối vì quá nhiều đồ | Chưa có Loot Filter, chưa biết stat cần | Tạo filter đơn giản theo build hiện tại. |
+| Rối vì quá nhiều đồ | Chưa có [Loot Filter](basic-terms-and-mechanics.md#season-13-systems), chưa biết stat cần | Tạo filter đơn giản theo build hiện tại. |
 | Không vui dù vẫn mạnh | Rotation không hợp sở thích | Đổi sang build cùng class nhưng khác fantasy trước khi reroll class. |
 
 ## Quy Tắc 5 Phút Trước Khi Vào Game
@@ -80,7 +80,7 @@ Tạo Loot Filter 3 tầng:
 
 | Vấn đề | Kiểm tra |
 |---|---|
-| Thiếu Faith | Basic Skill, Rally, modifier resource, Talisman/Aspect resource. |
+| Thiếu [Faith](basic-terms-and-mechanics.md#paladin-voryn) | Basic Skill, Rally, modifier resource, Talisman/Aspect resource. |
 | Thiếu defense | Defiance Aura, Aegis, Fortress, shield/block, Armor/Resistance. |
 | Clear chậm | Blessed Hammer/Blessed Shield/Condemn/Spear of the Heavens có đủ AoE không? |
 | Boss chậm | Judicator/Judgement, Divine Lance, Zeal, single-target modifier. |

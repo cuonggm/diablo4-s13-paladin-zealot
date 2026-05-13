@@ -1,16 +1,18 @@
 # Zealot Zenith Leveling - Voryn
 
-Checked: 2026-05-13  
+Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Zealot Zenith Fervor](zealot-zenith-fervor.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Zealot Zenith Fervor](zealot-zenith-fervor.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
 
 Mục tiêu: leveling Paladin theo đúng yêu cầu hiện tại: phải dùng `Zenith` khi mở Ultimate, xoay quanh `Zealot Oath` / `Fervor`, clear được pack đông, xử lý elite/boss ổn, di chuyển cao, và không quá mỏng khi lao vào melee.
 
 Ghi chú: trước khi mở được Ultimate, build chỉ là giai đoạn "chuẩn bị cho Zenith". Khi `Zenith` mở, skill bar mới đúng bản build này.
+
+Nếu chỉ muốn setup nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Skill Tree Setup Theo Game](#skill-tree-setup-theo-game), [Rotation](#rotation), rồi [Gear Và Stat Priority](#gear-và-stat-priority). Các phần mô tả skill bên dưới là reference để tra khi cần.
 
 ## Kết Luận Nhanh
 
@@ -18,7 +20,7 @@ Ghi chú: trước khi mở được Ultimate, build chỉ là giai đoạn "chu
 |---|---|---|
 | Leveling nên dùng `Advance / Zeal / Fanaticism Aura / Defiance Aura / Rally / Zenith`. | Community + Inference | Đây là bản ổn định nhất: có Basic generator, damage nền, mobility, defense và Zenith burst. |
 | `Zeal` là damage nền khi leveling; `Zenith` là nút burst cho pack dày, elite và boss window. | Community + Inference | Đừng cố chơi Zenith như damage duy nhất khi chưa có cooldown/gear endgame. |
-| `Fervor` vẫn là cơ chế chính: Zealot hit nhiều, crit nhiều, giữ Fervor tốt thì clear pack mượt hơn và có Fortify khi đạt max Fervor. | Verified + Community | Build càng đánh liên tục càng mạnh, nên tránh downtime do thiếu Faith hoặc chạy quá xa pack. |
+| [`Fervor`](../docs/basic-terms-and-mechanics.md#paladin-voryn) vẫn là cơ chế chính: Zealot hit nhiều, crit nhiều, giữ Fervor tốt thì clear pack mượt hơn và có Fortify khi đạt max Fervor. | Verified + Community | Build càng đánh liên tục càng mạnh, nên tránh downtime do thiếu Faith hoặc chạy quá xa pack. |
 | Leveling nên ưu tiên `Sunder` cho Zenith nếu boss/elite chậm; dùng `Empyrean Edge` nếu farm thấp và cần tốc độ. | Community + Inference | `Sermon of Steel` để dành giai đoạn gần endgame khi đã có Attack Speed/CDR tốt. |
 | Khi đạt level 70 và đủ gear/resource, chuyển sang build endgame bằng cách thay `Advance -> Falling Star`. | Inference | Đây là điểm chuyển rõ từ leveling sang `Zealot Zenith Fervor` endgame. |
 
@@ -52,7 +54,7 @@ Tên build: `Voryn - Zealot Zenith Leveling`
 
 Skill tree Paladin hiện chia active skill theo 6 nhóm chính: `Basic`, `Core`, `Aura`, `Valor`, `Justice`, `Ultimate`. Build leveling này setup theo đúng thứ tự đó để dễ mở cây trong game, thay vì chỉ nhìn như 6 slot skill bar.
 
-Ghi chú số liệu: các giá trị Faith/cooldown/damage phần dưới là `Community` từ Icy Veins skill guide Season 13 và nên đối chiếu tooltip trong game sau mỗi hotfix.
+Ghi chú số liệu: các giá trị Faith/cooldown/damage phần dưới là [`Community`](../docs/basic-terms-and-mechanics.md#source-status) từ Icy Veins skill guide Season 13 và nên đối chiếu tooltip trong game sau mỗi hotfix.
 
 Skill bar mặc định khi đã mở `Ultimate`:
 
@@ -489,10 +491,11 @@ Sau đó chỉnh:
 | `Revelator's Aspect` | Community | Tăng Zealot Skill damage khi giữ Fervor tốt. |
 | `Aspect of Jacques' Fervor` | Community | Fervor thành Critical Strike Damage, tốt khi crit chance đã ổn. |
 | `Virtuous Aspect` | Community | Valor Skill tạo damage window, hợp `Rally` trước Zenith/elite. |
+| `Aspect of Glynn's Anvil` | Community | Tăng Resolve/DR package; đáng giữ nếu bản đang dùng `Aspect of Valiance`, shield hoặc cần phòng thủ. Patch 3.0.2 đã sửa lỗi aspect này. |
 | `Aspect of Might` | Community | Basic Skill cho Damage Reduction, hợp vì leveling dùng `Advance` thường xuyên. |
 | `Aspect of Valiance` | Community | Valor Skill tạo Resolve, tăng độ ổn định khi melee. |
 | `Wildbolt Aspect` | Community | Kéo enemy lại gần, giúp Zeal/Zenith clear pack tản tốt hơn. |
-| `Duelist's Aspect` | Community | Tăng Attack Speed khi dùng one-handed weapon, hợp bản 1H + shield. |
+| `Duelist's Aspect` | Community | Tăng Attack Speed khi dùng one-handed weapon, hợp bản 1H + shield. Patch 3.0.2 đã sửa một lỗi với one-handed/offhand. |
 
 Không chase perfect roll lúc leveling. Có đúng power và giúp clear nhanh/sống ổn là đủ.
 

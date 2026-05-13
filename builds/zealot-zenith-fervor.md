@@ -1,14 +1,16 @@
 # Zealot Zenith Fervor - Voryn
 
-Checked: 2026-05-13  
+Checked: 2026-05-13
 Patch tham chiếu: Diablo IV 3.0.2 Build #71886
 
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Zealot Zenith Leveling](zealot-zenith-leveling.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Glossary](../docs/basic-terms-and-mechanics.md), [Zealot Zenith Leveling](zealot-zenith-leveling.md), [Current Character Checklist](../docs/current-character-checklist.md), [Testing Log](../notes/testing-log.md)
 
 Mục tiêu: build Paladin dùng `Zenith` bắt buộc, xoay quanh `Zealot Oath` / `Fervor`, đánh được pack đông lẫn elite/boss, di chuyển nhanh, và vẫn có lớp phòng thủ đủ cho melee.
+
+Nếu chỉ muốn test nhanh: đọc [Kết Luận Nhanh](#kết-luận-nhanh), [Skill Bar Mặc Định](#skill-bar-mặc-định), [Rotation Thực Chiến](#rotation-thực-chiến), rồi [Khi Nào Đổi Variant](#khi-nào-đổi-variant). Các phần gear/paragon là checklist để tinh chỉnh sau.
 
 ## Kết Luận Nhanh
 
@@ -17,6 +19,7 @@ Mục tiêu: build Paladin dùng `Zenith` bắt buộc, xoay quanh `Zealot Oath`
 | Build nên lấy `Zealot Oath`, vì `Fervor` làm Critical Strike của Zealot Skills echo thêm hit và khi max Fervor có thêm Fortify. | Verified | Đây là cơ chế chính, không chỉ là flavor. |
 | `Zenith` là damage/burst bắt buộc, nên chọn variant theo mục tiêu: `Sermon of Steel` để spam/sustain, `Sunder` để boss burst, `Empyrean Edge` để speed farm. | Community + Inference | Voryn dùng `Zenith` như nút kết liễu pack/elite/boss, không chỉ để trang trí rotation. |
 | Skill bar mặc định nên dùng `Zeal`, `Zenith`, `Fanaticism Aura`, `Defiance Aura`, `Rally`, `Falling Star`. | Community + Inference | Đủ damage nền, Zenith burst, tốc độ di chuyển, Faith support và Unstoppable. |
+| Theo Icy Veins, điểm yếu chính là phụ thuộc cooldown Ultimate, chậm hơn khi gear thấp và single-target yếu hơn. | Community | Nếu boss chậm, đừng tăng Torment vội; ưu tiên `Sunder`, cooldown/resource và debuff uptime. |
 | Nếu chết nhiều, giữ `Defiance Aura` và dùng 1H + shield. Nếu sống ổn, đổi `Defiance Aura` sang `Condemn` để clear pack tản nhanh hơn. | Inference | Có hai mode rõ: an toàn và farm nhanh. |
 | Build này phụ thuộc gear hơn build leveling đơn giản; đừng kỳ vọng mạnh ngay nếu thiếu crit, attack speed, cooldown/resource và Zealot aspect. | Needs testing | Cần test theo Torment hiện tại của Voryn trước khi Masterwork sâu. |
 
@@ -108,9 +111,11 @@ Dùng khi elite/boss burst quá mạnh. Bạn mất một phần mobility, nhưn
 |---|---|---|---|
 | Rất cao | `Aspect of the Zealot's Covenant` | Community | Tăng Fervor cap/duration và tăng giá trị echo hit; nên đặt ở slot mạnh như amulet nếu roll tốt. |
 | Rất cao | `Revelator's Aspect` | Community | Tăng Zealot Skill damage, đặc biệt khi giữ Fervor cao. |
+| Rất cao | `Aspect of Utmost Glory` | Community | Icy Veins xếp là required cho Zealot endgame; kiểm tra tooltip/slot theo planner hiện tại trước khi imprint. |
 | Cao | `Aspect of Jacques' Fervor` | Community | Biến Fervor thành Critical Strike Damage, hợp Zenith/Zeal nhiều crit. |
 | Cao | `Aspect of Apogeic Furor` | Community | Casting Ultimate giúp reset/giảm cooldown các skill khác, làm rotation Zenith mượt hơn. |
 | Cao | `Virtuous Aspect` | Community | Dùng Valor Skill trước Zenith để tạo damage window. |
+| Cao nếu dùng Resolve | `Aspect of Glynn's Anvil` | Community | Tăng Resolve/DR package; patch 3.0.2 đã sửa lỗi aspect này, nên test lại nếu trước đó thấy không hiệu quả. |
 | Cao nếu thiếu sống | `Aspect of Might`, `Aspect of Valiance`, defensive/Barrier/Fortify aspect | Inference | Melee Zealot chết nhanh nếu chỉ đeo full offense. |
 | Cao nếu có | `Griswold's Opus` | Verified item + Inference | Hợp lối đánh nhiều direct hit, crit, heal; tốt cho 1H + shield. |
 | Tình huống | `Red Sermon` | Verified item + Needs testing | Tốt nếu muốn tăng `Zeal`, nhưng dùng 2H và hướng `Death or Glory` có rủi ro Life; không phải bắt buộc cho Zenith. |

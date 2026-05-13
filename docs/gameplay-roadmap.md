@@ -1,13 +1,15 @@
-# Gameplay Roadmap - Nên Làm Gì, Khi Nào, Ở Đâu, Như Thế Nào, Tại Sao
+# Gameplay Roadmap - Voryn
 
-Checked: 2026-05-12
+Checked: 2026-05-13
 
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Current Character Checklist](current-character-checklist.md), [Testing Log](../notes/testing-log.md)
+- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Glossary](basic-terms-and-mechanics.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md), [Current Character Checklist](current-character-checklist.md), [Testing Log](../notes/testing-log.md)
 
 Mục tiêu của roadmap này là giúp bạn chơi có hướng mà không biến game thành checklist khô cứng. Nguyên tắc: mỗi buổi chơi chỉ cần có một mục tiêu chính, một tiêu chí dừng, và một điều học được.
+
+Nếu gặp thuật ngữ như `War Plans`, `Talisman`, `Loot Filter`, `Faith`, xem [Glossary](basic-terms-and-mechanics.md) trước.
 
 ## Vòng Lặp Cốt Lõi
 
@@ -25,7 +27,7 @@ Mục tiêu của roadmap này là giúp bạn chơi có hướng mà không bi�
 |---|---|
 | Muốn chơi mùa mới, reward mùa, reset từ đầu? | `Seasonal Realm` |
 | Muốn tiếp tục nhân vật cũ, ít áp lực mùa? | `Eternal Realm` |
-| Muốn Voryn đúng Paladin? | Paladin nếu có Lord of Hatred |
+| Muốn Voryn đúng Paladin? | Paladin nếu có Lord of Hatred; xem [Paladin Status](../research/paladin-status.md) |
 | Muốn lên nhanh nhưng vẫn vui? | Chọn fantasy trước, sau đó chọn build đủ AoE và mobility |
 | Muốn chơi Hardcore? | Ưu tiên defense, Unstoppable, escape skill, không tăng difficulty quá sớm |
 
@@ -85,10 +87,10 @@ Nguyên tắc difficulty:
 | Việc cần làm | Ở đâu | Tại sao |
 |---|---|---|
 | Chốt build chính | Skill Tree, gear, Talisman | Để biết item nào đáng giữ. |
-| Dùng War Plans | Temis Command Table | Gom activity thành chuỗi có reward rõ. |
+| Dùng [War Plans](basic-terms-and-mechanics.md#season-13-systems) | Temis Command Table | Gom activity thành chuỗi có reward rõ. |
 | Nâng Glyph/Paragon | Pit/Nightmare Dungeon tùy hệ thống hiện tại | Đây là power dài hạn, không phụ thuộc may mắn drop. |
 | Săn Unique/Mythic | Lair Bosses, boss ladder, War Plan reward | Cần cho build endgame. |
-| Sửa gear | Blacksmith, Occultist, Horadric Cube | Tối ưu affix, Tempering, Masterworking, socket, rune/gem. |
+| Sửa gear | Blacksmith, Occultist, [Horadric Cube](basic-terms-and-mechanics.md#season-13-systems) | Tối ưu affix, Tempering, Masterworking, socket, rune/gem. |
 | Test bossing | Boss/lair, dummy nếu có | Build clear pack tốt chưa chắc đánh boss tốt. |
 
 ## Giai Đoạn 5 - Endgame Lặp Lại Có Chủ Đích

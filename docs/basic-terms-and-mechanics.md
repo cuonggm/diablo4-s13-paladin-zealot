@@ -1,14 +1,38 @@
-# Basic Terms And Mechanics
+# Basic Terms And Mechanics - Glossary
 
-Checked: 2026-05-12
+Checked: 2026-05-13
 
 ## Điều Hướng
 
 - [README](../README.md)
-- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Gameplay Roadmap](gameplay-roadmap.md), [Current Character Checklist](current-character-checklist.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md)
+- Liên quan: [Season 13 Overview](../research/season-13-overview.md), [Paladin Status](../research/paladin-status.md), [Gameplay Roadmap](gameplay-roadmap.md), [Current Character Checklist](current-character-checklist.md), [Zealot Zenith Leveling](../builds/zealot-zenith-leveling.md), [Zealot Zenith Fervor](../builds/zealot-zenith-fervor.md)
 
-File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch note và guide cộng đồng. Phần sau dấu gạch là ghi chú tiếng Việt.
+File này là glossary trung tâm. Thuật ngữ game giữ bằng tiếng Anh để khớp UI, patch note và guide cộng đồng; phần ghi chú giải thích ngắn bằng tiếng Việt.
 
+## Tra Nhanh
+
+| Muốn hiểu | Đọc phần |
+|---|---|
+| `Verified`, `Community`, `Inference`, `Needs testing` | [Trạng thái nguồn](#source-status) |
+| `Seasonal Realm`, `Eternal Realm`, `Level Cap`, `Season Rank` | [Nhân vật, Realm, Progression](#character-progression) |
+| `Faith`, `Oath`, `Fervor`, `Zealot`, `Judgement`, `Resolve`, `Arbiter` | [Paladin/Voryn](#paladin-voryn) |
+| `Basic`, `Core`, `Aura`, `Valor`, `Justice`, `Ultimate`, `Rotation`, `CC` | [Skill và Combat](#skill-combat) |
+| `Armor`, `Resistance`, `Fortify`, `Barrier`, `Block`, `Unstoppable` | [Defense](#defense) |
+| `Aspect`, `Unique`, `Mythic Unique`, `GA`, `Tempering`, `Masterworking` | [Gear và Itemization](#gear-itemization) |
+| `War Plans`, `Talisman`, `Horadric Cube`, `Loot Filter`, `Map Overlay` | [Season 13 Systems](#season-13-systems) |
+| `Helltide`, `Whispers`, `Nightmare Dungeon`, `The Pit`, `Lair Bosses` | [Activities](#activities) |
+
+<a id="source-status"></a>
+## Trạng Thái Nguồn
+
+| Status | Nghĩa |
+|---|---|
+| `Verified` | Đã kiểm bằng nguồn chính thức như Blizzard news/patch notes hoặc tooltip trong game. |
+| `Community` | Đến từ guide/cộng đồng như Icy Veins, Wowhead, Maxroll, Mobalytics, Reddit, Discord. Dùng được nhưng cần đối chiếu sau patch. |
+| `Inference` | Suy luận từ dữ kiện đã có để áp dụng cho Voryn. Đây không phải xác nhận chính thức. |
+| `Needs testing` | Cần test trực tiếp trong game trước khi coi là khuyến nghị ổn định. |
+
+<a id="character-progression"></a>
 ## Nhân Vật, Realm, Progression
 
 | Term | Ghi chú tiếng Việt |
@@ -25,6 +49,27 @@ File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch not
 | `Season Rank` | Objective mùa, cho reward như Skill Points, Paragon Points, material, cache. |
 | `Season Blessing` | Buff mùa mua bằng Smoldering Ashes. |
 
+<a id="paladin-voryn"></a>
+## Paladin/Voryn
+
+| Term | Ghi chú tiếng Việt |
+|---|---|
+| `Paladin` | Class chính thức trong Lord of Hatred. Xem trạng thái tại [Paladin Status](../research/paladin-status.md). |
+| `Voryn` | Nhân vật/concept của dự án này; hiện ưu tiên Paladin thật nếu account có Lord of Hatred. |
+| `Faith` | Resource của Paladin theo nguồn chính thức, guide cộng đồng và tooltip skill. Nếu thiếu Faith, rotation sẽ bị khựng. |
+| `Oath` | Class mechanic của Paladin; chọn một hướng chơi như `Zealot`, `Juggernaut`, `Judicator`, `Disciple`. |
+| `Zealot` | Oath đánh nhanh, tạo `Fervor`, hợp `Zeal`/`Zenith` và crit. |
+| `Fervor` | Stack từ Zealot; giúp Critical Strike echo thêm hit và cho Fortify khi gain ở max stack. |
+| `Juggernaut` | Oath thiên về tank, shield, `Resolve`, size/damage cho skill phòng thủ. |
+| `Resolve` | Stack phòng thủ/tank của Juggernaut, thường đi với shield/Block/DR. |
+| `Judicator` | Oath gắn `Judgement` lên mục tiêu rồi detonate bằng Core Judicator Skills. |
+| `Judgement` | Debuff/mark của Judicator; dùng cho lối đánh mark-and-burst. |
+| `Disciple` | Oath thiên về Arbiter/angelic form, cooldown và Holy fantasy. |
+| `Arbiter` | Trạng thái/biến hình thiên thần của Disciple, tăng mobility và damage theo nguồn chính thức. |
+| `Zenith` | Ultimate/Burst skill trọng tâm của hướng Voryn hiện tại. |
+| `Zeal` | Core Skill đánh nhanh, làm damage nền và giữ nhịp Fervor cho build Zealot. |
+
+<a id="skill-combat"></a>
 ## Skill Và Combat
 
 | Term | Ghi chú tiếng Việt |
@@ -32,7 +77,7 @@ File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch not
 | `Basic Skill` | Skill thường dùng để generate resource hoặc đánh khi hết resource. |
 | `Core Skill` | Skill gây damage chính, thường tốn resource. |
 | `Cooldown` | Thời gian hồi chiêu. Build tốt không bị lệ thuộc quá nhiều vào cooldown dài. |
-| `Resource` | Năng lượng class dùng để cast skill: Paladin dùng `Faith` theo community guide. |
+| `Resource` | Năng lượng class dùng để cast skill; Paladin dùng `Faith`. |
 | `Rotation` | Thứ tự/ưu tiên dùng skill trong combat. Thực tế nên nghĩ là priority, không phải combo cứng. |
 | `Engage` | Cách mở combat, ví dụ lao vào bằng Mobility hoặc gom quái bằng CC. |
 | `Crowd Control` / `CC` | Khống chế: Stun, Daze, Slow, Immobilize, Knock Down, Pull. |
@@ -48,6 +93,7 @@ File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch not
 | `Damage over Time` / `DoT` | Damage theo thời gian, không phải hit trực tiếp. |
 | `Thorns` | Damage phản lại khi bị đánh; hợp fantasy tank nhưng cần build riêng. |
 
+<a id="defense"></a>
 ## Defense
 
 | Term | Ghi chú tiếng Việt |
@@ -60,6 +106,7 @@ File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch not
 | `Block` | Chặn bằng shield hoặc cơ chế block; rất hợp Paladin. |
 | `Potion` | Bình máu; nếu uống liên tục trong pack thường là dấu hiệu thiếu defense hoặc đứng sai vị trí. |
 
+<a id="gear-itemization"></a>
 ## Gear Và Itemization
 
 | Term | Ghi chú tiếng Việt |
@@ -78,7 +125,9 @@ File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch not
 | `Gem` | Đá gắn vào gear; Season 13 weapon gem effect đã đổi mạnh theo damage type. |
 | `Rune` / `Runeword` | Hệ thống rune tạo hiệu ứng khi gắn đúng điều kiện. |
 | `Loot Filter` | Bộ lọc đồ; dùng để ẩn rác, highlight item có affix/GA/Unique cần săn. |
+| `Elixir` / `Incense` | Consumable cũ. Theo Wowhead, Season 13 Seasonal Realm đã giảm/loại phần lớn vai trò của Elixir/Incense; kiểm tra lại trong game trước khi ghi vào build. |
 
+<a id="season-13-systems"></a>
 ## Season 13 Systems
 
 | Term | Ghi chú tiếng Việt |
@@ -96,6 +145,7 @@ File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch not
 | `Map Overlay` | Bản đồ phủ lên màn hình để di chuyển dễ hơn. |
 | `Pathfinder` | Hỗ trợ chỉ đường. |
 
+<a id="activities"></a>
 ## Activities
 
 | Activity | Dùng khi nào |
@@ -109,6 +159,7 @@ File này giữ thuật ngữ game bằng tiếng Anh để khớp UI, patch not
 | `The Undercity` | Activity từ Vessel of Hatred, dùng khi cần reward mục tiêu nếu có expansion. |
 | `Artificer's Tower` | Tower/leaderboard beta, dùng để thử sức và nhận reward theo mùa. |
 
+<a id="read-build-guide"></a>
 ## Cách Đọc Một Build Guide
 
 1. Xem guide cập nhật cho patch nào.
