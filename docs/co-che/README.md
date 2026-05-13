@@ -35,6 +35,36 @@ Thư mục này tách từng cơ chế thành file riêng để đọc nhanh khi
 | Map Overlay, Pathfinder, QoL | [Map Overlay, Pathfinder, QoL](map-overlay-pathfinder-qol.md) | Có cho toàn game từ 3.0.0. |
 | Fishing và Echoing Hatred | [Fishing Và Echoing Hatred](fishing-echoing-hatred.md) | Fishing là hoạt động phụ; Echoing Hatred là thử thách hiếm. |
 
+## Season 13 Systems - File Riêng
+
+| System | File chi tiết | Đọc khi |
+|---|---|---|
+| War Plans | [War Plans](war-plans.md) | Muốn hiểu endgame playlist và cách tạo farm loop. |
+| Command Table | [Command Table](command-table.md) | Muốn biết nơi tạo War Plan và quản lý progression. |
+| Activity Points | [Activity Points](activity-points.md) | Muốn biết cách đầu tư activity trees trong War Plans. |
+| War Chest | [War Chest](war-chest.md) | Muốn claim/đánh giá reward cuối War Plan. |
+| Talisman | [Talisman](talisman.md) | Muốn hiểu lớp build mới bằng Seal và Charm. |
+| Seal | [Seal](seal.md) | Muốn chọn khung Talisman, slot và affix nền. |
+| Charm | [Charm](charm.md) | Muốn chọn affix, set bonus, Unique Charm và swap mode. |
+| Horadric Cube | [Horadric Cube](horadric-cube.md) | Muốn craft/reroll/transmute gear, charm, gem, rune. |
+| Echoing Hatred | [Echoing Hatred](echoing-hatred.md) | Muốn chuẩn bị cho rare challenge bằng Trace of Echoes. |
+| Fishing | [Fishing](fishing.md) | Muốn hiểu hoạt động collection/chill, không phải power farm. |
+| Map Overlay | [Map Overlay](map-overlay.md) | Muốn chỉnh overlay để đi đường mà không che combat. |
+| Pathfinder | [Pathfinder](pathfinder.md) | Muốn tối ưu đường đi giữa objective/activity. |
+
+## Activities - File Riêng
+
+| Activity | File chi tiết | Đọc khi |
+|---|---|---|
+| Helltide | [Helltide](helltide.md) | Cần density, gear nền, material và test pack clear. |
+| Whispers | [Whispers](whispers.md) | Muốn chồng objective/cache với War Plans. |
+| Nightmare Dungeon / NMD | [Nightmare Dungeon](nightmare-dungeon.md) | Muốn test dungeon stability, affix pressure và boss cuối. |
+| The Pit | [The Pit](the-pit.md) | Muốn push hoặc đo sức mạnh tổng thể. |
+| Lair Bosses | [Lair Bosses](lair-bosses.md) | Muốn target farm Unique/boss loot. |
+| Infernal Hordes | [Infernal Hordes](infernal-hordes.md) | Muốn test wave clear, sustain và bị bao vây. |
+| The Undercity | [The Undercity](the-undercity.md) | Muốn reward mục tiêu và material route cho Cube. |
+| Artificer's Tower | [Artificer's Tower](artificers-tower.md) | Muốn thử leaderboard/challenge và reward milestone. |
+
 ## Nên Đọc Theo Mục Tiêu Nào
 
 | Mục tiêu | Đọc theo thứ tự |

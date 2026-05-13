@@ -134,32 +134,32 @@ Nếu cần hướng dẫn thực hành chi tiết theo từng hệ thống, đ�
 
 | Term | Ghi chú tiếng Việt |
 |---|---|
-| `War Plans` | Endgame playlist tại Temis, nối nhiều activity để farm có kế hoạch. |
-| `Command Table` | Bàn ở Temis để tạo War Plan. |
-| `Activity Points` | Điểm mở cây nâng cấp activity trong War Plans. |
-| `War Chest` | Reward sau khi hoàn tất War Plan. |
-| `Talisman` | Hệ thống mới dùng Seal và Charm để thêm affix/power/set bonus. |
-| `Seal` | Mở slot Charm và quyết định khung Talisman. |
-| `Charm` | Mảnh gắn vào Talisman, cho affix hoặc set bonus. |
-| `Horadric Cube` | Crafting station ở Temis để transmute/reroll/create gear, charm, gem, rune. |
-| `Echoing Hatred` | Endgame challenge hiếm, dùng Trace of Echoes để vào. |
-| `Fishing` | Hoạt động thư giãn/collection trong Skovos và nơi có nước. |
-| `Map Overlay` | Bản đồ phủ lên màn hình để di chuyển dễ hơn. |
-| `Pathfinder` | Hỗ trợ chỉ đường. |
+| [`War Plans`](co-che/war-plans.md) | Endgame playlist tại Temis, nối nhiều activity để farm có kế hoạch. |
+| [`Command Table`](co-che/command-table.md) | Bàn ở Temis để tạo War Plan. |
+| [`Activity Points`](co-che/activity-points.md) | Điểm mở cây nâng cấp activity trong War Plans. |
+| [`War Chest`](co-che/war-chest.md) | Reward sau khi hoàn tất War Plan. |
+| [`Talisman`](co-che/talisman.md) | Hệ thống mới dùng Seal và Charm để thêm affix/power/set bonus. |
+| [`Seal`](co-che/seal.md) | Mở slot Charm và quyết định khung Talisman. |
+| [`Charm`](co-che/charm.md) | Mảnh gắn vào Talisman, cho affix hoặc set bonus. |
+| [`Horadric Cube`](co-che/horadric-cube.md) | Crafting station ở Temis để transmute/reroll/create gear, charm, gem, rune. |
+| [`Echoing Hatred`](co-che/echoing-hatred.md) | Endgame challenge hiếm, dùng Trace of Echoes để vào. |
+| [`Fishing`](co-che/fishing.md) | Hoạt động thư giãn/collection trong Skovos và nơi có nước. |
+| [`Map Overlay`](co-che/map-overlay.md) | Bản đồ phủ lên màn hình để di chuyển dễ hơn. |
+| [`Pathfinder`](co-che/pathfinder.md) | Hỗ trợ chỉ đường. |
 
 <a id="activities"></a>
 ## Activities
 
 | Activity | Dùng khi nào |
 |---|---|
-| `Helltide` | Farm gear, material, density tốt, dễ kết hợp leveling. |
-| `Whispers` | Làm objective nhanh, nhận cache, gold/material, có thể chồng với activity khác trong War Plans. |
-| `Nightmare Dungeon` / `NMD` | Farm dungeon có độ khó, material/Glyph tùy hệ thống hiện tại. |
-| `The Pit` | Push sức mạnh, nâng tiến trình endgame/Glyph tùy patch. |
-| `Lair Bosses` | Target farm Unique/boss drop. |
-| `Infernal Hordes` | Activity wave-based, farm reward nếu build clear tốt. |
-| `The Undercity` | Activity từ Vessel of Hatred, dùng khi cần reward mục tiêu nếu có expansion. |
-| `Artificer's Tower` | Tower/leaderboard beta, dùng để thử sức và nhận reward theo mùa. |
+| [`Helltide`](co-che/helltide.md) | Farm gear, material, density tốt, dễ kết hợp leveling. |
+| [`Whispers`](co-che/whispers.md) | Làm objective nhanh, nhận cache, gold/material, có thể chồng với activity khác trong War Plans. |
+| [`Nightmare Dungeon`](co-che/nightmare-dungeon.md) / `NMD` | Farm dungeon có độ khó, material/Glyph tùy hệ thống hiện tại. |
+| [`The Pit`](co-che/the-pit.md) | Push sức mạnh, nâng tiến trình endgame/Glyph tùy patch. |
+| [`Lair Bosses`](co-che/lair-bosses.md) | Target farm Unique/boss drop. |
+| [`Infernal Hordes`](co-che/infernal-hordes.md) | Activity wave-based, farm reward nếu build clear tốt. |
+| [`The Undercity`](co-che/the-undercity.md) | Activity từ Vessel of Hatred, dùng khi cần reward mục tiêu nếu có expansion. |
+| [`Artificer's Tower`](co-che/artificers-tower.md) | Tower/leaderboard beta, dùng để thử sức và nhận reward theo mùa. |
 
 <a id="read-build-guide"></a>
 ## Cách Đọc Một Build Guide
